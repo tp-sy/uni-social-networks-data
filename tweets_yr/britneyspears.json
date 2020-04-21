@@ -1,0 +1,1308 @@
+[
+    {
+        "created_at": "Tue Apr 07 21:51:08 +0000 2020",
+        "favorite_count": 88281,
+        "hashtags": [],
+        "id": 1247643096596111362,
+        "id_str": "1247643096596111362",
+        "lang": "en",
+        "retweet_count": 25910,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "Enough said\u00a0\ud83d\ude1c\ud83e\uddfc\ud83e\uddfc\ud83c\udf38\ud83c\udf38\ud83c\udf38\ud83c\udf38\u00a0and thank you to all of the healthcare workers tirelessly working to keep us safe during this t\u2026 https://t.co/nAdwJIJbjW",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1247643096596111362",
+                "url": "https://t.co/nAdwJIJbjW"
+            }
+        ],
+        "user": {
+            "id": 16409683,
+            "id_str": "16409683"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Tue Apr 07 00:13:53 +0000 2020",
+        "hashtags": [],
+        "id": 1247316632944459778,
+        "id_str": "1247316632944459778",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/foXAZ9XHh7",
+                "expanded_url": "https://twitter.com/ajmitchell/status/1247241942091493377/video/1",
+                "id": 1247241879093006336,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1247241879093006336/pu/img/-BgjXisfMI7mmoKa.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1247241879093006336/pu/img/-BgjXisfMI7mmoKa.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1280,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/foXAZ9XHh7",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 45000,
+                    "variants": [
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1247241879093006336/pu/vid/1280x720/cHr2Gy2jUh9aX6ZZ.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1247241879093006336/pu/pl/6nwdbwpkfUMio1hk.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1247241879093006336/pu/vid/640x360/blTGKzrEs1get51k.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1247241879093006336/pu/vid/480x270/VCdxVB-tkr-akY57.mp4?tag=10"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 744,
+        "retweeted_status": {
+            "created_at": "Mon Apr 06 19:17:06 +0000 2020",
+            "favorite_count": 3133,
+            "hashtags": [],
+            "id": 1247241942091493377,
+            "id_str": "1247241942091493377",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/foXAZ9XHh7",
+                    "expanded_url": "https://twitter.com/ajmitchell/status/1247241942091493377/video/1",
+                    "id": 1247241879093006336,
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1247241879093006336/pu/img/-BgjXisfMI7mmoKa.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1247241879093006336/pu/img/-BgjXisfMI7mmoKa.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "video",
+                    "url": "https://t.co/foXAZ9XHh7",
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 45000,
+                        "variants": [
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1247241879093006336/pu/vid/1280x720/cHr2Gy2jUh9aX6ZZ.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1247241879093006336/pu/pl/6nwdbwpkfUMio1hk.m3u8?tag=10"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1247241879093006336/pu/vid/640x360/blTGKzrEs1get51k.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1247241879093006336/pu/vid/480x270/VCdxVB-tkr-akY57.mp4?tag=10"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "retweet_count": 744,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "everytime by @britneyspears - full version on @Vevo https://t.co/rii9soJ13k https://t.co/foXAZ9XHh7",
+            "urls": [
+                {
+                    "expanded_url": "http://smarturl.it/AJEverytimeCoverVid",
+                    "url": "https://t.co/rii9soJ13k"
+                }
+            ],
+            "user": {
+                "id": 3369993627,
+                "id_str": "3369993627"
+            },
+            "user_mentions": [
+                {
+                    "id": 16409683,
+                    "id_str": "16409683",
+                    "name": "Britney Spears",
+                    "screen_name": "britneyspears"
+                },
+                {
+                    "id": 28201743,
+                    "id_str": "28201743",
+                    "name": "Vevo",
+                    "screen_name": "Vevo"
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "RT @ajmitchell: everytime by @britneyspears - full version on @Vevo https://t.co/rii9soJ13k https://t.co/foXAZ9XHh7",
+        "urls": [
+            {
+                "expanded_url": "http://smarturl.it/AJEverytimeCoverVid",
+                "url": "https://t.co/rii9soJ13k"
+            }
+        ],
+        "user": {
+            "id": 16409683,
+            "id_str": "16409683"
+        },
+        "user_mentions": [
+            {
+                "id": 3369993627,
+                "id_str": "3369993627",
+                "name": "AJ Mitchell",
+                "screen_name": "ajmitchell"
+            },
+            {
+                "id": 16409683,
+                "id_str": "16409683",
+                "name": "Britney Spears",
+                "screen_name": "britneyspears"
+            },
+            {
+                "id": 28201743,
+                "id_str": "28201743",
+                "name": "Vevo",
+                "screen_name": "Vevo"
+            }
+        ]
+    },
+    {
+        "created_at": "Sat Mar 28 01:08:30 +0000 2020",
+        "favorite_count": 123556,
+        "hashtags": [],
+        "id": 1243706495793074182,
+        "id_str": "1243706495793074182",
+        "lang": "en",
+        "retweet_count": 16308,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "Oops!\u2026how did 20 years go by so fast\u00a0\ud83d\ude05\ud83d\ude05\ud83d\ude44\u00a0?! I can\u2019t believe it. I remember that red suit was so freaking hot \u2026 but\u2026 https://t.co/mQA6J8jPDP",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1243706495793074182",
+                "url": "https://t.co/mQA6J8jPDP"
+            }
+        ],
+        "user": {
+            "id": 16409683,
+            "id_str": "16409683"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Mar 27 22:37:13 +0000 2020",
+        "favorite_count": 61353,
+        "hashtags": [],
+        "id": 1243668424674459648,
+        "id_str": "1243668424674459648",
+        "lang": "en",
+        "retweet_count": 7646,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "Happy Birthday @MariahCarey !! You are one of the main reasons I started singing ... your Butterfly \ud83e\udd8b album never g\u2026 https://t.co/8t5u75xuf2",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1243668424674459648",
+                "url": "https://t.co/8t5u75xuf2"
+            }
+        ],
+        "user": {
+            "id": 16409683,
+            "id_str": "16409683"
+        },
+        "user_mentions": [
+            {
+                "id": 19248106,
+                "id_str": "19248106",
+                "name": "Mariah Carey",
+                "screen_name": "MariahCarey"
+            }
+        ]
+    },
+    {
+        "created_at": "Fri Feb 28 20:31:55 +0000 2020",
+        "favorite_count": 50162,
+        "hashtags": [],
+        "id": 1233490031702093826,
+        "id_str": "1233490031702093826",
+        "lang": "und",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/4eFVgvB3Qo",
+                "expanded_url": "https://twitter.com/britneyspears/status/1233490031702093826/photo/1",
+                "id": 1233490017093345281,
+                "media_url": "http://pbs.twimg.com/media/ER48op7W4AEurMJ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ER48op7W4AEurMJ.jpg",
+                "sizes": {
+                    "medium": {
+                        "w": 685,
+                        "h": 962,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 484,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 685,
+                        "h": 962,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/4eFVgvB3Qo"
+            }
+        ],
+        "retweet_count": 5095,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "\ud83c\udf39\u2615\ufe0f \ud83c\udf39 https://t.co/4eFVgvB3Qo",
+        "urls": [],
+        "user": {
+            "id": 16409683,
+            "id_str": "16409683"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Tue Feb 11 00:31:15 +0000 2020",
+        "hashtags": [
+            {
+                "text": "Toxic"
+            }
+        ],
+        "id": 1227027282398715904,
+        "id_str": "1227027282398715904",
+        "lang": "en",
+        "retweet_count": 496,
+        "retweeted_status": {
+            "created_at": "Mon Feb 10 22:00:15 +0000 2020",
+            "favorite_count": 2868,
+            "hashtags": [
+                {
+                    "text": "Toxic"
+                }
+            ],
+            "id": 1226989281824190464,
+            "id_str": "1226989281824190464",
+            "lang": "en",
+            "retweet_count": 496,
+            "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+            "text": "Watch @kellyclarkson slay @britneyspears' #Toxic on @KellyClarksonTV \ud83c\udfa4 https://t.co/13mieQF4lx",
+            "urls": [
+                {
+                    "expanded_url": "http://blbrd.cm/GHqC1jM",
+                    "url": "https://t.co/13mieQF4lx"
+                }
+            ],
+            "user": {
+                "id": 9695312,
+                "id_str": "9695312"
+            },
+            "user_mentions": [
+                {
+                    "id": 23690344,
+                    "id_str": "23690344",
+                    "name": "Kelly Clarkson",
+                    "screen_name": "kellyclarkson"
+                },
+                {
+                    "id": 16409683,
+                    "id_str": "16409683",
+                    "name": "Britney Spears",
+                    "screen_name": "britneyspears"
+                },
+                {
+                    "id": 1042139340032356352,
+                    "id_str": "1042139340032356352",
+                    "name": "The Kelly Clarkson Show",
+                    "screen_name": "KellyClarksonTV"
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "RT @billboard: Watch @kellyclarkson slay @britneyspears' #Toxic on @KellyClarksonTV \ud83c\udfa4 https://t.co/13mieQF4lx",
+        "urls": [
+            {
+                "expanded_url": "http://blbrd.cm/GHqC1jM",
+                "url": "https://t.co/13mieQF4lx"
+            }
+        ],
+        "user": {
+            "id": 16409683,
+            "id_str": "16409683"
+        },
+        "user_mentions": [
+            {
+                "id": 9695312,
+                "id_str": "9695312",
+                "name": "billboard",
+                "screen_name": "billboard"
+            },
+            {
+                "id": 23690344,
+                "id_str": "23690344",
+                "name": "Kelly Clarkson",
+                "screen_name": "kellyclarkson"
+            },
+            {
+                "id": 16409683,
+                "id_str": "16409683",
+                "name": "Britney Spears",
+                "screen_name": "britneyspears"
+            },
+            {
+                "id": 1042139340032356352,
+                "id_str": "1042139340032356352",
+                "name": "The Kelly Clarkson Show",
+                "screen_name": "KellyClarksonTV"
+            }
+        ]
+    },
+    {
+        "created_at": "Mon Feb 03 21:49:48 +0000 2020",
+        "hashtags": [],
+        "id": 1224449936076361729,
+        "id_str": "1224449936076361729",
+        "lang": "en",
+        "retweet_count": 322,
+        "retweeted_status": {
+            "created_at": "Sat Feb 01 15:00:05 +0000 2020",
+            "favorite_count": 1955,
+            "hashtags": [],
+            "id": 1223622052235661312,
+            "id_str": "1223622052235661312",
+            "lang": "en",
+            "retweet_count": 322,
+            "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+            "text": "Get \u2018In the Zone\u2019: Inside the Britney Spears pop-up experience in Los Angeles https://t.co/UJaHE6Z4Vf",
+            "urls": [
+                {
+                    "expanded_url": "https://rol.st/38X8xM4",
+                    "url": "https://t.co/UJaHE6Z4Vf"
+                }
+            ],
+            "user": {
+                "id": 14780915,
+                "id_str": "14780915"
+            },
+            "user_mentions": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "RT @RollingStone: Get \u2018In the Zone\u2019: Inside the Britney Spears pop-up experience in Los Angeles https://t.co/UJaHE6Z4Vf",
+        "urls": [
+            {
+                "expanded_url": "https://rol.st/38X8xM4",
+                "url": "https://t.co/UJaHE6Z4Vf"
+            }
+        ],
+        "user": {
+            "id": 16409683,
+            "id_str": "16409683"
+        },
+        "user_mentions": [
+            {
+                "id": 14780915,
+                "id_str": "14780915",
+                "name": "Rolling Stone",
+                "screen_name": "RollingStone"
+            }
+        ]
+    },
+    {
+        "created_at": "Sat Feb 01 01:28:26 +0000 2020",
+        "favorite_count": 8197,
+        "hashtags": [
+            {
+                "text": "Toxic"
+            }
+        ],
+        "id": 1223417791426039809,
+        "id_str": "1223417791426039809",
+        "lang": "en",
+        "retweet_count": 1448,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "Listen to the new @y2k2y and @_AlexanderLewis remix of #Toxic, released today in celebration of the opening of\u2026 https://t.co/miui5WokY7",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1223417791426039809",
+                "url": "https://t.co/miui5WokY7"
+            }
+        ],
+        "user": {
+            "id": 16409683,
+            "id_str": "16409683"
+        },
+        "user_mentions": [
+            {
+                "id": 614072977,
+                "id_str": "614072977",
+                "name": "y2k",
+                "screen_name": "y2k2y"
+            },
+            {
+                "id": 371376624,
+                "id_str": "371376624",
+                "name": "Alexander Lewis",
+                "screen_name": "_AlexanderLewis"
+            }
+        ]
+    },
+    {
+        "created_at": "Fri Jan 31 02:49:43 +0000 2020",
+        "hashtags": [],
+        "id": 1223075861135491073,
+        "id_str": "1223075861135491073",
+        "lang": "en",
+        "retweet_count": 425,
+        "retweeted_status": {
+            "created_at": "Fri Jan 31 00:42:50 +0000 2020",
+            "favorite_count": 1958,
+            "hashtags": [],
+            "id": 1223043930540740609,
+            "id_str": "1223043930540740609",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/YPpZqe4naP",
+                    "expanded_url": "https://twitter.com/billboard/status/1223043930540740609/video/1",
+                    "id": 1223023638665822208,
+                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1223023638665822208/img/E29En6bYdHTGQBr4.jpg",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1223023638665822208/img/E29En6bYdHTGQBr4.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "video",
+                    "url": "https://t.co/YPpZqe4naP",
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 130505,
+                        "variants": [
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1223023638665822208/pl/S785DyRu9iZBhfy7.m3u8?tag=13"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1223023638665822208/vid/1280x720/zzUBlwrOyeL0hlml.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1223023638665822208/vid/640x360/WTi0VRnL-ept_1O7.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 288000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1223023638665822208/vid/480x270/ERpc1b92w-LVn6mV.mp4?tag=13"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "retweet_count": 425,
+            "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+            "text": "Want to get into \"The Zone?\" We take you inside @britneyspears immersive pop-up in Los Angeles with @itstetrisbish! https://t.co/YPpZqe4naP",
+            "urls": [],
+            "user": {
+                "id": 9695312,
+                "id_str": "9695312"
+            },
+            "user_mentions": [
+                {
+                    "id": 16409683,
+                    "id_str": "16409683",
+                    "name": "Britney Spears",
+                    "screen_name": "britneyspears"
+                },
+                {
+                    "id": 25962116,
+                    "id_str": "25962116",
+                    "name": "TETRIS",
+                    "screen_name": "itstetrisbish"
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "RT @billboard: Want to get into \"The Zone?\" We take you inside @britneyspears immersive pop-up in Los Angeles with @itstetrisbish! https://\u2026",
+        "urls": [],
+        "user": {
+            "id": 16409683,
+            "id_str": "16409683"
+        },
+        "user_mentions": [
+            {
+                "id": 9695312,
+                "id_str": "9695312",
+                "name": "billboard",
+                "screen_name": "billboard"
+            },
+            {
+                "id": 16409683,
+                "id_str": "16409683",
+                "name": "Britney Spears",
+                "screen_name": "britneyspears"
+            },
+            {
+                "id": 25962116,
+                "id_str": "25962116",
+                "name": "TETRIS",
+                "screen_name": "itstetrisbish"
+            }
+        ]
+    },
+    {
+        "created_at": "Fri Jan 31 00:38:49 +0000 2020",
+        "hashtags": [
+            {
+                "text": "TikTok"
+            }
+        ],
+        "id": 1223042917616508929,
+        "id_str": "1223042917616508929",
+        "lang": "en",
+        "retweet_count": 365,
+        "retweeted_status": {
+            "created_at": "Fri Jan 31 00:23:03 +0000 2020",
+            "favorite_count": 4138,
+            "hashtags": [
+                {
+                    "text": "TikTok"
+                }
+            ],
+            "id": 1223038952879415296,
+            "id_str": "1223038952879415296",
+            "lang": "en",
+            "retweet_count": 365,
+            "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+            "text": ".@britneyspears just gave this #TikTok by @charlidamelio &amp; @derekhough her stamp of approval \u2714\ufe0f https://t.co/AuFRitsmDd",
+            "urls": [
+                {
+                    "expanded_url": "https://trib.al/TkmHKrf",
+                    "url": "https://t.co/AuFRitsmDd"
+                }
+            ],
+            "user": {
+                "id": 9695312,
+                "id_str": "9695312"
+            },
+            "user_mentions": [
+                {
+                    "id": 16409683,
+                    "id_str": "16409683",
+                    "name": "Britney Spears",
+                    "screen_name": "britneyspears"
+                },
+                {
+                    "id": 1016008321,
+                    "id_str": "1016008321",
+                    "name": "charli d\u2019amelio",
+                    "screen_name": "charlidamelio"
+                },
+                {
+                    "id": 30503160,
+                    "id_str": "30503160",
+                    "name": "Derek Hough",
+                    "screen_name": "derekhough"
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "RT @billboard: .@britneyspears just gave this #TikTok by @charlidamelio &amp; @derekhough her stamp of approval \u2714\ufe0f https://t.co/AuFRitsmDd",
+        "urls": [
+            {
+                "expanded_url": "https://trib.al/TkmHKrf",
+                "url": "https://t.co/AuFRitsmDd"
+            }
+        ],
+        "user": {
+            "id": 16409683,
+            "id_str": "16409683"
+        },
+        "user_mentions": [
+            {
+                "id": 9695312,
+                "id_str": "9695312",
+                "name": "billboard",
+                "screen_name": "billboard"
+            },
+            {
+                "id": 16409683,
+                "id_str": "16409683",
+                "name": "Britney Spears",
+                "screen_name": "britneyspears"
+            },
+            {
+                "id": 1016008321,
+                "id_str": "1016008321",
+                "name": "charli d\u2019amelio",
+                "screen_name": "charlidamelio"
+            },
+            {
+                "id": 30503160,
+                "id_str": "30503160",
+                "name": "Derek Hough",
+                "screen_name": "derekhough"
+            }
+        ]
+    },
+    {
+        "created_at": "Fri Jan 31 00:37:29 +0000 2020",
+        "hashtags": [],
+        "id": 1223042581606608896,
+        "id_str": "1223042581606608896",
+        "lang": "en",
+        "retweet_count": 383,
+        "retweeted_status": {
+            "created_at": "Thu Jan 30 23:10:09 +0000 2020",
+            "favorite_count": 2202,
+            "hashtags": [],
+            "id": 1223020606255435783,
+            "id_str": "1223020606255435783",
+            "lang": "en",
+            "retweet_count": 383,
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "text": "At the @BritneyTheZone pop-up in L.A., it's Britney, b*tch all the time \nhttps://t.co/9VPMk9Ckuh",
+            "urls": [
+                {
+                    "expanded_url": "http://www.mtv.com/news/3154589/inside-britney-spears-the-zone-pop-up/",
+                    "url": "https://t.co/9VPMk9Ckuh"
+                }
+            ],
+            "user": {
+                "id": 40076725,
+                "id_str": "40076725"
+            },
+            "user_mentions": [
+                {
+                    "id": 1069680229860417536,
+                    "id_str": "1069680229860417536",
+                    "name": "BritneyTheZone",
+                    "screen_name": "BritneyTheZone"
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "RT @MTVNEWS: At the @BritneyTheZone pop-up in L.A., it's Britney, b*tch all the time \nhttps://t.co/9VPMk9Ckuh",
+        "urls": [
+            {
+                "expanded_url": "http://www.mtv.com/news/3154589/inside-britney-spears-the-zone-pop-up/",
+                "url": "https://t.co/9VPMk9Ckuh"
+            }
+        ],
+        "user": {
+            "id": 16409683,
+            "id_str": "16409683"
+        },
+        "user_mentions": [
+            {
+                "id": 40076725,
+                "id_str": "40076725",
+                "name": "MTV NEWS",
+                "screen_name": "MTVNEWS"
+            },
+            {
+                "id": 1069680229860417536,
+                "id_str": "1069680229860417536",
+                "name": "BritneyTheZone",
+                "screen_name": "BritneyTheZone"
+            }
+        ]
+    },
+    {
+        "created_at": "Fri Nov 22 20:45:48 +0000 2019",
+        "hashtags": [],
+        "id": 1197979515961647104,
+        "id_str": "1197979515961647104",
+        "lang": "en",
+        "retweet_count": 628,
+        "retweeted_status": {
+            "created_at": "Fri Nov 22 20:02:44 +0000 2019",
+            "favorite_count": 3261,
+            "hashtags": [],
+            "id": 1197968678957936640,
+            "id_str": "1197968678957936640",
+            "lang": "en",
+            "retweet_count": 628,
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "text": "\u2b50\ufe0f CALLING. ALL. BRITNEY. FANS. \u2b50\ufe0f We're doing a SPECIAL giveaway today through Sunday, November 24th. Check out th\u2026 https://t.co/o1ZmWPlXeh",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1197968678957936640",
+                    "url": "https://t.co/o1ZmWPlXeh"
+                }
+            ],
+            "user": {
+                "id": 1069680229860417536,
+                "id_str": "1069680229860417536"
+            },
+            "user_mentions": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "RT @BritneyTheZone: \u2b50\ufe0f CALLING. ALL. BRITNEY. FANS. \u2b50\ufe0f We're doing a SPECIAL giveaway today through Sunday, November 24th. Check out the li\u2026",
+        "urls": [],
+        "user": {
+            "id": 16409683,
+            "id_str": "16409683"
+        },
+        "user_mentions": [
+            {
+                "id": 1069680229860417536,
+                "id_str": "1069680229860417536",
+                "name": "BritneyTheZone",
+                "screen_name": "BritneyTheZone"
+            }
+        ]
+    },
+    {
+        "created_at": "Sat Nov 02 17:12:56 +0000 2019",
+        "favorite_count": 9090,
+        "hashtags": [],
+        "id": 1190678187950379008,
+        "id_str": "1190678187950379008",
+        "lang": "en",
+        "retweet_count": 1596,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Coming soon !!!! \ud83d\ude1c\ud83d\ude1c\ud83d\ude1c I can\u2019t wait to see all of the pics you guys take at @britneythezone .... it\u2019s going to be so\u2026 https://t.co/Hz4lxTSTvH",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1190678187950379008",
+                "url": "https://t.co/Hz4lxTSTvH"
+            }
+        ],
+        "user": {
+            "id": 16409683,
+            "id_str": "16409683"
+        },
+        "user_mentions": [
+            {
+                "id": 1069680229860417536,
+                "id_str": "1069680229860417536",
+                "name": "BritneyTheZone",
+                "screen_name": "BritneyTheZone"
+            }
+        ]
+    },
+    {
+        "created_at": "Sat Nov 02 01:59:33 +0000 2019",
+        "hashtags": [],
+        "id": 1190448326719594497,
+        "id_str": "1190448326719594497",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/QtTf8rxcWE",
+                "expanded_url": "https://twitter.com/BritneyTheZone/status/1190328050350620673/photo/1",
+                "id": 1190328039676231686,
+                "media_url": "http://pbs.twimg.com/media/EITlC6MWwAYjBcW.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EITlC6MWwAYjBcW.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 990,
+                        "h": 992,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 679,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 990,
+                        "h": 992,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/QtTf8rxcWE"
+            }
+        ],
+        "retweet_count": 392,
+        "retweeted_status": {
+            "created_at": "Fri Nov 01 18:01:37 +0000 2019",
+            "favorite_count": 2116,
+            "hashtags": [],
+            "id": 1190328050350620673,
+            "id_str": "1190328050350620673",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/QtTf8rxcWE",
+                    "expanded_url": "https://twitter.com/BritneyTheZone/status/1190328050350620673/photo/1",
+                    "id": 1190328039676231686,
+                    "media_url": "http://pbs.twimg.com/media/EITlC6MWwAYjBcW.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EITlC6MWwAYjBcW.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 990,
+                            "h": 992,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 679,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 990,
+                            "h": 992,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/QtTf8rxcWE"
+                }
+            ],
+            "retweet_count": 392,
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "text": "It's time to get in the zone \ud83c\udf1f Tickets are on sale NOW at https://t.co/F4yeQh2DlP! https://t.co/QtTf8rxcWE",
+            "urls": [
+                {
+                    "expanded_url": "http://BritneyTheZone.com",
+                    "url": "https://t.co/F4yeQh2DlP"
+                }
+            ],
+            "user": {
+                "id": 1069680229860417536,
+                "id_str": "1069680229860417536"
+            },
+            "user_mentions": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @BritneyTheZone: It's time to get in the zone \ud83c\udf1f Tickets are on sale NOW at https://t.co/F4yeQh2DlP! https://t.co/QtTf8rxcWE",
+        "urls": [
+            {
+                "expanded_url": "http://BritneyTheZone.com",
+                "url": "https://t.co/F4yeQh2DlP"
+            }
+        ],
+        "user": {
+            "id": 16409683,
+            "id_str": "16409683"
+        },
+        "user_mentions": [
+            {
+                "id": 1069680229860417536,
+                "id_str": "1069680229860417536",
+                "name": "BritneyTheZone",
+                "screen_name": "BritneyTheZone"
+            }
+        ]
+    },
+    {
+        "created_at": "Fri Nov 01 20:25:56 +0000 2019",
+        "favorite_count": 10817,
+        "hashtags": [],
+        "id": 1190364370540384257,
+        "id_str": "1190364370540384257",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/tTjyo27sKw",
+                "expanded_url": "https://twitter.com/britneyspears/status/1190364370540384257/photo/1",
+                "id": 1190364366840971264,
+                "media_url": "http://pbs.twimg.com/media/EIUGFbbWwAAC5cb.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EIUGFbbWwAAC5cb.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1080,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/tTjyo27sKw"
+            }
+        ],
+        "retweet_count": 1464,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "OMG this looks so cool !!! I can\u2019t wait to see it \u23f1\u23f1\u23f1\ud83c\udf38\ud83c\udf38\ud83c\udf38 https://t.co/ZGcBp2OJ1J https://t.co/tTjyo27sKw",
+        "urls": [
+            {
+                "expanded_url": "http://www.britneythezone.com",
+                "url": "https://t.co/ZGcBp2OJ1J"
+            }
+        ],
+        "user": {
+            "id": 16409683,
+            "id_str": "16409683"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Aug 23 02:05:19 +0000 2019",
+        "favorite_count": 25383,
+        "hashtags": [],
+        "id": 1164720241777111040,
+        "id_str": "1164720241777111040",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/MXKwFXndjc",
+                "expanded_url": "https://twitter.com/britneyspears/status/1164720241777111040/photo/1",
+                "id": 1164720235615641600,
+                "media_url": "http://pbs.twimg.com/media/ECnq4iKUYAA4UoE.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ECnq4iKUYAA4UoE.jpg",
+                "sizes": {
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/MXKwFXndjc"
+            },
+            {
+                "display_url": "pic.twitter.com/MXKwFXndjc",
+                "expanded_url": "https://twitter.com/britneyspears/status/1164720241777111040/photo/1",
+                "id": 1164720235628224514,
+                "media_url": "http://pbs.twimg.com/media/ECnq4iNUYAITbRL.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ECnq4iNUYAITbRL.jpg",
+                "sizes": {
+                    "medium": {
+                        "w": 900,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 510,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1536,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/MXKwFXndjc"
+            }
+        ],
+        "retweet_count": 2433,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "The flowers outside my bookstore \ud83c\udf38 https://t.co/MXKwFXndjc",
+        "urls": [],
+        "user": {
+            "id": 16409683,
+            "id_str": "16409683"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Tue Aug 20 22:23:57 +0000 2019",
+        "favorite_count": 4603,
+        "hashtags": [],
+        "id": 1163939758298419201,
+        "id_str": "1163939758298419201",
+        "lang": "en",
+        "retweet_count": 528,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "My daddy loves Mitch, @MonsterEnergy, and @NASCAR\u2026 and we both can\u2019t wait to see this movie.\u00a0\u00a0Congrats to everyone\u2026 https://t.co/01aQjIxWaW",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1163939758298419201",
+                "url": "https://t.co/01aQjIxWaW"
+            }
+        ],
+        "user": {
+            "id": 16409683,
+            "id_str": "16409683"
+        },
+        "user_mentions": [
+            {
+                "id": 63253045,
+                "id_str": "63253045",
+                "name": "Monster Energy",
+                "screen_name": "MonsterEnergy"
+            },
+            {
+                "id": 49153854,
+                "id_str": "49153854",
+                "name": "NASCAR",
+                "screen_name": "NASCAR"
+            }
+        ]
+    },
+    {
+        "created_at": "Sat May 04 00:43:51 +0000 2019",
+        "favorite_count": 39060,
+        "hashtags": [],
+        "id": 1124474687461806080,
+        "id_str": "1124474687461806080",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/7sYqcr3wKc",
+                "expanded_url": "https://twitter.com/britneyspears/status/1124474687461806080/photo/1",
+                "id": 1124474597749870592,
+                "media_url": "http://pbs.twimg.com/media/D5rvsF3U0AAgTZu.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D5rvsF3U0AAgTZu.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1638,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 960,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 544,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/7sYqcr3wKc"
+            },
+            {
+                "display_url": "pic.twitter.com/7sYqcr3wKc",
+                "expanded_url": "https://twitter.com/britneyspears/status/1124474687461806080/photo/1",
+                "id": 1124474597762408449,
+                "media_url": "http://pbs.twimg.com/media/D5rvsF6UIAEdD0R.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D5rvsF6UIAEdD0R.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1638,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 960,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 544,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/7sYqcr3wKc"
+            },
+            {
+                "display_url": "pic.twitter.com/7sYqcr3wKc",
+                "expanded_url": "https://twitter.com/britneyspears/status/1124474687461806080/photo/1",
+                "id": 1124474597766615042,
+                "media_url": "http://pbs.twimg.com/media/D5rvsF7UUAIvyJX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D5rvsF7UUAIvyJX.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 544,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 960,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1638,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/7sYqcr3wKc"
+            },
+            {
+                "display_url": "pic.twitter.com/7sYqcr3wKc",
+                "expanded_url": "https://twitter.com/britneyspears/status/1124474687461806080/photo/1",
+                "id": 1124474597754064896,
+                "media_url": "http://pbs.twimg.com/media/D5rvsF4U0AAvKG-.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/D5rvsF4U0AAvKG-.jpg",
+                "sizes": {
+                    "medium": {
+                        "w": 960,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1638,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 544,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/7sYqcr3wKc"
+            }
+        ],
+        "retweet_count": 4640,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "\ud83c\udfa9 photo credit: @francesiacuzzi https://t.co/7sYqcr3wKc",
+        "urls": [],
+        "user": {
+            "id": 16409683,
+            "id_str": "16409683"
+        },
+        "user_mentions": [
+            {
+                "id": 343595905,
+                "id_str": "343595905",
+                "name": "Frances Iacuzzi Photography",
+                "screen_name": "francesiacuzzi"
+            }
+        ]
+    }
+]

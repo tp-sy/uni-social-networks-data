@@ -1,0 +1,2483 @@
+[
+    {
+        "created_at": "Fri Apr 17 04:10:38 +0000 2020",
+        "hashtags": [],
+        "id": 1251000088450629632,
+        "id_str": "1251000088450629632",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/TfaqtETDUe",
+                "expanded_url": "https://twitter.com/dvsn/status/1250999232967958529/photo/1",
+                "id": 1250998728506343424,
+                "media_url": "http://pbs.twimg.com/media/EVxwtysWAAAwUe0.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVxwtysWAAAwUe0.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/TfaqtETDUe"
+            },
+            {
+                "display_url": "pic.twitter.com/TfaqtETDUe",
+                "expanded_url": "https://twitter.com/dvsn/status/1250999232967958529/photo/1",
+                "id": 1250998765365932034,
+                "media_url": "http://pbs.twimg.com/media/EVxwv8AWsAI6vuy.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVxwv8AWsAI6vuy.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1198,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2044,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 679,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/TfaqtETDUe"
+            }
+        ],
+        "retweet_count": 12660,
+        "retweeted_status": {
+            "created_at": "Fri Apr 17 04:07:14 +0000 2020",
+            "favorite_count": 30306,
+            "hashtags": [],
+            "id": 1250999232967958529,
+            "id_str": "1250999232967958529",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/TfaqtETDUe",
+                    "expanded_url": "https://twitter.com/dvsn/status/1250999232967958529/photo/1",
+                    "id": 1250998728506343424,
+                    "media_url": "http://pbs.twimg.com/media/EVxwtysWAAAwUe0.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVxwtysWAAAwUe0.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/TfaqtETDUe"
+                },
+                {
+                    "display_url": "pic.twitter.com/TfaqtETDUe",
+                    "expanded_url": "https://twitter.com/dvsn/status/1250999232967958529/photo/1",
+                    "id": 1250998765365932034,
+                    "media_url": "http://pbs.twimg.com/media/EVxwv8AWsAI6vuy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EVxwv8AWsAI6vuy.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1198,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2044,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 679,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/TfaqtETDUe"
+                }
+            ],
+            "retweet_count": 12660,
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "text": "Our Album \"A Muse in Her Feelings\" OUT NOW! \u2797\nhttps://t.co/7hmL1X2PWC https://t.co/TfaqtETDUe",
+            "urls": [
+                {
+                    "expanded_url": "https://OVOSOUND.lnk.to/AMuseInHerFeelings",
+                    "url": "https://t.co/7hmL1X2PWC"
+                }
+            ],
+            "user": {
+                "id": 3294351671,
+                "id_str": "3294351671"
+            },
+            "user_mentions": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @dvsn: Our Album \"A Muse in Her Feelings\" OUT NOW! \u2797\nhttps://t.co/7hmL1X2PWC https://t.co/TfaqtETDUe",
+        "urls": [
+            {
+                "expanded_url": "https://OVOSOUND.lnk.to/AMuseInHerFeelings",
+                "url": "https://t.co/7hmL1X2PWC"
+            }
+        ],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 3294351671,
+                "id_str": "3294351671",
+                "name": "dvsn \u00f7",
+                "screen_name": "dvsn"
+            }
+        ]
+    },
+    {
+        "created_at": "Fri Apr 03 04:18:55 +0000 2020",
+        "favorite_count": 35247,
+        "hashtags": [],
+        "id": 1245928743681417216,
+        "id_str": "1245928743681417216",
+        "lang": "en",
+        "retweet_count": 11580,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "TOOSIE SLIDE (official video) https://t.co/CKhTIXdVT1",
+        "urls": [
+            {
+                "expanded_url": "https://youtu.be/xWggTb45brM",
+                "url": "https://t.co/CKhTIXdVT1"
+            }
+        ],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Apr 03 04:00:14 +0000 2020",
+        "favorite_count": 72346,
+        "hashtags": [],
+        "id": 1245924042592276480,
+        "id_str": "1245924042592276480",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/JgDRAUM2SG",
+                "expanded_url": "https://twitter.com/Drake/status/1245924042592276480/photo/1",
+                "id": 1245924034589540357,
+                "media_url": "http://pbs.twimg.com/media/EUppTurUwAUJTVB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EUppTurUwAUJTVB.jpg",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/JgDRAUM2SG"
+            }
+        ],
+        "retweet_count": 22357,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "TOOSIE SLIDE https://t.co/JTDrEtJsjX https://t.co/JgDRAUM2SG",
+        "urls": [
+            {
+                "expanded_url": "https://drake.lnk.to/ToosieSlide",
+                "url": "https://t.co/JTDrEtJsjX"
+            }
+        ],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Apr 02 22:15:03 +0000 2020",
+        "hashtags": [],
+        "id": 1245837175209394176,
+        "id_str": "1245837175209394176",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HG2dAuiaBX",
+                "expanded_url": "https://twitter.com/partynextdoor/status/1245834404506693632/photo/1",
+                "id": 1245834396663332871,
+                "media_url": "http://pbs.twimg.com/media/EUoXyHYUwAcVjMm.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EUoXyHYUwAcVjMm.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 385,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 1160,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/HG2dAuiaBX"
+            }
+        ],
+        "retweet_count": 2766,
+        "retweeted_status": {
+            "created_at": "Thu Apr 02 22:04:03 +0000 2020",
+            "favorite_count": 17812,
+            "hashtags": [],
+            "id": 1245834404506693632,
+            "id_str": "1245834404506693632",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/HG2dAuiaBX",
+                    "expanded_url": "https://twitter.com/partynextdoor/status/1245834404506693632/photo/1",
+                    "id": 1245834396663332871,
+                    "media_url": "http://pbs.twimg.com/media/EUoXyHYUwAcVjMm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EUoXyHYUwAcVjMm.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 385,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 1160,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/HG2dAuiaBX"
+                }
+            ],
+            "retweet_count": 2766,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "TBT.... FERINA NAVY @rihanna https://t.co/XQKtlwA216 https://t.co/HG2dAuiaBX",
+            "urls": [
+                {
+                    "expanded_url": "https://ovosound.lnk.to/BelieveIt",
+                    "url": "https://t.co/XQKtlwA216"
+                }
+            ],
+            "user": {
+                "id": 1346180581,
+                "id_str": "1346180581"
+            },
+            "user_mentions": [
+                {
+                    "id": 79293791,
+                    "id_str": "79293791",
+                    "name": "Rihanna",
+                    "screen_name": "rihanna"
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @partynextdoor: TBT.... FERINA NAVY @rihanna https://t.co/XQKtlwA216 https://t.co/HG2dAuiaBX",
+        "urls": [
+            {
+                "expanded_url": "https://ovosound.lnk.to/BelieveIt",
+                "url": "https://t.co/XQKtlwA216"
+            }
+        ],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 1346180581,
+                "id_str": "1346180581",
+                "name": "PARTYNEXTDOOR",
+                "screen_name": "partynextdoor"
+            },
+            {
+                "id": 79293791,
+                "id_str": "79293791",
+                "name": "Rihanna",
+                "screen_name": "rihanna"
+            }
+        ]
+    },
+    {
+        "created_at": "Fri Mar 27 04:09:44 +0000 2020",
+        "hashtags": [],
+        "id": 1243389720073101315,
+        "id_str": "1243389720073101315",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/p4tKngMT4s",
+                "expanded_url": "https://twitter.com/partynextdoor/status/1243389219470336002/photo/1",
+                "id": 1243389214164520962,
+                "media_url": "http://pbs.twimg.com/media/EUFn5wvUEAIllMA.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EUFn5wvUEAIllMA.jpg",
+                "sizes": {
+                    "large": {
+                        "w": 1500,
+                        "h": 1500,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/p4tKngMT4s"
+            }
+        ],
+        "retweet_count": 8934,
+        "retweeted_status": {
+            "created_at": "Fri Mar 27 04:07:45 +0000 2020",
+            "favorite_count": 31487,
+            "hashtags": [],
+            "id": 1243389219470336002,
+            "id_str": "1243389219470336002",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/p4tKngMT4s",
+                    "expanded_url": "https://twitter.com/partynextdoor/status/1243389219470336002/photo/1",
+                    "id": 1243389214164520962,
+                    "media_url": "http://pbs.twimg.com/media/EUFn5wvUEAIllMA.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EUFn5wvUEAIllMA.jpg",
+                    "sizes": {
+                        "large": {
+                            "w": 1500,
+                            "h": 1500,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/p4tKngMT4s"
+                }
+            ],
+            "retweet_count": 8934,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "BELIEVE it w/ @rihanna out now https://t.co/XQKtlwA216 https://t.co/p4tKngMT4s",
+            "urls": [
+                {
+                    "expanded_url": "https://ovosound.lnk.to/BelieveIt",
+                    "url": "https://t.co/XQKtlwA216"
+                }
+            ],
+            "user": {
+                "id": 1346180581,
+                "id_str": "1346180581"
+            },
+            "user_mentions": [
+                {
+                    "id": 79293791,
+                    "id_str": "79293791",
+                    "name": "Rihanna",
+                    "screen_name": "rihanna"
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @partynextdoor: BELIEVE it w/ @rihanna out now https://t.co/XQKtlwA216 https://t.co/p4tKngMT4s",
+        "urls": [
+            {
+                "expanded_url": "https://ovosound.lnk.to/BelieveIt",
+                "url": "https://t.co/XQKtlwA216"
+            }
+        ],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 1346180581,
+                "id_str": "1346180581",
+                "name": "PARTYNEXTDOOR",
+                "screen_name": "partynextdoor"
+            },
+            {
+                "id": 79293791,
+                "id_str": "79293791",
+                "name": "Rihanna",
+                "screen_name": "rihanna"
+            }
+        ]
+    },
+    {
+        "created_at": "Fri Mar 27 04:08:43 +0000 2020",
+        "hashtags": [],
+        "id": 1243389462211510272,
+        "id_str": "1243389462211510272",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/YaBfoQJsMo",
+                "expanded_url": "https://twitter.com/partynextdoor/status/1243388651288924163/photo/1",
+                "id": 1243388643911196673,
+                "media_url": "http://pbs.twimg.com/media/EUFnYkYU4AEn1hU.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EUFnYkYU4AEn1hU.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/YaBfoQJsMo"
+            },
+            {
+                "display_url": "pic.twitter.com/YaBfoQJsMo",
+                "expanded_url": "https://twitter.com/partynextdoor/status/1243388651288924163/photo/1",
+                "id": 1243388643927969797,
+                "media_url": "http://pbs.twimg.com/media/EUFnYkcU0AUpihb.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EUFnYkcU0AUpihb.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/YaBfoQJsMo"
+            }
+        ],
+        "retweet_count": 21487,
+        "retweeted_status": {
+            "created_at": "Fri Mar 27 04:05:30 +0000 2020",
+            "favorite_count": 50480,
+            "hashtags": [],
+            "id": 1243388651288924163,
+            "id_str": "1243388651288924163",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/YaBfoQJsMo",
+                    "expanded_url": "https://twitter.com/partynextdoor/status/1243388651288924163/photo/1",
+                    "id": 1243388643911196673,
+                    "media_url": "http://pbs.twimg.com/media/EUFnYkYU4AEn1hU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EUFnYkYU4AEn1hU.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/YaBfoQJsMo"
+                },
+                {
+                    "display_url": "pic.twitter.com/YaBfoQJsMo",
+                    "expanded_url": "https://twitter.com/partynextdoor/status/1243388651288924163/photo/1",
+                    "id": 1243388643927969797,
+                    "media_url": "http://pbs.twimg.com/media/EUFnYkcU0AUpihb.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EUFnYkcU0AUpihb.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/YaBfoQJsMo"
+                }
+            ],
+            "retweet_count": 21487,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "PARTYMOBILE out now https://t.co/y1X0F05nih https://t.co/YaBfoQJsMo",
+            "urls": [
+                {
+                    "expanded_url": "http://ovosound.lnk.to/PARTYMOBILE",
+                    "url": "https://t.co/y1X0F05nih"
+                }
+            ],
+            "user": {
+                "id": 1346180581,
+                "id_str": "1346180581"
+            },
+            "user_mentions": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @partynextdoor: PARTYMOBILE out now https://t.co/y1X0F05nih https://t.co/YaBfoQJsMo",
+        "urls": [
+            {
+                "expanded_url": "http://ovosound.lnk.to/PARTYMOBILE",
+                "url": "https://t.co/y1X0F05nih"
+            }
+        ],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 1346180581,
+                "id_str": "1346180581",
+                "name": "PARTYNEXTDOOR",
+                "screen_name": "partynextdoor"
+            }
+        ]
+    },
+    {
+        "created_at": "Thu Mar 26 16:21:58 +0000 2020",
+        "hashtags": [
+            {
+                "text": "PARTYMOBILE"
+            }
+        ],
+        "id": 1243211603660558337,
+        "id_str": "1243211603660558337",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/hbgxsi2yvA",
+                "expanded_url": "https://twitter.com/partynextdoor/status/1243211198008406017/photo/1",
+                "id": 1243211189171048450,
+                "media_url": "http://pbs.twimg.com/media/EUDF_V9U0AI5rHB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EUDF_V9U0AI5rHB.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/hbgxsi2yvA"
+            }
+        ],
+        "retweet_count": 19077,
+        "retweeted_status": {
+            "created_at": "Thu Mar 26 16:20:22 +0000 2020",
+            "favorite_count": 48301,
+            "hashtags": [
+                {
+                    "text": "PARTYMOBILE"
+                }
+            ],
+            "id": 1243211198008406017,
+            "id_str": "1243211198008406017",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/hbgxsi2yvA",
+                    "expanded_url": "https://twitter.com/partynextdoor/status/1243211198008406017/photo/1",
+                    "id": 1243211189171048450,
+                    "media_url": "http://pbs.twimg.com/media/EUDF_V9U0AI5rHB.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EUDF_V9U0AI5rHB.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/hbgxsi2yvA"
+                }
+            ],
+            "retweet_count": 19077,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "\ud83d\udcf3\ud83d\udcf3\ud83d\udcf3 TRACKLIST... ALBUM OUT TONIGHT 12AM EST https://t.co/YwkuBN8vD0 #PARTYMOBILE https://t.co/hbgxsi2yvA",
+            "urls": [
+                {
+                    "expanded_url": "https://ovosound.lnk.to/PARTYMOBILEPresave",
+                    "url": "https://t.co/YwkuBN8vD0"
+                }
+            ],
+            "user": {
+                "id": 1346180581,
+                "id_str": "1346180581"
+            },
+            "user_mentions": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @partynextdoor: \ud83d\udcf3\ud83d\udcf3\ud83d\udcf3 TRACKLIST... ALBUM OUT TONIGHT 12AM EST https://t.co/YwkuBN8vD0 #PARTYMOBILE https://t.co/hbgxsi2yvA",
+        "urls": [
+            {
+                "expanded_url": "https://ovosound.lnk.to/PARTYMOBILEPresave",
+                "url": "https://t.co/YwkuBN8vD0"
+            }
+        ],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 1346180581,
+                "id_str": "1346180581",
+                "name": "PARTYNEXTDOOR",
+                "screen_name": "partynextdoor"
+            }
+        ]
+    },
+    {
+        "created_at": "Sun Mar 01 04:22:03 +0000 2020",
+        "hashtags": [],
+        "id": 1233970731739992066,
+        "id_str": "1233970731739992066",
+        "lang": "en",
+        "retweet_count": 14413,
+        "retweeted_status": {
+            "created_at": "Sun Mar 01 04:19:23 +0000 2020",
+            "favorite_count": 36257,
+            "hashtags": [],
+            "id": 1233970059980267520,
+            "id_str": "1233970059980267520",
+            "lang": "en",
+            "retweet_count": 14413,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": ". @Drake When to Say When &amp; Chicago Freestyle (Video) https://t.co/ZIAX2R3UCY",
+            "urls": [
+                {
+                    "expanded_url": "https://bit.ly/2PClqUr",
+                    "url": "https://t.co/ZIAX2R3UCY"
+                }
+            ],
+            "user": {
+                "id": 2675359291,
+                "id_str": "2675359291"
+            },
+            "user_mentions": [
+                {
+                    "id": 27195114,
+                    "id_str": "27195114",
+                    "name": "Drizzy",
+                    "screen_name": "Drake"
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @OVOSound: . @Drake When to Say When &amp; Chicago Freestyle (Video) https://t.co/ZIAX2R3UCY",
+        "urls": [
+            {
+                "expanded_url": "https://bit.ly/2PClqUr",
+                "url": "https://t.co/ZIAX2R3UCY"
+            }
+        ],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 2675359291,
+                "id_str": "2675359291",
+                "name": "OVO Sound",
+                "screen_name": "OVOSound"
+            },
+            {
+                "id": 27195114,
+                "id_str": "27195114",
+                "name": "Drizzy",
+                "screen_name": "Drake"
+            }
+        ]
+    },
+    {
+        "created_at": "Tue Feb 11 20:05:52 +0000 2020",
+        "favorite_count": 7721,
+        "hashtags": [],
+        "id": 1227322884630118400,
+        "id_str": "1227322884630118400",
+        "lang": "en",
+        "retweet_count": 2027,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "URL x CAFFEINE\nExcited to announce this major step forward!! I managed to get @urltv and @caffeine linked up with t\u2026 https://t.co/GNhskimL3p",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1227322884630118400",
+                "url": "https://t.co/GNhskimL3p"
+            }
+        ],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 82923436,
+                "id_str": "82923436",
+                "name": "Ultimate Rap League",
+                "screen_name": "urltv"
+            },
+            {
+                "id": 763109536957730816,
+                "id_str": "763109536957730816",
+                "name": "Caffeine",
+                "screen_name": "caffeine"
+            }
+        ]
+    },
+    {
+        "created_at": "Fri Feb 07 05:21:59 +0000 2020",
+        "hashtags": [],
+        "id": 1225650894580015104,
+        "id_str": "1225650894580015104",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Oi7KHIISW5",
+                "expanded_url": "https://twitter.com/partynextdoor/status/1225650050425970690/photo/1",
+                "id": 1225650045577392128,
+                "media_url": "http://pbs.twimg.com/media/EQJiOQGU8AAYhyx.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EQJiOQGU8AAYhyx.jpg",
+                "sizes": {
+                    "large": {
+                        "w": 2048,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/Oi7KHIISW5"
+            }
+        ],
+        "retweet_count": 11232,
+        "retweeted_status": {
+            "created_at": "Fri Feb 07 05:18:38 +0000 2020",
+            "favorite_count": 43186,
+            "hashtags": [],
+            "id": 1225650050425970690,
+            "id_str": "1225650050425970690",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Oi7KHIISW5",
+                    "expanded_url": "https://twitter.com/partynextdoor/status/1225650050425970690/photo/1",
+                    "id": 1225650045577392128,
+                    "media_url": "http://pbs.twimg.com/media/EQJiOQGU8AAYhyx.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EQJiOQGU8AAYhyx.jpg",
+                    "sizes": {
+                        "large": {
+                            "w": 2048,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/Oi7KHIISW5"
+                }
+            ],
+            "retweet_count": 11232,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "LOYAL remix ft. @Drake &amp; @sanbenito https://t.co/mNd5IuZi9x https://t.co/Oi7KHIISW5",
+            "urls": [
+                {
+                    "expanded_url": "https://ovosound.lnk.to/LoyalRemix",
+                    "url": "https://t.co/mNd5IuZi9x"
+                }
+            ],
+            "user": {
+                "id": 1346180581,
+                "id_str": "1346180581"
+            },
+            "user_mentions": [
+                {
+                    "id": 27195114,
+                    "id_str": "27195114",
+                    "name": "Drizzy",
+                    "screen_name": "Drake"
+                },
+                {
+                    "id": 1059542139737128960,
+                    "id_str": "1059542139737128960",
+                    "name": "\ud83d\udc41",
+                    "screen_name": "sanbenito"
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @partynextdoor: LOYAL remix ft. @Drake &amp; @sanbenito https://t.co/mNd5IuZi9x https://t.co/Oi7KHIISW5",
+        "urls": [
+            {
+                "expanded_url": "https://ovosound.lnk.to/LoyalRemix",
+                "url": "https://t.co/mNd5IuZi9x"
+            }
+        ],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 1346180581,
+                "id_str": "1346180581",
+                "name": "PARTYNEXTDOOR",
+                "screen_name": "partynextdoor"
+            },
+            {
+                "id": 27195114,
+                "id_str": "27195114",
+                "name": "Drizzy",
+                "screen_name": "Drake"
+            },
+            {
+                "id": 1059542139737128960,
+                "id_str": "1059542139737128960",
+                "name": "\ud83d\udc41",
+                "screen_name": "sanbenito"
+            }
+        ]
+    },
+    {
+        "created_at": "Sat Jan 25 05:45:27 +0000 2020",
+        "favorite_count": 4069,
+        "hashtags": [],
+        "id": 1220945757659754496,
+        "id_str": "1220945757659754496",
+        "lang": "en",
+        "quoted_status": {
+            "created_at": "Sat Jan 25 03:35:56 +0000 2020",
+            "favorite_count": 4624,
+            "hashtags": [
+                {
+                    "text": "Spree"
+                }
+            ],
+            "id": 1220913163819872256,
+            "id_str": "1220913163819872256",
+            "lang": "en",
+            "retweet_count": 251,
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "text": "So stoked to be apart of #Spree such a joy to work with the brilliant @eugeugeug and the entire cast and crew. Than\u2026 https://t.co/Vku630Ho4S",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1220913163819872256",
+                    "url": "https://t.co/Vku630Ho4S"
+                }
+            ],
+            "user": {
+                "id": 756271337585319936,
+                "id_str": "756271337585319936"
+            },
+            "user_mentions": [
+                {
+                    "id": 433099190,
+                    "id_str": "433099190",
+                    "name": "Eugene Kotlyarenko",
+                    "screen_name": "eugeugeug"
+                }
+            ]
+        },
+        "quoted_status_id": 1220913163819872256,
+        "quoted_status_id_str": "1220913163819872256",
+        "retweet_count": 428,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Congrats to the cast and crew on their premiere at @sundancefest. Honored to be a part of this. https://t.co/gou3DPVd2w",
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/joe_keery/status/1220913163819872256",
+                "url": "https://t.co/gou3DPVd2w"
+            }
+        ],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 12369372,
+                "id_str": "12369372",
+                "name": "SundanceFilmFestival",
+                "screen_name": "sundancefest"
+            }
+        ]
+    },
+    {
+        "created_at": "Tue Dec 24 05:36:18 +0000 2019",
+        "hashtags": [],
+        "id": 1209347044285902849,
+        "id_str": "1209347044285902849",
+        "lang": "en",
+        "retweet_count": 12034,
+        "retweeted_status": {
+            "created_at": "Tue Dec 24 05:34:10 +0000 2019",
+            "favorite_count": 34125,
+            "hashtags": [],
+            "id": 1209346505959780352,
+            "id_str": "1209346505959780352",
+            "lang": "en",
+            "retweet_count": 12034,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Drake \u201cWar\u201d (Video) \nhttps://t.co/taDWx4vY6p",
+            "urls": [
+                {
+                    "expanded_url": "https://youtu.be/6r8eahVpQgc",
+                    "url": "https://t.co/taDWx4vY6p"
+                }
+            ],
+            "user": {
+                "id": 2675359291,
+                "id_str": "2675359291"
+            },
+            "user_mentions": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @OVOSound: Drake \u201cWar\u201d (Video) \nhttps://t.co/taDWx4vY6p",
+        "urls": [
+            {
+                "expanded_url": "https://youtu.be/6r8eahVpQgc",
+                "url": "https://t.co/taDWx4vY6p"
+            }
+        ],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 2675359291,
+                "id_str": "2675359291",
+                "name": "OVO Sound",
+                "screen_name": "OVOSound"
+            }
+        ]
+    },
+    {
+        "created_at": "Fri Dec 20 06:06:00 +0000 2019",
+        "hashtags": [
+            {
+                "text": "VANQUISH"
+            },
+            {
+                "text": "876GUD"
+            }
+        ],
+        "id": 1207904967073263616,
+        "id_str": "1207904967073263616",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/N3YI6o1EQN",
+                "expanded_url": "https://twitter.com/PopcaanMusic/status/1207898659553267712/photo/1",
+                "id": 1207898614464303104,
+                "media_url": "http://pbs.twimg.com/media/EMNRY9_U0AA_KbX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EMNRY9_U0AA_KbX.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 2048,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/N3YI6o1EQN"
+            }
+        ],
+        "retweet_count": 1175,
+        "retweeted_status": {
+            "created_at": "Fri Dec 20 05:40:56 +0000 2019",
+            "favorite_count": 6245,
+            "hashtags": [
+                {
+                    "text": "VANQUISH"
+                },
+                {
+                    "text": "876GUD"
+                }
+            ],
+            "id": 1207898659553267712,
+            "id_str": "1207898659553267712",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/N3YI6o1EQN",
+                    "expanded_url": "https://twitter.com/PopcaanMusic/status/1207898659553267712/photo/1",
+                    "id": 1207898614464303104,
+                    "media_url": "http://pbs.twimg.com/media/EMNRY9_U0AA_KbX.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EMNRY9_U0AA_KbX.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 2048,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/N3YI6o1EQN"
+                }
+            ],
+            "retweet_count": 1175,
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "text": "We going live right now #VANQUISH out now #876GUD \nhttps://t.co/X3w58HmQvA https://t.co/N3YI6o1EQN",
+            "urls": [
+                {
+                    "expanded_url": "https://OVOSOUND.lnk.to/Vanquish",
+                    "url": "https://t.co/X3w58HmQvA"
+                }
+            ],
+            "user": {
+                "id": 151588971,
+                "id_str": "151588971"
+            },
+            "user_mentions": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @PopcaanMusic: We going live right now #VANQUISH out now #876GUD \nhttps://t.co/X3w58HmQvA https://t.co/N3YI6o1EQN",
+        "urls": [
+            {
+                "expanded_url": "https://OVOSOUND.lnk.to/Vanquish",
+                "url": "https://t.co/X3w58HmQvA"
+            }
+        ],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 151588971,
+                "id_str": "151588971",
+                "name": "Popcaan",
+                "screen_name": "PopcaanMusic"
+            }
+        ]
+    },
+    {
+        "created_at": "Fri Dec 06 20:31:50 +0000 2019",
+        "hashtags": [],
+        "id": 1203049432075395077,
+        "id_str": "1203049432075395077",
+        "lang": "en",
+        "retweet_count": 602,
+        "retweeted_status": {
+            "created_at": "Thu Dec 05 21:31:03 +0000 2019",
+            "favorite_count": 6383,
+            "hashtags": [],
+            "id": 1202701945359732737,
+            "id_str": "1202701945359732737",
+            "lang": "en",
+            "retweet_count": 602,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "A night of Champions celebrating Champions. Our sincerest thanks to our loyal customers as well as Kyle Lowry, Serg\u2026 https://t.co/zouclLgNiK",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1202701945359732737",
+                    "url": "https://t.co/zouclLgNiK"
+                }
+            ],
+            "user": {
+                "id": 3327313925,
+                "id_str": "3327313925"
+            },
+            "user_mentions": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @CargoJetAirways: A night of Champions celebrating Champions. Our sincerest thanks to our loyal customers as well as Kyle Lowry, Serge I\u2026",
+        "urls": [],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 3327313925,
+                "id_str": "3327313925",
+                "name": "CargoJet",
+                "screen_name": "CargoJetAirways"
+            }
+        ]
+    },
+    {
+        "created_at": "Fri Nov 22 05:21:53 +0000 2019",
+        "hashtags": [],
+        "id": 1197747002219651072,
+        "id_str": "1197747002219651072",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/U2Olu9JRdQ",
+                "expanded_url": "https://twitter.com/partynextdoor/status/1197746382347608064/photo/1",
+                "id": 1197746374013521920,
+                "media_url": "http://pbs.twimg.com/media/EJ8_-zIWkAApRg7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EJ8_-zIWkAApRg7.jpg",
+                "sizes": {
+                    "large": {
+                        "w": 2048,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/U2Olu9JRdQ"
+            }
+        ],
+        "retweet_count": 20081,
+        "retweeted_status": {
+            "created_at": "Fri Nov 22 05:19:25 +0000 2019",
+            "favorite_count": 57906,
+            "hashtags": [],
+            "id": 1197746382347608064,
+            "id_str": "1197746382347608064",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/U2Olu9JRdQ",
+                    "expanded_url": "https://twitter.com/partynextdoor/status/1197746382347608064/photo/1",
+                    "id": 1197746374013521920,
+                    "media_url": "http://pbs.twimg.com/media/EJ8_-zIWkAApRg7.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EJ8_-zIWkAApRg7.jpg",
+                    "sizes": {
+                        "large": {
+                            "w": 2048,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/U2Olu9JRdQ"
+                }
+            ],
+            "retweet_count": 20081,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Loyal feat. @Drake out now https://t.co/aGmBC4jFmu https://t.co/U2Olu9JRdQ",
+            "urls": [
+                {
+                    "expanded_url": "https://OVOSOUND.lnk.to/Loyal",
+                    "url": "https://t.co/aGmBC4jFmu"
+                }
+            ],
+            "user": {
+                "id": 1346180581,
+                "id_str": "1346180581"
+            },
+            "user_mentions": [
+                {
+                    "id": 27195114,
+                    "id_str": "27195114",
+                    "name": "Drizzy",
+                    "screen_name": "Drake"
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @partynextdoor: Loyal feat. @Drake out now https://t.co/aGmBC4jFmu https://t.co/U2Olu9JRdQ",
+        "urls": [
+            {
+                "expanded_url": "https://OVOSOUND.lnk.to/Loyal",
+                "url": "https://t.co/aGmBC4jFmu"
+            }
+        ],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 1346180581,
+                "id_str": "1346180581",
+                "name": "PARTYNEXTDOOR",
+                "screen_name": "partynextdoor"
+            },
+            {
+                "id": 27195114,
+                "id_str": "27195114",
+                "name": "Drizzy",
+                "screen_name": "Drake"
+            }
+        ]
+    },
+    {
+        "created_at": "Wed Nov 06 17:15:54 +0000 2019",
+        "hashtags": [],
+        "id": 1192128485134721026,
+        "id_str": "1192128485134721026",
+        "lang": "pt",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/YAUAlR3O9e",
+                "expanded_url": "https://twitter.com/OVOSound/status/1192128180330647554/photo/1",
+                "id": 1192128174089474048,
+                "media_url": "http://pbs.twimg.com/media/EItKQhdWkAAdJlA.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EItKQhdWkAAdJlA.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 2048,
+                        "h": 2048,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 1200,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/YAUAlR3O9e"
+            }
+        ],
+        "retweet_count": 1843,
+        "retweeted_status": {
+            "created_at": "Wed Nov 06 17:14:41 +0000 2019",
+            "favorite_count": 6093,
+            "hashtags": [],
+            "id": 1192128180330647554,
+            "id_str": "1192128180330647554",
+            "lang": "pt",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/YAUAlR3O9e",
+                    "expanded_url": "https://twitter.com/OVOSound/status/1192128180330647554/photo/1",
+                    "id": 1192128174089474048,
+                    "media_url": "http://pbs.twimg.com/media/EItKQhdWkAAdJlA.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EItKQhdWkAAdJlA.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 2048,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/YAUAlR3O9e"
+                }
+            ],
+            "retweet_count": 1843,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "Kevin o Chris \u201cEla \u00c9 do Tipo Remix\u201d ft. @Drake @KevinOChris \n\nhttps://t.co/mjDvMdJkho https://t.co/YAUAlR3O9e",
+            "urls": [
+                {
+                    "expanded_url": "https://OVOSOUND.lnk.to/ElaEdoTipoRemix",
+                    "url": "https://t.co/mjDvMdJkho"
+                }
+            ],
+            "user": {
+                "id": 2675359291,
+                "id_str": "2675359291"
+            },
+            "user_mentions": [
+                {
+                    "id": 27195114,
+                    "id_str": "27195114",
+                    "name": "Drizzy",
+                    "screen_name": "Drake"
+                },
+                {
+                    "id": 873708322452590592,
+                    "id_str": "873708322452590592",
+                    "name": "Kevin O Chris",
+                    "screen_name": "KevinOChris"
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @OVOSound: Kevin o Chris \u201cEla \u00c9 do Tipo Remix\u201d ft. @Drake @KevinOChris \n\nhttps://t.co/mjDvMdJkho https://t.co/YAUAlR3O9e",
+        "urls": [
+            {
+                "expanded_url": "https://OVOSOUND.lnk.to/ElaEdoTipoRemix",
+                "url": "https://t.co/mjDvMdJkho"
+            }
+        ],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 2675359291,
+                "id_str": "2675359291",
+                "name": "OVO Sound",
+                "screen_name": "OVOSound"
+            },
+            {
+                "id": 27195114,
+                "id_str": "27195114",
+                "name": "Drizzy",
+                "screen_name": "Drake"
+            },
+            {
+                "id": 873708322452590592,
+                "id_str": "873708322452590592",
+                "name": "Kevin O Chris",
+                "screen_name": "KevinOChris"
+            }
+        ]
+    },
+    {
+        "created_at": "Thu Sep 26 18:25:38 +0000 2019",
+        "hashtags": [],
+        "id": 1177288130837303297,
+        "id_str": "1177288130837303297",
+        "lang": "en",
+        "retweet_count": 609,
+        "retweeted_status": {
+            "created_at": "Thu Sep 26 16:55:54 +0000 2019",
+            "favorite_count": 3538,
+            "hashtags": [],
+            "id": 1177265549413376000,
+            "id_str": "1177265549413376000",
+            "lang": "en",
+            "retweet_count": 609,
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "text": "TOP BOY Music from the Show &amp; Soundtrack @topboynetflix https://t.co/mWKC5grdln",
+            "urls": [
+                {
+                    "expanded_url": "https://OVOSOUND.lnk.to/TopBoyPlaylists",
+                    "url": "https://t.co/mWKC5grdln"
+                }
+            ],
+            "user": {
+                "id": 2675359291,
+                "id_str": "2675359291"
+            },
+            "user_mentions": [
+                {
+                    "id": 889849904310480896,
+                    "id_str": "889849904310480896",
+                    "name": "Top Boy",
+                    "screen_name": "topboynetflix"
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @OVOSound: TOP BOY Music from the Show &amp; Soundtrack @topboynetflix https://t.co/mWKC5grdln",
+        "urls": [
+            {
+                "expanded_url": "https://OVOSOUND.lnk.to/TopBoyPlaylists",
+                "url": "https://t.co/mWKC5grdln"
+            }
+        ],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 2675359291,
+                "id_str": "2675359291",
+                "name": "OVO Sound",
+                "screen_name": "OVOSound"
+            },
+            {
+                "id": 889849904310480896,
+                "id_str": "889849904310480896",
+                "name": "Top Boy",
+                "screen_name": "topboynetflix"
+            }
+        ]
+    },
+    {
+        "created_at": "Fri Sep 13 04:05:56 +0000 2019",
+        "favorite_count": 5475,
+        "hashtags": [],
+        "id": 1172360739803152384,
+        "id_str": "1172360739803152384",
+        "lang": "en",
+        "retweet_count": 1323,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "TOP BOY (a selection of music inspired by the series) Now Available Everywhere! @OVOSound \nTOP BOY - The Netflix Se\u2026 https://t.co/oGuCDcN8Hh",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1172360739803152384",
+                "url": "https://t.co/oGuCDcN8Hh"
+            }
+        ],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 2675359291,
+                "id_str": "2675359291",
+                "name": "OVO Sound",
+                "screen_name": "OVOSound"
+            }
+        ]
+    },
+    {
+        "created_at": "Wed Sep 11 17:30:48 +0000 2019",
+        "hashtags": [],
+        "id": 1171838517309108224,
+        "id_str": "1171838517309108224",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/tSkdWi32XV",
+                "expanded_url": "https://twitter.com/OVOSound/status/1171798923708719106/photo/1",
+                "id": 1171798918792957953,
+                "media_url": "http://pbs.twimg.com/media/EEMQ6H7XUAEWQ6N.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EEMQ6H7XUAEWQ6N.jpg",
+                "sizes": {
+                    "medium": {
+                        "w": 1197,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1486,
+                        "h": 1490,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 678,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/tSkdWi32XV"
+            }
+        ],
+        "retweet_count": 3207,
+        "retweeted_status": {
+            "created_at": "Wed Sep 11 14:53:29 +0000 2019",
+            "favorite_count": 12234,
+            "hashtags": [],
+            "id": 1171798923708719106,
+            "id_str": "1171798923708719106",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/tSkdWi32XV",
+                    "expanded_url": "https://twitter.com/OVOSound/status/1171798923708719106/photo/1",
+                    "id": 1171798918792957953,
+                    "media_url": "http://pbs.twimg.com/media/EEMQ6H7XUAEWQ6N.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EEMQ6H7XUAEWQ6N.jpg",
+                    "sizes": {
+                        "medium": {
+                            "w": 1197,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1486,
+                            "h": 1490,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 678,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/tSkdWi32XV"
+                }
+            ],
+            "retweet_count": 3207,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "TOP BOY\n  Friday Sept 13 https://t.co/tSkdWi32XV",
+            "urls": [],
+            "user": {
+                "id": 2675359291,
+                "id_str": "2675359291"
+            },
+            "user_mentions": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @OVOSound: TOP BOY\n  Friday Sept 13 https://t.co/tSkdWi32XV",
+        "urls": [],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 2675359291,
+                "id_str": "2675359291",
+                "name": "OVO Sound",
+                "screen_name": "OVOSound"
+            }
+        ]
+    },
+    {
+        "created_at": "Sat Aug 31 22:38:10 +0000 2019",
+        "favorite_count": 9416,
+        "hashtags": [],
+        "id": 1167929601995075589,
+        "id_str": "1167929601995075589",
+        "lang": "en",
+        "retweet_count": 1762,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Almost that time!!! TOP BOY https://t.co/0wDyY4rk5r",
+        "urls": [
+            {
+                "expanded_url": "https://youtu.be/VZ2-PpXOsvw",
+                "url": "https://t.co/0wDyY4rk5r"
+            }
+        ],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Aug 26 16:44:24 +0000 2019",
+        "hashtags": [],
+        "id": 1166028631782506500,
+        "id_str": "1166028631782506500",
+        "lang": "en",
+        "retweet_count": 2017,
+        "retweeted_status": {
+            "created_at": "Mon Aug 26 16:13:56 +0000 2019",
+            "favorite_count": 5831,
+            "hashtags": [],
+            "id": 1166020964511092736,
+            "id_str": "1166020964511092736",
+            "lang": "en",
+            "retweet_count": 2017,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "MONEY IN THE GRAVE. (Video) @Drake @RickRoss https://t.co/IYsKrZ3dIi",
+            "urls": [
+                {
+                    "expanded_url": "https://www.youtube.com/watch?v=R0ykLlhg0AQ",
+                    "url": "https://t.co/IYsKrZ3dIi"
+                }
+            ],
+            "user": {
+                "id": 2675359291,
+                "id_str": "2675359291"
+            },
+            "user_mentions": [
+                {
+                    "id": 27195114,
+                    "id_str": "27195114",
+                    "name": "Drizzy",
+                    "screen_name": "Drake"
+                },
+                {
+                    "id": 149726145,
+                    "id_str": "149726145",
+                    "name": "Yung R\u00e9nz\u00e9l \ud83d\udc51",
+                    "screen_name": "RickRoss"
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @OVOSound: MONEY IN THE GRAVE. (Video) @Drake @RickRoss https://t.co/IYsKrZ3dIi",
+        "urls": [
+            {
+                "expanded_url": "https://www.youtube.com/watch?v=R0ykLlhg0AQ",
+                "url": "https://t.co/IYsKrZ3dIi"
+            }
+        ],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 2675359291,
+                "id_str": "2675359291",
+                "name": "OVO Sound",
+                "screen_name": "OVOSound"
+            },
+            {
+                "id": 27195114,
+                "id_str": "27195114",
+                "name": "Drizzy",
+                "screen_name": "Drake"
+            },
+            {
+                "id": 149726145,
+                "id_str": "149726145",
+                "name": "Yung R\u00e9nz\u00e9l \ud83d\udc51",
+                "screen_name": "RickRoss"
+            }
+        ]
+    },
+    {
+        "created_at": "Sun Aug 04 19:27:30 +0000 2019",
+        "favorite_count": 26623,
+        "hashtags": [],
+        "id": 1158097143216971776,
+        "id_str": "1158097143216971776",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/CaGAvTu8ZM",
+                "expanded_url": "https://twitter.com/Drake/status/1158097143216971776/video/1",
+                "id": 1158097088296738817,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1158097088296738817/pu/img/c4sFHmpTDJyPVDJt.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1158097088296738817/pu/img/c4sFHmpTDJyPVDJt.jpg",
+                "sizes": {
+                    "medium": {
+                        "w": 960,
+                        "h": 960,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 960,
+                        "h": 960,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/CaGAvTu8ZM",
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "duration_millis": 14315,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1158097088296738817/pu/pl/CgYA1i401r8MQxLT.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1158097088296738817/pu/vid/480x480/7Ik8ZtiEwUsfGR38.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 432000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1158097088296738817/pu/vid/320x320/lBp5nOj4TznUazpu.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 1280000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1158097088296738817/pu/vid/720x720/dG4tvKG59dAK_BAa.mp4?tag=10"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 4827,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "TONIGHT @euphoriaHBO EPISODE 8 https://t.co/CaGAvTu8ZM",
+        "urls": [],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 1023959908687982593,
+                "id_str": "1023959908687982593",
+                "name": "euphoria",
+                "screen_name": "euphoriaHBO"
+            }
+        ]
+    },
+    {
+        "created_at": "Fri Aug 02 04:11:47 +0000 2019",
+        "hashtags": [],
+        "id": 1157141923590594560,
+        "id_str": "1157141923590594560",
+        "lang": "en",
+        "retweet_count": 11672,
+        "retweeted_status": {
+            "created_at": "Fri Aug 02 04:03:42 +0000 2019",
+            "favorite_count": 30608,
+            "hashtags": [],
+            "id": 1157139886601752577,
+            "id_str": "1157139886601752577",
+            "lang": "en",
+            "retweet_count": 11672,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "\u201cSome of our most important moments together available in one place\u201d @Drake Care Package https://t.co/bH2C65lk3l",
+            "urls": [
+                {
+                    "expanded_url": "https://Drake.lnk.to/carepackage",
+                    "url": "https://t.co/bH2C65lk3l"
+                }
+            ],
+            "user": {
+                "id": 2675359291,
+                "id_str": "2675359291"
+            },
+            "user_mentions": [
+                {
+                    "id": 27195114,
+                    "id_str": "27195114",
+                    "name": "Drizzy",
+                    "screen_name": "Drake"
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "RT @OVOSound: \u201cSome of our most important moments together available in one place\u201d @Drake Care Package https://t.co/bH2C65lk3l",
+        "urls": [
+            {
+                "expanded_url": "https://Drake.lnk.to/carepackage",
+                "url": "https://t.co/bH2C65lk3l"
+            }
+        ],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 2675359291,
+                "id_str": "2675359291",
+                "name": "OVO Sound",
+                "screen_name": "OVOSound"
+            },
+            {
+                "id": 27195114,
+                "id_str": "27195114",
+                "name": "Drizzy",
+                "screen_name": "Drake"
+            }
+        ]
+    },
+    {
+        "created_at": "Sun Jul 28 21:37:40 +0000 2019",
+        "favorite_count": 16065,
+        "hashtags": [],
+        "id": 1155593186258980864,
+        "id_str": "1155593186258980864",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/F6aEmh3v0W",
+                "expanded_url": "https://twitter.com/Drake/status/1155593186258980864/video/1",
+                "id": 1155593150095745024,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1155593150095745024/pu/img/1k8unpbExtKY9KC9.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1155593150095745024/pu/img/1k8unpbExtKY9KC9.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/F6aEmh3v0W",
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "duration_millis": 15061,
+                    "variants": [
+                        {
+                            "bitrate": 432000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1155593150095745024/pu/vid/320x320/_GFFZGYMVvUfQoyj.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 1280000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1155593150095745024/pu/vid/720x720/qbP3Lv1n32tIRtHV.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1155593150095745024/pu/vid/480x480/k-HFjMNymTGN1Vy5.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1155593150095745024/pu/pl/y-8TJXWdD2IIZgjm.m3u8?tag=10"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 2791,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "TONIGHT @euphoriaHBO EPISODE 7 https://t.co/F6aEmh3v0W",
+        "urls": [],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 1023959908687982593,
+                "id_str": "1023959908687982593",
+                "name": "euphoria",
+                "screen_name": "euphoriaHBO"
+            }
+        ]
+    },
+    {
+        "created_at": "Sun Jul 21 21:53:44 +0000 2019",
+        "favorite_count": 17116,
+        "hashtags": [],
+        "id": 1153060517193236480,
+        "id_str": "1153060517193236480",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/VWmfCcYw7d",
+                "expanded_url": "https://twitter.com/Drake/status/1153060517193236480/video/1",
+                "id": 1153060490664243200,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1153060490664243200/pu/img/UUAWxANHseWU9_OY.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1153060490664243200/pu/img/UUAWxANHseWU9_OY.jpg",
+                "sizes": {
+                    "small": {
+                        "w": 480,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 480,
+                        "h": 480,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 480,
+                        "h": 480,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/VWmfCcYw7d",
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "duration_millis": 14400,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1153060490664243200/pu/vid/480x480/ZRWB52yn2HKaosZm.mp4?tag=10"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1153060490664243200/pu/pl/_pshsS_PNaUgV5vK.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 432000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1153060490664243200/pu/vid/320x320/lyxKZkjcMGquhNEh.mp4?tag=10"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 2956,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "TONIGHT @euphoriaHBO EPISODE 6 https://t.co/VWmfCcYw7d",
+        "urls": [],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 1023959908687982593,
+                "id_str": "1023959908687982593",
+                "name": "euphoria",
+                "screen_name": "euphoriaHBO"
+            }
+        ]
+    },
+    {
+        "created_at": "Sun Jul 14 21:42:43 +0000 2019",
+        "favorite_count": 15354,
+        "hashtags": [],
+        "id": 1150521029644521474,
+        "id_str": "1150521029644521474",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/X0c1h3HVh0",
+                "expanded_url": "https://twitter.com/Drake/status/1150521029644521474/video/1",
+                "id": 1150520982718652416,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1150520982718652416/pu/img/ztcPhxEIU-2DrS2N.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1150520982718652416/pu/img/ztcPhxEIU-2DrS2N.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/X0c1h3HVh0",
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "duration_millis": 10837,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1150520982718652416/pu/pl/T9zLB-nxOvLNox9X.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 1280000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1150520982718652416/pu/vid/720x720/hDADWCyNotge_HDZ.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 432000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1150520982718652416/pu/vid/320x320/aiaqesA_yjL2gyrz.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1150520982718652416/pu/vid/480x480/9XRAu9NkXsBf0rF-.mp4?tag=10"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 2749,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "TONIGHT @euphoriaHBO EPISODE 5 https://t.co/X0c1h3HVh0",
+        "urls": [],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 1023959908687982593,
+                "id_str": "1023959908687982593",
+                "name": "euphoria",
+                "screen_name": "euphoriaHBO"
+            }
+        ]
+    },
+    {
+        "created_at": "Sun Jul 07 21:34:51 +0000 2019",
+        "favorite_count": 13351,
+        "hashtags": [],
+        "id": 1147982331870769152,
+        "id_str": "1147982331870769152",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/TRDwHoNVsH",
+                "expanded_url": "https://twitter.com/Drake/status/1147982331870769152/video/1",
+                "id": 1147982280436015104,
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1147982280436015104/pu/img/fWEbUNZgieXOBWlT.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1147982280436015104/pu/img/fWEbUNZgieXOBWlT.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 720,
+                        "h": 720,
+                        "resize": "fit"
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/TRDwHoNVsH",
+                "video_info": {
+                    "aspect_ratio": [
+                        1,
+                        1
+                    ],
+                    "duration_millis": 9009,
+                    "variants": [
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1147982280436015104/pu/pl/DfV5bbvIuqVdg8zn.m3u8?tag=10"
+                        },
+                        {
+                            "bitrate": 432000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1147982280436015104/pu/vid/320x320/pqzUy4e-wTkWucAn.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1147982280436015104/pu/vid/480x480/z5oDO--0TgMnc5M6.mp4?tag=10"
+                        },
+                        {
+                            "bitrate": 1280000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1147982280436015104/pu/vid/720x720/VdeZraq9_oEsCL7d.mp4?tag=10"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 2097,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "TONIGHT @euphoriaHBO EPISODE 4 https://t.co/TRDwHoNVsH",
+        "urls": [],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 1023959908687982593,
+                "id_str": "1023959908687982593",
+                "name": "euphoria",
+                "screen_name": "euphoriaHBO"
+            }
+        ]
+    },
+    {
+        "created_at": "Sat Jun 15 07:03:13 +0000 2019",
+        "hashtags": [],
+        "id": 1139790446576537601,
+        "id_str": "1139790446576537601",
+        "lang": "en",
+        "retweet_count": 15601,
+        "retweeted_status": {
+            "created_at": "Sat Jun 15 07:00:42 +0000 2019",
+            "favorite_count": 40210,
+            "hashtags": [],
+            "id": 1139789811965997056,
+            "id_str": "1139789811965997056",
+            "lang": "en",
+            "retweet_count": 15601,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "The Best In The World Pack @Drake https://t.co/39GzXua3Va",
+            "urls": [
+                {
+                    "expanded_url": "https://Drake.lnk.to/TBITWP",
+                    "url": "https://t.co/39GzXua3Va"
+                }
+            ],
+            "user": {
+                "id": 2675359291,
+                "id_str": "2675359291"
+            },
+            "user_mentions": [
+                {
+                    "id": 27195114,
+                    "id_str": "27195114",
+                    "name": "Drizzy",
+                    "screen_name": "Drake"
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "RT @OVOSound: The Best In The World Pack @Drake https://t.co/39GzXua3Va",
+        "urls": [
+            {
+                "expanded_url": "https://Drake.lnk.to/TBITWP",
+                "url": "https://t.co/39GzXua3Va"
+            }
+        ],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": [
+            {
+                "id": 2675359291,
+                "id_str": "2675359291",
+                "name": "OVO Sound",
+                "screen_name": "OVOSound"
+            },
+            {
+                "id": 27195114,
+                "id_str": "27195114",
+                "name": "Drizzy",
+                "screen_name": "Drake"
+            }
+        ]
+    },
+    {
+        "created_at": "Mon May 13 19:21:25 +0000 2019",
+        "favorite_count": 18990,
+        "hashtags": [],
+        "id": 1128017422160617473,
+        "id_str": "1128017422160617473",
+        "lang": "en",
+        "retweet_count": 2187,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "text": "Supporting  home grown businesses has always been a top priority of mine, so when an opportunity came up to get inv\u2026 https://t.co/3ZHYPWDcz5",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1128017422160617473",
+                "url": "https://t.co/3ZHYPWDcz5"
+            }
+        ],
+        "user": {
+            "id": 27195114,
+            "id_str": "27195114"
+        },
+        "user_mentions": []
+    }
+]

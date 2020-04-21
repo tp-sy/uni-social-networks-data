@@ -1,0 +1,5262 @@
+[
+    {
+        "created_at": "Thu Apr 16 16:13:35 +0000 2020",
+        "favorite_count": 3515,
+        "hashtags": [],
+        "id": 1250819637769654273,
+        "id_str": "1250819637769654273",
+        "lang": "en",
+        "retweet_count": 1611,
+        "source": "<a href=\"https://www.twitter.com/\" rel=\"nofollow\">Twitter Media Studio - LiveCut</a>",
+        "text": "\u201cRelaxing any of the measures currently in place would risk damage to both public health and the economy\u201d\n\nForeign\u2026 https://t.co/kfK3g0R52k",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1250819637769654273",
+                "url": "https://t.co/kfK3g0R52k"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Apr 16 16:05:49 +0000 2020",
+        "favorite_count": 13062,
+        "hashtags": [],
+        "id": 1250817681940525057,
+        "id_str": "1250817681940525057",
+        "lang": "en",
+        "retweet_count": 6835,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "UK lockdown to be extended for at least the next three weeks, Foreign Secretary Dominic Raab announces https://t.co/5mTYqurvl9",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2VbEyvU",
+                "url": "https://t.co/5mTYqurvl9"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Apr 16 12:48:59 +0000 2020",
+        "favorite_count": 1621,
+        "hashtags": [],
+        "id": 1250768148967624705,
+        "id_str": "1250768148967624705",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/HNLmO0N16D",
+                "expanded_url": "https://twitter.com/BBCBreaking/status/1250768148967624705/photo/1",
+                "id": 1250768147101220864,
+                "media_url": "http://pbs.twimg.com/media/EVufAMBXgAAGEZQ.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EVufAMBXgAAGEZQ.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/HNLmO0N16D"
+            }
+        ],
+        "retweet_count": 818,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "US jobless claims exceed 21 million as coronavirus lockdown brings economy to virtual halt\n\nhttps://t.co/aNb3FJJ3bP https://t.co/HNLmO0N16D",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2XEYWah",
+                "url": "https://t.co/aNb3FJJ3bP"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Apr 15 16:14:13 +0000 2020",
+        "favorite_count": 2533,
+        "hashtags": [],
+        "id": 1250457407655985156,
+        "id_str": "1250457407655985156",
+        "lang": "en",
+        "retweet_count": 596,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Close family members will be able to say goodbye to dying relatives in care homes under new UK coronavirus advice https://t.co/5h4Ebp9er5",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/34Ebmk9",
+                "url": "https://t.co/5h4Ebp9er5"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Apr 15 15:13:37 +0000 2020",
+        "favorite_count": 1384,
+        "hashtags": [],
+        "id": 1250442159460761608,
+        "id_str": "1250442159460761608",
+        "in_reply_to_screen_name": "BBCBreaking",
+        "in_reply_to_status_id": 1250427100869193728,
+        "in_reply_to_user_id": 5402612,
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/x17Ew9TEjs",
+                "expanded_url": "https://twitter.com/BBCBreaking/status/1250442159460761608/photo/1",
+                "id": 1250441759529697283,
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/EVp2J7kVAAMTy7J.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVp2J7kVAAMTy7J.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 800,
+                        "h": 500,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 425,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 800,
+                        "h": 500,
+                        "resize": "fit"
+                    }
+                },
+                "type": "animated_gif",
+                "url": "https://t.co/x17Ew9TEjs",
+                "video_info": {
+                    "aspect_ratio": [
+                        8,
+                        5
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/EVp2J7kVAAMTy7J.mp4"
+                        }
+                    ]
+                }
+            }
+        ],
+        "retweet_count": 957,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "More than 500,000 people have recovered from coronavirus globally, while 128,000 have died\n\nhttps://t.co/wSjgXoStCs https://t.co/x17Ew9TEjs",
+        "urls": [
+            {
+                "expanded_url": "http://bbc.in/2Vob1j4",
+                "url": "https://t.co/wSjgXoStCs"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Apr 15 14:13:47 +0000 2020",
+        "favorite_count": 3259,
+        "hashtags": [],
+        "id": 1250427100869193728,
+        "id_str": "1250427100869193728",
+        "lang": "en",
+        "retweet_count": 1855,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Global confirmed cases of coronavirus reach two million, but the true number of infections is likely to be much hig\u2026 https://t.co/419nxmH25q",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1250427100869193728",
+                "url": "https://t.co/419nxmH25q"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Tue Apr 14 22:40:59 +0000 2020",
+        "favorite_count": 7103,
+        "hashtags": [],
+        "id": 1250192355015168007,
+        "id_str": "1250192355015168007",
+        "lang": "en",
+        "retweet_count": 2766,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "US to halt funding to World Health Organization which 'failed in its basic duty' over coronavirus, Donald Trump says https://t.co/zqoa7CGPGR",
+        "urls": [
+            {
+                "expanded_url": "https://www.bbc.com/news/world-us-canada-52289056",
+                "url": "https://t.co/zqoa7CGPGR"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sun Apr 12 14:44:24 +0000 2020",
+        "favorite_count": 3113,
+        "hashtags": [],
+        "id": 1249347642976546817,
+        "id_str": "1249347642976546817",
+        "lang": "en",
+        "retweet_count": 1711,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "The number of people who have died in hospital with coronavirus in the UK passes 10,000, after a daily rise of 737 https://t.co/ouZk8uFwZa",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2VmbNLF",
+                "url": "https://t.co/ouZk8uFwZa"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sun Apr 12 12:33:25 +0000 2020",
+        "favorite_count": 14050,
+        "hashtags": [],
+        "id": 1249314679601725440,
+        "id_str": "1249314679601725440",
+        "lang": "en",
+        "retweet_count": 3598,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "UK PM Boris Johnson leaves hospital after being treated for coronavirus, but will not immediately return to work https://t.co/0DkFDIg2rr",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2Xs2U5V",
+                "url": "https://t.co/0DkFDIg2rr"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sun Apr 12 10:12:45 +0000 2020",
+        "hashtags": [],
+        "id": 1249279278442786816,
+        "id_str": "1249279278442786816",
+        "lang": "en",
+        "retweet_count": 1145,
+        "retweeted_status": {
+            "created_at": "Sun Apr 12 10:09:25 +0000 2020",
+            "favorite_count": 5469,
+            "hashtags": [],
+            "id": 1249278439103791104,
+            "id_str": "1249278439103791104",
+            "lang": "en",
+            "retweet_count": 1145,
+            "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+            "text": "British motor racing legend Sir Stirling Moss has died at the age of 90 following a long illness.",
+            "urls": [],
+            "user": {
+                "id": 265902729,
+                "id_str": "265902729"
+            },
+            "user_mentions": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "RT @BBCSport: British motor racing legend Sir Stirling Moss has died at the age of 90 following a long illness.",
+        "urls": [],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": [
+            {
+                "id": 265902729,
+                "id_str": "265902729",
+                "name": "BBC Sport",
+                "screen_name": "BBCSport"
+            }
+        ]
+    },
+    {
+        "created_at": "Fri Apr 10 17:51:54 +0000 2020",
+        "favorite_count": 1805,
+        "hashtags": [],
+        "id": 1248670054071369731,
+        "id_str": "1248670054071369731",
+        "lang": "en",
+        "retweet_count": 891,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Coronavirus death toll now more than 100,000 globally - Johns Hopkins University https://t.co/6P1H6FNu2L",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3b0gGAH",
+                "url": "https://t.co/6P1H6FNu2L"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Apr 09 18:22:43 +0000 2020",
+        "favorite_count": 44285,
+        "hashtags": [],
+        "id": 1248315419833794566,
+        "id_str": "1248315419833794566",
+        "lang": "en",
+        "retweet_count": 9212,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Prime Minister Boris Johnson has been moved out of intensive care but remains in hospital, Downing Street says https://t.co/2Z60QKpZTC",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2Rr5nK5",
+                "url": "https://t.co/2Z60QKpZTC"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Apr 08 16:21:00 +0000 2020",
+        "favorite_count": 6474,
+        "hashtags": [],
+        "id": 1247922400089473024,
+        "id_str": "1247922400089473024",
+        "lang": "en",
+        "retweet_count": 1179,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "UK Prime Minister Boris Johnson still in intensive care but \"improving\" and \"sitting up in bed\" - chancellor https://t.co/ydNm1OLhrk",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2yNrCDP",
+                "url": "https://t.co/ydNm1OLhrk"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Apr 08 15:30:02 +0000 2020",
+        "favorite_count": 3672,
+        "hashtags": [],
+        "id": 1247909576739033090,
+        "id_str": "1247909576739033090",
+        "lang": "en",
+        "retweet_count": 1627,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Bernie Sanders suspends campaign for nomination as US Democratic Party presidential candidate https://t.co/u0zX8tHJCv",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3c6iGHF",
+                "url": "https://t.co/u0zX8tHJCv"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Apr 08 14:43:53 +0000 2020",
+        "favorite_count": 893,
+        "hashtags": [],
+        "id": 1247897961670967302,
+        "id_str": "1247897961670967302",
+        "lang": "en",
+        "retweet_count": 295,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Lorry driver pleads guilty to 39 counts of manslaughter after Vietnamese migrants were found dead in a refrigerated\u2026 https://t.co/PJ9Wha2U4J",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1247897961670967302",
+                "url": "https://t.co/PJ9Wha2U4J"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Tue Apr 07 00:11:29 +0000 2020",
+        "favorite_count": 1439,
+        "hashtags": [],
+        "id": 1247316027941281797,
+        "id_str": "1247316027941281797",
+        "lang": "en",
+        "retweet_count": 599,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "The most senior Catholic jailed for child sexual abuse, Australian Cardinal George Pell, has his convictions quashed https://t.co/LIqrzMWO52",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/39NKCi3",
+                "url": "https://t.co/LIqrzMWO52"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Apr 06 19:47:19 +0000 2020",
+        "favorite_count": 3978,
+        "hashtags": [],
+        "id": 1247249548931747840,
+        "id_str": "1247249548931747840",
+        "in_reply_to_screen_name": "BBCBreaking",
+        "in_reply_to_status_id": 1247241845387735043,
+        "in_reply_to_user_id": 5402612,
+        "lang": "en",
+        "retweet_count": 1948,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "UK PM Boris Johnson, who is in intensive care, has asked Foreign Secretary Dominic Raab to stand in \"where necessar\u2026 https://t.co/vYgz1OndDg",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1247249548931747840",
+                "url": "https://t.co/vYgz1OndDg"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Apr 06 19:16:43 +0000 2020",
+        "favorite_count": 36762,
+        "hashtags": [],
+        "id": 1247241845387735043,
+        "id_str": "1247241845387735043",
+        "lang": "en",
+        "retweet_count": 25908,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "UK Prime Minister Boris Johnson, who has coronavirus, has been taken to intensive care https://t.co/hQClxR7lRt",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/39Pb8Yy",
+                "url": "https://t.co/hQClxR7lRt"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Apr 06 16:01:30 +0000 2020",
+        "favorite_count": 6816,
+        "hashtags": [],
+        "id": 1247192718503292931,
+        "id_str": "1247192718503292931",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/aCI1H5dQWW",
+                "expanded_url": "https://twitter.com/BBCBreaking/status/1247192718503292931/photo/1",
+                "id": 1247192715625934854,
+                "media_url": "http://pbs.twimg.com/media/EU7rKr1WsAYXbCC.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EU7rKr1WsAYXbCC.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "medium": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1024,
+                        "h": 576,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/aCI1H5dQWW"
+            }
+        ],
+        "retweet_count": 1931,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Honor Blackman, James Bond\u2019s Pussy Galore and star of The Avengers, has died aged 94\n\nhttps://t.co/yKhIsz0MFE https://t.co/aCI1H5dQWW",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2yEA5ZP",
+                "url": "https://t.co/yKhIsz0MFE"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Apr 06 14:30:14 +0000 2020",
+        "hashtags": [],
+        "id": 1247169748883902464,
+        "id_str": "1247169748883902464",
+        "lang": "en",
+        "retweet_count": 198,
+        "retweeted_status": {
+            "created_at": "Mon Apr 06 14:10:46 +0000 2020",
+            "favorite_count": 554,
+            "hashtags": [],
+            "id": 1247164852465856516,
+            "id_str": "1247164852465856516",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/1EMj0kQjm2",
+                    "expanded_url": "https://twitter.com/BBCSport/status/1247164852465856516/photo/1",
+                    "id": 1247164794542538757,
+                    "media_url": "http://pbs.twimg.com/media/EU7RxdsUwAU7Y2d.png",
+                    "media_url_https": "https://pbs.twimg.com/media/EU7RxdsUwAU7Y2d.png",
+                    "sizes": {
+                        "large": {
+                            "w": 576,
+                            "h": 322,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 576,
+                            "h": 322,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 576,
+                            "h": 322,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/1EMj0kQjm2"
+                }
+            ],
+            "retweet_count": 198,
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "text": "The Open Championship has been cancelled because of the coronavirus pandemic.\n\nMore: https://t.co/YvIQ25gUFQ https://t.co/1EMj0kQjm2",
+            "urls": [
+                {
+                    "expanded_url": "https://bbc.in/39LRXyN",
+                    "url": "https://t.co/YvIQ25gUFQ"
+                }
+            ],
+            "user": {
+                "id": 265902729,
+                "id_str": "265902729"
+            },
+            "user_mentions": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "RT @BBCSport: The Open Championship has been cancelled because of the coronavirus pandemic.\n\nMore: https://t.co/YvIQ25gUFQ https://t.co/1EM\u2026",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/39LRXyN",
+                "url": "https://t.co/YvIQ25gUFQ"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": [
+            {
+                "id": 265902729,
+                "id_str": "265902729",
+                "name": "BBC Sport",
+                "screen_name": "BBCSport"
+            }
+        ]
+    },
+    {
+        "created_at": "Sun Apr 05 21:06:05 +0000 2020",
+        "favorite_count": 5477,
+        "hashtags": [],
+        "id": 1246906980628905988,
+        "id_str": "1246906980628905988",
+        "lang": "en",
+        "retweet_count": 1560,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Scotland's chief medical officer resigns after apologising for visiting second home during the coronavirus lockdown https://t.co/w8bmDktqB7",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3bX26u3",
+                "url": "https://t.co/w8bmDktqB7"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sun Apr 05 20:16:08 +0000 2020",
+        "favorite_count": 18194,
+        "hashtags": [],
+        "id": 1246894412472483841,
+        "id_str": "1246894412472483841",
+        "lang": "en",
+        "retweet_count": 12107,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "UK Prime Minister Boris Johnson admitted to hospital for tests, 10 days after testing positive for coronavirus https://t.co/RhjYRNfpUN",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2JD2OQS",
+                "url": "https://t.co/RhjYRNfpUN"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sun Apr 05 19:05:50 +0000 2020",
+        "favorite_count": 10536,
+        "hashtags": [],
+        "id": 1246876720952639492,
+        "id_str": "1246876720952639492",
+        "lang": "en",
+        "retweet_count": 2736,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Queen Elizabeth II says the UK \"will succeed\" in its fight against coronavirus but may have \"more still to endure\",\u2026 https://t.co/Xh25OsNfRt",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1246876720952639492",
+                "url": "https://t.co/Xh25OsNfRt"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sat Apr 04 15:11:21 +0000 2020",
+        "favorite_count": 3490,
+        "hashtags": [],
+        "id": 1246455323180883970,
+        "id_str": "1246455323180883970",
+        "lang": "en",
+        "retweet_count": 1664,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "A five-year-old child with underlying health conditions is among 708 in UK who died with coronavirus over past day https://t.co/EXNK9WsH0a",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/39OnbFD",
+                "url": "https://t.co/EXNK9WsH0a"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sat Apr 04 10:09:27 +0000 2020",
+        "favorite_count": 652,
+        "hashtags": [],
+        "id": 1246379348086722565,
+        "id_str": "1246379348086722565",
+        "in_reply_to_screen_name": "BBCBreaking",
+        "in_reply_to_status_id": 1246377790800375811,
+        "in_reply_to_user_id": 5402612,
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/5KVpTp7KfU",
+                "expanded_url": "https://twitter.com/BBCBreaking/status/1246379348086722565/photo/1",
+                "id": 1246379218683990016,
+                "media_url": "http://pbs.twimg.com/media/EUwHS7kWkAAqkAP.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EUwHS7kWkAAqkAP.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 382,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 907,
+                        "h": 510,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 907,
+                        "h": 510,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/5KVpTp7KfU"
+            }
+        ],
+        "retweet_count": 134,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Shadow Education Secretary Angela Rayner is elected deputy leader of the Labour Party \n\nhttps://t.co/RHvqeyHAHF https://t.co/5KVpTp7KfU",
+        "urls": [
+            {
+                "expanded_url": "http://bbc.in/2JA2imO",
+                "url": "https://t.co/RHvqeyHAHF"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sat Apr 04 10:03:16 +0000 2020",
+        "favorite_count": 1265,
+        "hashtags": [],
+        "id": 1246377790800375811,
+        "id_str": "1246377790800375811",
+        "in_reply_to_screen_name": "BBCBreaking",
+        "in_reply_to_status_id": 1246375017870512128,
+        "in_reply_to_user_id": 5402612,
+        "lang": "en",
+        "retweet_count": 318,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Sir Keir Starmer has defeated Rebecca Long-Bailey and Lisa Nandy to succeed Jeremy Corbyn as new Labour Party leade\u2026 https://t.co/LpR0aTbS1X",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1246377790800375811",
+                "url": "https://t.co/LpR0aTbS1X"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sat Apr 04 09:52:15 +0000 2020",
+        "favorite_count": 4623,
+        "hashtags": [],
+        "id": 1246375017870512128,
+        "id_str": "1246375017870512128",
+        "lang": "en",
+        "retweet_count": 1360,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Sir Keir Starmer is announced as the new leader of the Labour Party, succeeding Jeremy Corbyn https://t.co/vn9Zn1QJfJ",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3bR6ISa",
+                "url": "https://t.co/vn9Zn1QJfJ"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Apr 03 14:23:11 +0000 2020",
+        "favorite_count": 9198,
+        "hashtags": [],
+        "id": 1246080814410018816,
+        "id_str": "1246080814410018816",
+        "lang": "en",
+        "retweet_count": 3376,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "'Ain't No Sunshine' and 'Lean On Me' singer Bill Withers dies at 81 https://t.co/33bSi8EvO2",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3bGbMsG",
+                "url": "https://t.co/33bSi8EvO2"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Apr 03 13:29:50 +0000 2020",
+        "favorite_count": 5452,
+        "hashtags": [],
+        "id": 1246067387587276801,
+        "id_str": "1246067387587276801",
+        "lang": "en",
+        "retweet_count": 1732,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Queen to make televised address to the nation on Sunday after further 684 people die with coronavirus in the UK https://t.co/lG6zIDHl7a",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3dQESat",
+                "url": "https://t.co/lG6zIDHl7a"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Apr 02 19:59:03 +0000 2020",
+        "favorite_count": 2006,
+        "hashtags": [],
+        "id": 1245802949621710850,
+        "id_str": "1245802949621710850",
+        "in_reply_to_screen_name": "BBCBreaking",
+        "in_reply_to_status_id": 1245798041099161600,
+        "in_reply_to_user_id": 5402612,
+        "lang": "en",
+        "retweet_count": 1631,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "The United States has registered 236,339 of the one million cases, while Italy has the highest death toll\n\nMore tha\u2026 https://t.co/1Rnx6Sb4A9",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1245802949621710850",
+                "url": "https://t.co/1Rnx6Sb4A9"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Apr 02 19:39:33 +0000 2020",
+        "favorite_count": 6234,
+        "hashtags": [],
+        "id": 1245798041099161600,
+        "id_str": "1245798041099161600",
+        "lang": "en",
+        "retweet_count": 4497,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Confirmed global coronavirus cases pass one million, after doubling in less than a week https://t.co/KW6JWgtJlZ",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2R6fLXM",
+                "url": "https://t.co/KW6JWgtJlZ"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Apr 02 16:57:40 +0000 2020",
+        "favorite_count": 1437,
+        "hashtags": [],
+        "id": 1245757302876934146,
+        "id_str": "1245757302876934146",
+        "lang": "en",
+        "retweet_count": 422,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "UK Health Secretary Matt Hancock says he wants to introduce \"100,000 tests per day by the end of this month\"\n\n\"It i\u2026 https://t.co/zMjO2GivaZ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1245757302876934146",
+                "url": "https://t.co/zMjO2GivaZ"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Apr 02 12:42:51 +0000 2020",
+        "favorite_count": 1389,
+        "hashtags": [],
+        "id": 1245693176117170178,
+        "id_str": "1245693176117170178",
+        "lang": "en",
+        "retweet_count": 631,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "A record 6.6 million Americans filed unemployment claims last week, as the US struggles to contain coronavirus https://t.co/3UQwvRwQml",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3dK4Z2W",
+                "url": "https://t.co/3UQwvRwQml"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Apr 02 11:44:20 +0000 2020",
+        "favorite_count": 1603,
+        "hashtags": [],
+        "id": 1245678448007417867,
+        "id_str": "1245678448007417867",
+        "lang": "en",
+        "retweet_count": 393,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Comedian Eddie Large, best known for his partnership with Syd Little, has died aged 78 https://t.co/ojOJftS3Ad",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2X3tGBG",
+                "url": "https://t.co/ojOJftS3Ad"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Apr 01 15:12:34 +0000 2020",
+        "favorite_count": 3837,
+        "hashtags": [],
+        "id": 1245368465504055303,
+        "id_str": "1245368465504055303",
+        "lang": "en",
+        "retweet_count": 1916,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Wimbledon tennis tournament cancelled for the first time since World War Two because of coronavirus pandemic https://t.co/SWb70xavdv",
+        "urls": [
+            {
+                "expanded_url": "http://bbc.in/3dLfcw3",
+                "url": "https://t.co/SWb70xavdv"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Tue Mar 31 19:44:44 +0000 2020",
+        "favorite_count": 5405,
+        "hashtags": [],
+        "id": 1245074571633594369,
+        "id_str": "1245074571633594369",
+        "lang": "en",
+        "retweet_count": 3245,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "A 13-year-old boy who tested positive for coronavirus has died, says London's King's College Hospital Trust https://t.co/wlRREnPbQR",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3dDKyEV",
+                "url": "https://t.co/wlRREnPbQR"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Tue Mar 31 09:54:27 +0000 2020",
+        "favorite_count": 2109,
+        "hashtags": [],
+        "id": 1244926019146047488,
+        "id_str": "1244926019146047488",
+        "lang": "en",
+        "retweet_count": 1004,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Spain sees highest number of fatalities from coronavirus in a single day - 849 https://t.co/fNwi7MaLAu",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2UuzD8K",
+                "url": "https://t.co/fNwi7MaLAu"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Mar 30 16:32:28 +0000 2020",
+        "favorite_count": 1611,
+        "hashtags": [],
+        "id": 1244663797899497475,
+        "id_str": "1244663797899497475",
+        "lang": "en",
+        "retweet_count": 492,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "UK government announces new plan to fly home tens of thousands of Britons stranded by coronavirus pandemic https://t.co/8ZX7H6SFqB",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2UHDePS",
+                "url": "https://t.co/8ZX7H6SFqB"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Mar 30 11:43:49 +0000 2020",
+        "favorite_count": 5142,
+        "hashtags": [],
+        "id": 1244591154496262144,
+        "id_str": "1244591154496262144",
+        "lang": "en",
+        "retweet_count": 1252,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Prince Charles is out of self-isolation, seven days after it was reported he had tested positive for coronavirus https://t.co/xugz5rkXFu",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3bCk9p3",
+                "url": "https://t.co/xugz5rkXFu"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sat Mar 28 16:47:07 +0000 2020",
+        "favorite_count": 4306,
+        "hashtags": [],
+        "id": 1243942709070618624,
+        "id_str": "1243942709070618624",
+        "lang": "en",
+        "retweet_count": 1588,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "President Trump considering imposing quarantine on New York as coronavirus cases there increase to more than 52,000 https://t.co/KiJCv57H2v",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2UHtpS2",
+                "url": "https://t.co/KiJCv57H2v"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sat Mar 28 14:20:27 +0000 2020",
+        "favorite_count": 3105,
+        "hashtags": [],
+        "id": 1243905796263510016,
+        "id_str": "1243905796263510016",
+        "lang": "en",
+        "retweet_count": 1690,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "1,019 people have died after testing positive for coronavirus in the UK, up from 759 https://t.co/KdOMPqVQbe",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3byEJ9T",
+                "url": "https://t.co/KdOMPqVQbe"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Mar 27 13:13:50 +0000 2020",
+        "favorite_count": 3376,
+        "hashtags": [],
+        "id": 1243526646876995584,
+        "id_str": "1243526646876995584",
+        "lang": "en",
+        "retweet_count": 2179,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "UK Health Secretary Matt Hancock has tested positive for coronavirus, and is self-isolating at home with mild sympt\u2026 https://t.co/D9srFvlpMI",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1243526646876995584",
+                "url": "https://t.co/D9srFvlpMI"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Mar 27 11:45:50 +0000 2020",
+        "favorite_count": 4094,
+        "hashtags": [],
+        "id": 1243504498489901058,
+        "id_str": "1243504498489901058",
+        "in_reply_to_screen_name": "BBCBreaking",
+        "in_reply_to_status_id": 1243497891978756096,
+        "in_reply_to_user_id": 5402612,
+        "lang": "en",
+        "retweet_count": 1795,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "\"I've developed mild symptoms of the coronavirus\"\n\nUK PM Boris Johnson tweets video to say he is self-isolating in\u2026 https://t.co/lWve51TXNH",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1243504498489901058",
+                "url": "https://t.co/lWve51TXNH"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Mar 27 11:19:35 +0000 2020",
+        "favorite_count": 38377,
+        "hashtags": [],
+        "id": 1243497891978756096,
+        "id_str": "1243497891978756096",
+        "lang": "en",
+        "retweet_count": 25094,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "UK Prime Minister Boris Johnson tests positive for coronavirus and is experiencing mild symptoms, says No 10 https://t.co/IjA7PNb2da",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2JhFB6D",
+                "url": "https://t.co/IjA7PNb2da"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Mar 26 21:59:26 +0000 2020",
+        "favorite_count": 5401,
+        "hashtags": [],
+        "id": 1243296530825719808,
+        "id_str": "1243296530825719808",
+        "lang": "en",
+        "retweet_count": 3106,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "US now has more confirmed cases of coronavirus, 82,404, than China - Johns Hopkins University figures https://t.co/8nSatw1t0w",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2wvDTvR",
+                "url": "https://t.co/8nSatw1t0w"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Mar 26 18:13:13 +0000 2020",
+        "favorite_count": 3656,
+        "hashtags": [],
+        "id": 1243239599486521344,
+        "id_str": "1243239599486521344",
+        "lang": "en",
+        "retweet_count": 2202,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Number of people in UK who died with coronavirus jumps by more than 100 in a day for first time https://t.co/qkykHQr1Fl",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2xwv3Of",
+                "url": "https://t.co/qkykHQr1Fl"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Mar 26 17:08:24 +0000 2020",
+        "favorite_count": 4446,
+        "hashtags": [],
+        "id": 1243223287792128002,
+        "id_str": "1243223287792128002",
+        "lang": "en",
+        "retweet_count": 1782,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Self-employed to be paid 80% of profits, up to \u00a32,500 a month, to help them cope with coronavirus crisis, UK says https://t.co/x1l3U8Pza4",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/33RU8PR",
+                "url": "https://t.co/x1l3U8Pza4"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Mar 26 15:28:07 +0000 2020",
+        "favorite_count": 2979,
+        "hashtags": [],
+        "id": 1243198050270576641,
+        "id_str": "1243198050270576641",
+        "lang": "en",
+        "retweet_count": 1485,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "US charges Venezuelan President Nicolas Maduro with narco-terrorism and offers $15m for his arrest https://t.co/3N1OyglOYL",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2vQSXUh",
+                "url": "https://t.co/3N1OyglOYL"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Mar 26 12:54:38 +0000 2020",
+        "favorite_count": 2391,
+        "hashtags": [],
+        "id": 1243159427408105472,
+        "id_str": "1243159427408105472",
+        "lang": "en",
+        "retweet_count": 872,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "A record 3.3 million Americans filed for unemployment last week - showing economic carnage caused by coronavirus https://t.co/DevtyTtJSw",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2Je464E",
+                "url": "https://t.co/DevtyTtJSw"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Mar 25 22:35:23 +0000 2020",
+        "favorite_count": 3349,
+        "hashtags": [],
+        "id": 1242943189021003779,
+        "id_str": "1242943189021003779",
+        "lang": "en",
+        "retweet_count": 1033,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Gunman who killed 51 people in attacks on two mosques in Christchurch a year ago pleads guilty to all charges https://t.co/8ncincpCC5",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2WLnr58",
+                "url": "https://t.co/8ncincpCC5"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Mar 25 13:42:50 +0000 2020",
+        "favorite_count": 2322,
+        "hashtags": [],
+        "id": 1242809168144318470,
+        "id_str": "1242809168144318470",
+        "lang": "en",
+        "retweet_count": 718,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Russia's President Putin postpones vote on constitution change allowing him to stay in power, due to coronavirus https://t.co/EcK7gjawe3",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2wBqvpU",
+                "url": "https://t.co/EcK7gjawe3"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Mar 25 13:39:09 +0000 2020",
+        "favorite_count": 868,
+        "hashtags": [],
+        "id": 1242808239835811841,
+        "id_str": "1242808239835811841",
+        "lang": "en",
+        "retweet_count": 295,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Russia's President Putin postpones vote on constitutional reform allowing him to stay in power, due to coronavirus https://t.co/dSdiGXriSA",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2JgIO6x",
+                "url": "https://t.co/dSdiGXriSA"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Mar 25 11:41:07 +0000 2020",
+        "favorite_count": 1468,
+        "hashtags": [],
+        "id": 1242778537276461056,
+        "id_str": "1242778537276461056",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/doc0DKhfwO",
+                "expanded_url": "https://twitter.com/BBCBreaking/status/1242778537276461056/photo/1",
+                "id": 1242778531777691649,
+                "media_url": "http://pbs.twimg.com/media/ET88fXkXQAE5EY7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ET88fXkXQAE5EY7.jpg",
+                "sizes": {
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/doc0DKhfwO"
+            }
+        ],
+        "retweet_count": 844,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Spain's coronavirus death toll exceeds China's, becoming second highest in the world\n\nhttps://t.co/Ut4J3z7roB https://t.co/doc0DKhfwO",
+        "urls": [
+            {
+                "expanded_url": "http://bbc.in/2wCqdyT",
+                "url": "https://t.co/Ut4J3z7roB"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Mar 25 10:40:39 +0000 2020",
+        "favorite_count": 16558,
+        "hashtags": [],
+        "id": 1242763319762661376,
+        "id_str": "1242763319762661376",
+        "lang": "en",
+        "retweet_count": 12632,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Prince of Wales, 71, tests positive for coronavirus and has mild symptoms \"but otherwise remains in good health\" https://t.co/cQWwM4rHmP",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2UzgBx5",
+                "url": "https://t.co/cQWwM4rHmP"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Tue Mar 24 14:52:40 +0000 2020",
+        "favorite_count": 6772,
+        "hashtags": [],
+        "id": 1242464352000602112,
+        "id_str": "1242464352000602112",
+        "lang": "en",
+        "retweet_count": 3017,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "India's 1.3 billion people will go into full lockdown in just four hours time in bid to slow coronavirus - PM Modi https://t.co/xiSvabvzoZ",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2QHywQY",
+                "url": "https://t.co/xiSvabvzoZ"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Tue Mar 24 12:32:48 +0000 2020",
+        "favorite_count": 1656,
+        "hashtags": [],
+        "id": 1242429154886397955,
+        "id_str": "1242429154886397955",
+        "lang": "en",
+        "retweet_count": 733,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Olympics host Japan ask for this year's games to be postponed over the coronavirus crisis https://t.co/SiEtBPGdhD",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2UgOnIc",
+                "url": "https://t.co/SiEtBPGdhD"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Mar 23 20:39:11 +0000 2020",
+        "favorite_count": 3825,
+        "hashtags": [],
+        "id": 1242189170552037384,
+        "id_str": "1242189170552037384",
+        "lang": "en",
+        "retweet_count": 1794,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Government to stop all gatherings of more than two people in public \u2013 excluding people you live with, says PM https://t.co/PqtM2OFmuA",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3dmNg1i",
+                "url": "https://t.co/PqtM2OFmuA"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Mar 23 20:33:24 +0000 2020",
+        "favorite_count": 16347,
+        "hashtags": [],
+        "id": 1242187712872013825,
+        "id_str": "1242187712872013825",
+        "lang": "en",
+        "retweet_count": 7564,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "People in UK will now only be allowed to leave home for limited purposes including shopping for necessities, PM says https://t.co/bTsoA3n6La",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2UC4gbw",
+                "url": "https://t.co/bTsoA3n6La"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Mar 23 14:59:39 +0000 2020",
+        "favorite_count": 1220,
+        "hashtags": [],
+        "id": 1242103721984737285,
+        "id_str": "1242103721984737285",
+        "lang": "en",
+        "retweet_count": 466,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Scotland's former First Minister Alex Salmond cleared of sexually assaulting nine women https://t.co/yntvfVCqni",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/33CKMrg",
+                "url": "https://t.co/yntvfVCqni"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sun Mar 22 18:06:56 +0000 2020",
+        "hashtags": [],
+        "id": 1241788467119603722,
+        "id_str": "1241788467119603722",
+        "lang": "en",
+        "retweet_count": 1348,
+        "retweeted_status": {
+            "created_at": "Sun Mar 22 18:06:31 +0000 2020",
+            "favorite_count": 2832,
+            "hashtags": [],
+            "id": 1241788362450767873,
+            "id_str": "1241788362450767873",
+            "lang": "en",
+            "retweet_count": 1348,
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "text": "The International Olympic Committee is set to confirm it is considering a postponement of Tokyo 2020, and has given\u2026 https://t.co/rgU50lnPQs",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1241788362450767873",
+                    "url": "https://t.co/rgU50lnPQs"
+                }
+            ],
+            "user": {
+                "id": 265902729,
+                "id_str": "265902729"
+            },
+            "user_mentions": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "RT @BBCSport: The International Olympic Committee is set to confirm it is considering a postponement of Tokyo 2020, and has given itself a\u2026",
+        "urls": [],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": [
+            {
+                "id": 265902729,
+                "id_str": "265902729",
+                "name": "BBC Sport",
+                "screen_name": "BBCSport"
+            }
+        ]
+    },
+    {
+        "created_at": "Sun Mar 22 17:59:28 +0000 2020",
+        "favorite_count": 3237,
+        "hashtags": [],
+        "id": 1241786588616679426,
+        "id_str": "1241786588616679426",
+        "lang": "en",
+        "retweet_count": 1823,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "German Chancellor Angela Merkel quarantines herself after being treated by doctor who tested positive for virus https://t.co/T3n6CqNuAe",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2WB3le0",
+                "url": "https://t.co/T3n6CqNuAe"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sun Mar 22 17:33:38 +0000 2020",
+        "favorite_count": 3083,
+        "hashtags": [],
+        "id": 1241780085163687937,
+        "id_str": "1241780085163687937",
+        "lang": "en",
+        "retweet_count": 1071,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "UK PM says 'absolutely crucial' to follow social distancing advice and will bring in further measures if necessary https://t.co/dErb6Q4edU",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3deEOkC",
+                "url": "https://t.co/dErb6Q4edU"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sun Mar 22 16:55:32 +0000 2020",
+        "favorite_count": 2912,
+        "hashtags": [],
+        "id": 1241770498419286016,
+        "id_str": "1241770498419286016",
+        "lang": "en",
+        "retweet_count": 1190,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Germany orders people not to meet in groups bigger than two outside work and home for at least two weeks https://t.co/kLchGlKwS7",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2QDp0OF",
+                "url": "https://t.co/kLchGlKwS7"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sun Mar 22 10:26:33 +0000 2020",
+        "favorite_count": 3023,
+        "hashtags": [],
+        "id": 1241672608925573121,
+        "id_str": "1241672608925573121",
+        "lang": "en",
+        "retweet_count": 882,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Australia to close pubs, clubs, cinemas, casinos, nightclubs and places of worship to curb spread of coronavirus https://t.co/Y5FgnV7yvf",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/33BxT0w",
+                "url": "https://t.co/Y5FgnV7yvf"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sat Mar 21 17:04:56 +0000 2020",
+        "favorite_count": 8540,
+        "hashtags": [],
+        "id": 1241410477504237568,
+        "id_str": "1241410477504237568",
+        "lang": "en",
+        "retweet_count": 6090,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Italy reports another 793 deaths in past day in world's worst coronavirus crisis https://t.co/htvSVse4Ho",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3abAWPl",
+                "url": "https://t.co/htvSVse4Ho"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sat Mar 21 14:12:57 +0000 2020",
+        "favorite_count": 9305,
+        "hashtags": [],
+        "id": 1241367194795155457,
+        "id_str": "1241367194795155457",
+        "lang": "en",
+        "retweet_count": 3288,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Be responsible when you shop - there's more than enough food to go around, government says https://t.co/mfxWI07uKS",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/39aTmyx",
+                "url": "https://t.co/mfxWI07uKS"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sat Mar 21 11:33:00 +0000 2020",
+        "favorite_count": 2274,
+        "hashtags": [],
+        "id": 1241326942403670016,
+        "id_str": "1241326942403670016",
+        "lang": "en",
+        "retweet_count": 1175,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Spain virus death toll jumps by more than 300 to 1,326 - another grim daily record for the country https://t.co/iXDqa5JhvQ",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2QyYdTO",
+                "url": "https://t.co/iXDqa5JhvQ"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sat Mar 21 06:44:25 +0000 2020",
+        "favorite_count": 7515,
+        "hashtags": [],
+        "id": 1241254318931574785,
+        "id_str": "1241254318931574785",
+        "lang": "en",
+        "retweet_count": 2863,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "American country music star Kenny Rogers dies aged 81 https://t.co/DygA5IOl9W",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/394QcMF",
+                "url": "https://t.co/DygA5IOl9W"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Mar 20 17:19:46 +0000 2020",
+        "favorite_count": 1694,
+        "hashtags": [],
+        "id": 1241051820233052163,
+        "id_str": "1241051820233052163",
+        "in_reply_to_screen_name": "BBCBreaking",
+        "in_reply_to_status_id": 1241050031559409666,
+        "in_reply_to_user_id": 5402612,
+        "lang": "en",
+        "retweet_count": 837,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "\u201cWe are collectively telling cafes, pubs, bars and restaurants to close tonight... and not to open tomorrow\u201d\n\nBoris\u2026 https://t.co/jgTYg7130A",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1241051820233052163",
+                "url": "https://t.co/jgTYg7130A"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Mar 20 17:18:19 +0000 2020",
+        "favorite_count": 11925,
+        "hashtags": [],
+        "id": 1241051455370510338,
+        "id_str": "1241051455370510338",
+        "lang": "en",
+        "retweet_count": 4575,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Government to pay 80% of wages for employees not working, up to \u00a32,500 a month, Chancellor Rishi Sunak says https://t.co/FDpR6W0uba",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3a94RIb",
+                "url": "https://t.co/FDpR6W0uba"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Mar 20 17:12:39 +0000 2020",
+        "favorite_count": 12757,
+        "hashtags": [],
+        "id": 1241050031559409666,
+        "id_str": "1241050031559409666",
+        "lang": "en",
+        "retweet_count": 6019,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Cafes, pubs and restaurants must close from tonight, except for take-away food, to tackle coronavirus, UK PM says https://t.co/glcCxQ6uOY",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2U5fGoQ",
+                "url": "https://t.co/glcCxQ6uOY"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Mar 20 10:51:10 +0000 2020",
+        "favorite_count": 3438,
+        "hashtags": [],
+        "id": 1240954027204055041,
+        "id_str": "1240954027204055041",
+        "lang": "en",
+        "retweet_count": 1952,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Spain becomes fourth country to register more than 1,000 coronavirus deaths, after China, Italy and Iran https://t.co/9b9fLGFVfN",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/33Anr9m",
+                "url": "https://t.co/9b9fLGFVfN"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Mar 20 02:10:58 +0000 2020",
+        "favorite_count": 2077,
+        "hashtags": [],
+        "id": 1240823114407251970,
+        "id_str": "1240823114407251970",
+        "lang": "en",
+        "retweet_count": 915,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "California, the US's most populous state, issues 'stay at home' order amid fears virus could overwhelm hospitals https://t.co/ah5Tj4wS4T",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3dkKV7h",
+                "url": "https://t.co/ah5Tj4wS4T"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Mar 20 00:07:37 +0000 2020",
+        "favorite_count": 5097,
+        "hashtags": [],
+        "id": 1240792073193893898,
+        "id_str": "1240792073193893898",
+        "lang": "en",
+        "retweet_count": 1065,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "The rape and murder of a student in Delhi made global headlines in 2012. Four men have been executed for the crime https://t.co/DcYFxOuPKm",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2U5ck5u",
+                "url": "https://t.co/DcYFxOuPKm"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Mar 19 17:45:13 +0000 2020",
+        "favorite_count": 3986,
+        "hashtags": [],
+        "id": 1240695837400825857,
+        "id_str": "1240695837400825857",
+        "lang": "en",
+        "retweet_count": 2843,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Coronavirus death toll in Italy overtakes China's, after rising by 427 to 3,405\n\nhttps://t.co/Ndz1yXryzf",
+        "urls": [
+            {
+                "expanded_url": "http://bbc.in/2Uin1R3",
+                "url": "https://t.co/Ndz1yXryzf"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Mar 19 14:44:03 +0000 2020",
+        "favorite_count": 1513,
+        "hashtags": [],
+        "id": 1240650244918054912,
+        "id_str": "1240650244918054912",
+        "lang": "en",
+        "retweet_count": 728,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Bank of England cuts interest rates from 0.25% to 0.1% in further emergency move sparked by the coronavirus pandemic https://t.co/Xy6fvHSFkm",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3a3ZiL1",
+                "url": "https://t.co/Xy6fvHSFkm"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Mar 19 10:41:03 +0000 2020",
+        "favorite_count": 1480,
+        "hashtags": [],
+        "id": 1240589091319709699,
+        "id_str": "1240589091319709699",
+        "lang": "en",
+        "retweet_count": 583,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "EU chief Brexit negotiator Michel Barnier says he has tested positive for coronavirus https://t.co/dATa6j5fWI",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2wnZTIT",
+                "url": "https://t.co/dATa6j5fWI"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Mar 18 17:23:22 +0000 2020",
+        "favorite_count": 5109,
+        "hashtags": [],
+        "id": 1240327952258289664,
+        "id_str": "1240327952258289664",
+        "lang": "en",
+        "retweet_count": 2572,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "England schools to shut on Friday until further notice for all, except key workers' children and the most vulnerable https://t.co/qm4Qfu0pui",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2U0X8pL",
+                "url": "https://t.co/qm4Qfu0pui"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Mar 18 16:25:18 +0000 2020",
+        "favorite_count": 1694,
+        "hashtags": [],
+        "id": 1240313340347514880,
+        "id_str": "1240313340347514880",
+        "lang": "en",
+        "retweet_count": 847,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Coronavirus death toll in UK reaches 104 as 32 more people die in England after testing positive https://t.co/CKu3dyt98Z",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/33rFI93",
+                "url": "https://t.co/CKu3dyt98Z"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Mar 18 14:11:31 +0000 2020",
+        "favorite_count": 3521,
+        "hashtags": [],
+        "id": 1240279673009057793,
+        "id_str": "1240279673009057793",
+        "lang": "en",
+        "retweet_count": 1235,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Schools in Scotland and Wales to close from Friday in response to coronavirus crisis https://t.co/ggtuR5Xhbl",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3d2Z5cO",
+                "url": "https://t.co/ggtuR5Xhbl"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Tue Mar 17 17:33:23 +0000 2020",
+        "favorite_count": 3251,
+        "hashtags": [],
+        "id": 1239968086108729344,
+        "id_str": "1239968086108729344",
+        "lang": "en",
+        "retweet_count": 956,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "UK Chancellor Rishi Sunak promises \"unprecedented package\" of \u00a3330bn to support companies during coronavirus pandem\u2026 https://t.co/6GGdFp9Ai7",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1239968086108729344",
+                "url": "https://t.co/6GGdFp9Ai7"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Tue Mar 17 15:05:46 +0000 2020",
+        "favorite_count": 2217,
+        "hashtags": [],
+        "id": 1239930935413530626,
+        "id_str": "1239930935413530626",
+        "lang": "en",
+        "retweet_count": 586,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Hashem Abedi, brother of Manchester Arena bomber Salman Abedi, found guilty of murdering 22 people in the 2017 blast https://t.co/xYtSwHSmK5",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2Wkws4Y",
+                "url": "https://t.co/xYtSwHSmK5"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Tue Mar 17 13:11:49 +0000 2020",
+        "hashtags": [],
+        "id": 1239902257128386561,
+        "id_str": "1239902257128386561",
+        "lang": "en",
+        "retweet_count": 151,
+        "retweeted_status": {
+            "created_at": "Tue Mar 17 13:05:00 +0000 2020",
+            "favorite_count": 497,
+            "hashtags": [],
+            "id": 1239900542706438144,
+            "id_str": "1239900542706438144",
+            "lang": "en",
+            "retweet_count": 151,
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "text": "All horse racing in Britain will be suspended from Wednesday until the end of April because of the coronavirus outb\u2026 https://t.co/V2kCLNzZrd",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1239900542706438144",
+                    "url": "https://t.co/V2kCLNzZrd"
+                }
+            ],
+            "user": {
+                "id": 265902729,
+                "id_str": "265902729"
+            },
+            "user_mentions": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "RT @BBCSport: All horse racing in Britain will be suspended from Wednesday until the end of April because of the coronavirus outbreak.\n\nMor\u2026",
+        "urls": [],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": [
+            {
+                "id": 265902729,
+                "id_str": "265902729",
+                "name": "BBC Sport",
+                "screen_name": "BBCSport"
+            }
+        ]
+    },
+    {
+        "created_at": "Tue Mar 17 12:43:35 +0000 2020",
+        "hashtags": [],
+        "id": 1239895152233189376,
+        "id_str": "1239895152233189376",
+        "lang": "en",
+        "retweet_count": 1596,
+        "retweeted_status": {
+            "created_at": "Tue Mar 17 12:37:11 +0000 2020",
+            "favorite_count": 2848,
+            "hashtags": [],
+            "id": 1239893543981891584,
+            "id_str": "1239893543981891584",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Htc4GqYK8e",
+                    "expanded_url": "https://twitter.com/BBCSport/status/1239893543981891584/photo/1",
+                    "id": 1239893482459869188,
+                    "media_url": "http://pbs.twimg.com/media/ETT8jZVXsAQZAfn.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ETT8jZVXsAQZAfn.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 800,
+                            "h": 450,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 800,
+                            "h": 450,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/Htc4GqYK8e"
+                }
+            ],
+            "retweet_count": 1596,
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "text": "Euro 2020 has been postponed until 2021 according to the Norwegian FA. \n\nMore here \u27a1\ufe0f https://t.co/pTF0Ce0xKc https://t.co/Htc4GqYK8e",
+            "urls": [
+                {
+                    "expanded_url": "http://bbc.in/39Yaxo7",
+                    "url": "https://t.co/pTF0Ce0xKc"
+                }
+            ],
+            "user": {
+                "id": 265902729,
+                "id_str": "265902729"
+            },
+            "user_mentions": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "RT @BBCSport: Euro 2020 has been postponed until 2021 according to the Norwegian FA. \n\nMore here \u27a1\ufe0f https://t.co/pTF0Ce0xKc https://t.co/Ht\u2026",
+        "urls": [
+            {
+                "expanded_url": "http://bbc.in/39Yaxo7",
+                "url": "https://t.co/pTF0Ce0xKc"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": [
+            {
+                "id": 265902729,
+                "id_str": "265902729",
+                "name": "BBC Sport",
+                "screen_name": "BBCSport"
+            }
+        ]
+    },
+    {
+        "created_at": "Tue Mar 17 12:39:51 +0000 2020",
+        "favorite_count": 2104,
+        "hashtags": [],
+        "id": 1239894215162834945,
+        "id_str": "1239894215162834945",
+        "lang": "en",
+        "retweet_count": 953,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "UK Foreign Office advises Britons against all non-essential foreign travel for initial period of 30 days https://t.co/ASdSEP4iYU",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3d99wvk",
+                "url": "https://t.co/ASdSEP4iYU"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Mar 16 20:40:07 +0000 2020",
+        "hashtags": [],
+        "id": 1239652690180931584,
+        "id_str": "1239652690180931584",
+        "lang": "en",
+        "retweet_count": 830,
+        "retweeted_status": {
+            "created_at": "Mon Mar 16 20:39:22 +0000 2020",
+            "favorite_count": 2142,
+            "hashtags": [],
+            "id": 1239652502263529474,
+            "id_str": "1239652502263529474",
+            "lang": "en",
+            "retweet_count": 830,
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "text": "The Grand National has been cancelled because of the coronavirus pandemic.\n\nMore to follow: https://t.co/CPTx2m9458\u2026 https://t.co/gsqkLUZ9IN",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://bbc.in/39Wz3Gm",
+                    "url": "https://t.co/CPTx2m9458"
+                },
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1239652502263529474",
+                    "url": "https://t.co/gsqkLUZ9IN"
+                }
+            ],
+            "user": {
+                "id": 265902729,
+                "id_str": "265902729"
+            },
+            "user_mentions": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "RT @BBCSport: The Grand National has been cancelled because of the coronavirus pandemic.\n\nMore to follow: https://t.co/CPTx2m9458\n\n#GrandNa\u2026",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/39Wz3Gm",
+                "url": "https://t.co/CPTx2m9458"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": [
+            {
+                "id": 265902729,
+                "id_str": "265902729",
+                "name": "BBC Sport",
+                "screen_name": "BBCSport"
+            }
+        ]
+    },
+    {
+        "created_at": "Mon Mar 16 18:02:55 +0000 2020",
+        "favorite_count": 1178,
+        "hashtags": [],
+        "id": 1239613128779935744,
+        "id_str": "1239613128779935744",
+        "in_reply_to_screen_name": "BBCBreaking",
+        "in_reply_to_status_id": 1239598164820275200,
+        "in_reply_to_user_id": 5402612,
+        "lang": "en",
+        "retweet_count": 434,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "\u201cWhat we\u2019re announcing today is a very substantial change in the way we want people to live their lives\u201d\n\nUK PM Bor\u2026 https://t.co/rL1GJdokur",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1239613128779935744",
+                "url": "https://t.co/rL1GJdokur"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Mar 16 17:03:27 +0000 2020",
+        "favorite_count": 3386,
+        "hashtags": [],
+        "id": 1239598164820275200,
+        "id_str": "1239598164820275200",
+        "in_reply_to_screen_name": "BBCBreaking",
+        "in_reply_to_status_id": 1239597712796004354,
+        "in_reply_to_user_id": 5402612,
+        "lang": "en",
+        "retweet_count": 1802,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "\u201cWe need people to start working from home and you should avoid pubs, clubs\u2026 and other such social venues\"\n\nBoris J\u2026 https://t.co/Emwo0cxuhX",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1239598164820275200",
+                "url": "https://t.co/Emwo0cxuhX"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Mar 16 17:01:39 +0000 2020",
+        "favorite_count": 8394,
+        "hashtags": [],
+        "id": 1239597712796004354,
+        "id_str": "1239597712796004354",
+        "lang": "en",
+        "retweet_count": 3859,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "UK PM says \"everyone\" should now avoid social contact with others and stop non-essential travel to fight coronavirus https://t.co/pkh0phE0Qw",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2IO7oeI",
+                "url": "https://t.co/pkh0phE0Qw"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Mar 16 14:16:13 +0000 2020",
+        "favorite_count": 2093,
+        "hashtags": [],
+        "id": 1239556078884597760,
+        "id_str": "1239556078884597760",
+        "lang": "en",
+        "retweet_count": 895,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "First patient with coronavirus dies in Wales\n\nThere have now been Covid-19 related deaths recorded in every nation\u2026 https://t.co/zfhMsyiJED",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1239556078884597760",
+                "url": "https://t.co/zfhMsyiJED"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Mar 16 12:05:18 +0000 2020",
+        "favorite_count": 3686,
+        "hashtags": [],
+        "id": 1239523131745882112,
+        "id_str": "1239523131745882112",
+        "lang": "en",
+        "retweet_count": 791,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "BBC to delay TV licence fee changes for the over-75s until August in light of the coronavirus situation https://t.co/zL6gR2Ez4j",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2WhVou3",
+                "url": "https://t.co/zL6gR2Ez4j"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Mar 16 10:12:50 +0000 2020",
+        "favorite_count": 3606,
+        "hashtags": [],
+        "id": 1239494826648915968,
+        "id_str": "1239494826648915968",
+        "lang": "en",
+        "retweet_count": 908,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Roy Hudd, actor and comic, dies aged 83 \nhttps://t.co/RGvbKEMFYO",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/33kNp0J",
+                "url": "https://t.co/RGvbKEMFYO"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sun Mar 15 15:44:31 +0000 2020",
+        "favorite_count": 1872,
+        "hashtags": [],
+        "id": 1239215912521261060,
+        "id_str": "1239215912521261060",
+        "lang": "en",
+        "retweet_count": 764,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Number of UK deaths of people with coronavirus is up to 35, a rise of 14, Department of Health says https://t.co/B8gYRJxdju",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2Wc5MmZ",
+                "url": "https://t.co/B8gYRJxdju"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sun Mar 15 08:42:51 +0000 2020",
+        "favorite_count": 7765,
+        "hashtags": [],
+        "id": 1239109796361646080,
+        "id_str": "1239109796361646080",
+        "lang": "en",
+        "retweet_count": 3112,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Action to isolate over-70s to shield them from coronavirus is planned in coming weeks, UK health secretary confirms https://t.co/iy2EDudse5",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2Wevd7f",
+                "url": "https://t.co/iy2EDudse5"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sat Mar 14 18:55:12 +0000 2020",
+        "favorite_count": 3443,
+        "hashtags": [],
+        "id": 1238901509330481154,
+        "id_str": "1238901509330481154",
+        "lang": "en",
+        "retweet_count": 1696,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "France orders non-essential locations used by the public to close, asks citizens to go out as little as possible https://t.co/HSiuTXvaqm",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3cZa9I8",
+                "url": "https://t.co/HSiuTXvaqm"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sat Mar 14 16:51:44 +0000 2020",
+        "favorite_count": 6003,
+        "hashtags": [],
+        "id": 1238870437825777668,
+        "id_str": "1238870437825777668",
+        "lang": "en",
+        "retweet_count": 2871,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "US to extend coronavirus travel ban to UK and Ireland from Monday https://t.co/OWd8ebWBZs",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2QdWIdo",
+                "url": "https://t.co/OWd8ebWBZs"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sat Mar 14 14:15:47 +0000 2020",
+        "favorite_count": 3781,
+        "hashtags": [],
+        "id": 1238831195061960704,
+        "id_str": "1238831195061960704",
+        "lang": "en",
+        "retweet_count": 2123,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Ten more people in UK have died in coronavirus pandemic, bringing total to 21, NHS figures show https://t.co/Bmn4MDL4EF",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3cYFYkk",
+                "url": "https://t.co/Bmn4MDL4EF"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sat Mar 14 12:10:55 +0000 2020",
+        "favorite_count": 4702,
+        "hashtags": [],
+        "id": 1238799767720902656,
+        "id_str": "1238799767720902656",
+        "lang": "en",
+        "retweet_count": 2977,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Coronavirus cases in Spain rise by 1,500 to more than 5,700, public health officials say https://t.co/vtdZtLTKrs",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2QdrMKc",
+                "url": "https://t.co/vtdZtLTKrs"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Mar 13 21:19:44 +0000 2020",
+        "favorite_count": 10463,
+        "hashtags": [],
+        "id": 1238575497732333569,
+        "id_str": "1238575497732333569",
+        "lang": "en",
+        "retweet_count": 3541,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Bill Gates stepping down from Microsoft board to spend more time on philanthropic activities https://t.co/B4KMh3dGVv",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2W7qDI9",
+                "url": "https://t.co/B4KMh3dGVv"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Mar 13 19:33:56 +0000 2020",
+        "favorite_count": 3756,
+        "hashtags": [],
+        "id": 1238548871829209093,
+        "id_str": "1238548871829209093",
+        "lang": "en",
+        "retweet_count": 2092,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "US President Donald Trump declares national emergency to help handle the growing outbreak of coronavirus https://t.co/OG1hhn3JJb",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3cV1few",
+                "url": "https://t.co/OG1hhn3JJb"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Mar 13 17:14:35 +0000 2020",
+        "favorite_count": 1679,
+        "hashtags": [
+            {
+                "text": "COVID_19uk"
+            }
+        ],
+        "id": 1238513803404468227,
+        "id_str": "1238513803404468227",
+        "lang": "en",
+        "retweet_count": 751,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "April's London Marathon postponed because of coronavirus outbreak #COVID_19uk https://t.co/NI28G7QMbN",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3aUeYk8",
+                "url": "https://t.co/NI28G7QMbN"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Mar 13 16:14:23 +0000 2020",
+        "favorite_count": 6841,
+        "hashtags": [],
+        "id": 1238498651615395840,
+        "id_str": "1238498651615395840",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/lNsRkHDMNK",
+                "expanded_url": "https://twitter.com/BBCBreaking/status/1238498651615395840/photo/1",
+                "id": 1238498649438662660,
+                "media_url": "http://pbs.twimg.com/media/ETAH9baXsAQ15XL.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ETAH9baXsAQ15XL.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 976,
+                        "h": 549,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 976,
+                        "h": 549,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/lNsRkHDMNK"
+            }
+        ],
+        "retweet_count": 6706,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "World Health Organization says that Europe is now the \"epicentre\" of the Covid-19 pandemic\n\nhttps://t.co/LzSGA2IBXN https://t.co/lNsRkHDMNK",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2w3PUbv",
+                "url": "https://t.co/LzSGA2IBXN"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Mar 13 15:48:11 +0000 2020",
+        "favorite_count": 3352,
+        "hashtags": [],
+        "id": 1238492058693914624,
+        "id_str": "1238492058693914624",
+        "lang": "en",
+        "retweet_count": 2250,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Mayoral and local elections in England postponed for one year due to coronavirus outbreak https://t.co/4vArYSnKBd",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/38HfMHu",
+                "url": "https://t.co/4vArYSnKBd"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Mar 13 14:01:27 +0000 2020",
+        "favorite_count": 2811,
+        "hashtags": [],
+        "id": 1238465196315889665,
+        "id_str": "1238465196315889665",
+        "lang": "en",
+        "retweet_count": 1219,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Pilot of plane that crashed and killed footballer Emiliano Sala was not licensed to fly the aircraft, report finds https://t.co/wwgfRKXtVZ",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/38M7Qou",
+                "url": "https://t.co/wwgfRKXtVZ"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Mar 13 11:07:37 +0000 2020",
+        "favorite_count": 3146,
+        "hashtags": [],
+        "id": 1238421450073280512,
+        "id_str": "1238421450073280512",
+        "lang": "en",
+        "retweet_count": 1623,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "English Premier League season suspended, amid growing list of worldwide closures and sporting postponements\n\nhttps://t.co/YGDt1SS6sN",
+        "urls": [
+            {
+                "expanded_url": "http://bbc.in/38Krpxq",
+                "url": "https://t.co/YGDt1SS6sN"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Mar 13 10:14:56 +0000 2020",
+        "hashtags": [],
+        "id": 1238408191836327938,
+        "id_str": "1238408191836327938",
+        "lang": "en",
+        "retweet_count": 984,
+        "retweeted_status": {
+            "created_at": "Fri Mar 13 10:14:27 +0000 2020",
+            "favorite_count": 2259,
+            "hashtags": [],
+            "id": 1238408071971471360,
+            "id_str": "1238408071971471360",
+            "lang": "en",
+            "retweet_count": 984,
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "text": "All Uefa competitions, including Champions League and Europa League matches, have been postponed because of the cor\u2026 https://t.co/ZyGhLKf9BK",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1238408071971471360",
+                    "url": "https://t.co/ZyGhLKf9BK"
+                }
+            ],
+            "user": {
+                "id": 265902729,
+                "id_str": "265902729"
+            },
+            "user_mentions": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "RT @BBCSport: All Uefa competitions, including Champions League and Europa League matches, have been postponed because of the coronavirus o\u2026",
+        "urls": [],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": [
+            {
+                "id": 265902729,
+                "id_str": "265902729",
+                "name": "BBC Sport",
+                "screen_name": "BBCSport"
+            }
+        ]
+    },
+    {
+        "created_at": "Fri Mar 13 02:34:40 +0000 2020",
+        "favorite_count": 4265,
+        "hashtags": [],
+        "id": 1238292361836466177,
+        "id_str": "1238292361836466177",
+        "lang": "en",
+        "retweet_count": 2363,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Wife of Canadian PM Justin Trudeau, Sophie, tests positive for coronavirus - both will be in isolation for 14 days. https://t.co/2cukmx7fNS",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2vm3Tcq",
+                "url": "https://t.co/2cukmx7fNS"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Mar 12 21:44:10 +0000 2020",
+        "favorite_count": 4696,
+        "hashtags": [],
+        "id": 1238219257059651584,
+        "id_str": "1238219257059651584",
+        "lang": "en",
+        "retweet_count": 1375,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "US judge orders release of ex-intelligence analyst Chelsea Manning, held for refusing to testify in Wikileaks probe https://t.co/yX4jGzgiad",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2vfVrLB",
+                "url": "https://t.co/yX4jGzgiad"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Mar 12 20:30:44 +0000 2020",
+        "favorite_count": 1537,
+        "hashtags": [],
+        "id": 1238200774984900609,
+        "id_str": "1238200774984900609",
+        "lang": "en",
+        "retweet_count": 850,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "UK and US stock markets suffer worst day since 1987 despite central bank interventions to ease coronavirus uncertai\u2026 https://t.co/EgSN3011yw",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1238200774984900609",
+                "url": "https://t.co/EgSN3011yw"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Mar 12 17:31:45 +0000 2020",
+        "favorite_count": 2689,
+        "hashtags": [],
+        "id": 1238155732563955712,
+        "id_str": "1238155732563955712",
+        "lang": "en",
+        "retweet_count": 1555,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Coronavirus deaths rise over 1,000 in Italy, with cases in Europe's worst hit country passing 15,000 https://t.co/Wqtez0Y7FH",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/33cwOMt",
+                "url": "https://t.co/Wqtez0Y7FH"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Mar 12 17:02:33 +0000 2020",
+        "favorite_count": 2663,
+        "hashtags": [],
+        "id": 1238148385368129543,
+        "id_str": "1238148385368129543",
+        "lang": "en",
+        "retweet_count": 1273,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "People with a persistent cough or fever told to self-isolate for 7 days from tomorrow, UK prime minister says https://t.co/4bBgTezBpk",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3cMkerA",
+                "url": "https://t.co/4bBgTezBpk"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Mar 12 16:08:52 +0000 2020",
+        "favorite_count": 9175,
+        "hashtags": [],
+        "id": 1238134876039262209,
+        "id_str": "1238134876039262209",
+        "lang": "en",
+        "retweet_count": 5203,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Canadian Prime Minister Justin Trudeau self-isolating over coronavirus fears, his office confirms https://t.co/PidbUGJ43l",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2U4OGoe",
+                "url": "https://t.co/PidbUGJ43l"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Mar 12 15:54:57 +0000 2020",
+        "hashtags": [],
+        "id": 1238131374072172546,
+        "id_str": "1238131374072172546",
+        "lang": "en",
+        "retweet_count": 824,
+        "retweeted_status": {
+            "created_at": "Thu Mar 12 15:53:36 +0000 2020",
+            "favorite_count": 1504,
+            "hashtags": [],
+            "id": 1238131035499565059,
+            "id_str": "1238131035499565059",
+            "lang": "en",
+            "retweet_count": 824,
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "text": "This weekend's season-opening Australian Grand Prix has been postponed over coronavirus concerns, two senior F1 sou\u2026 https://t.co/cvosSmj0B5",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1238131035499565059",
+                    "url": "https://t.co/cvosSmj0B5"
+                }
+            ],
+            "user": {
+                "id": 265902729,
+                "id_str": "265902729"
+            },
+            "user_mentions": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "RT @BBCSport: This weekend's season-opening Australian Grand Prix has been postponed over coronavirus concerns, two senior F1 sources have\u2026",
+        "urls": [],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": [
+            {
+                "id": 265902729,
+                "id_str": "265902729",
+                "name": "BBC Sport",
+                "screen_name": "BBCSport"
+            }
+        ]
+    },
+    {
+        "created_at": "Thu Mar 12 11:43:31 +0000 2020",
+        "favorite_count": 1658,
+        "hashtags": [],
+        "id": 1238068099296956416,
+        "id_str": "1238068099296956416",
+        "in_reply_to_screen_name": "BBCBreaking",
+        "in_reply_to_status_id": 1238066911545606145,
+        "in_reply_to_user_id": 5402612,
+        "lang": "en",
+        "retweet_count": 797,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Indoor mass gatherings in Ireland of more than 100 people &amp; outdoor gatherings of more than 500 people should be ca\u2026 https://t.co/2QDdq11Wr6",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1238068099296956416",
+                "url": "https://t.co/2QDdq11Wr6"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Mar 12 11:38:48 +0000 2020",
+        "favorite_count": 7184,
+        "hashtags": [],
+        "id": 1238066911545606145,
+        "id_str": "1238066911545606145",
+        "lang": "en",
+        "retweet_count": 3407,
+        "source": "<a href=\"https://www.twitter.com/\" rel=\"nofollow\">Twitter Media Studio - LiveCut</a>",
+        "text": "All schools, colleges and childcare facilities in Ireland to close from Friday until 29 March\n\nSpeaking in Washingt\u2026 https://t.co/wfxkmwl0Z8",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1238066911545606145",
+                "url": "https://t.co/wfxkmwl0Z8"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Mar 12 01:07:54 +0000 2020",
+        "favorite_count": 12255,
+        "hashtags": [],
+        "id": 1237908141192499207,
+        "id_str": "1237908141192499207",
+        "lang": "en",
+        "retweet_count": 6744,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "President Trump suspends all travel to US from European countries \u2013 except the UK - for 30 days, due to coronavirus https://t.co/mus0Adf70C",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/33fobRd",
+                "url": "https://t.co/mus0Adf70C"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Mar 11 16:35:49 +0000 2020",
+        "favorite_count": 20114,
+        "hashtags": [],
+        "id": 1237779269385936899,
+        "id_str": "1237779269385936899",
+        "lang": "en",
+        "retweet_count": 13303,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Coronavirus outbreak labelled as pandemic by World Health Organization https://t.co/SsaIayPlaZ",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2TFlqpk",
+                "url": "https://t.co/SsaIayPlaZ"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Mar 11 15:06:24 +0000 2020",
+        "favorite_count": 30486,
+        "hashtags": [],
+        "id": 1237756765782953985,
+        "id_str": "1237756765782953985",
+        "lang": "en",
+        "retweet_count": 5937,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Former movie producer Harvey Weinstein sentenced to 23 years after sexual assault conviction https://t.co/VIf7U5NyL4",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/38JqXiG",
+                "url": "https://t.co/VIf7U5NyL4"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Mar 11 13:22:45 +0000 2020",
+        "favorite_count": 665,
+        "hashtags": [],
+        "id": 1237730682840985601,
+        "id_str": "1237730682840985601",
+        "lang": "en",
+        "retweet_count": 211,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Chancellor pledges \u00a330bn package to help UK economy respond to coronavirus, as he warns outbreak will bring \"signif\u2026 https://t.co/kqtiIWpb1q",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1237730682840985601",
+                "url": "https://t.co/kqtiIWpb1q"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Mar 11 07:02:49 +0000 2020",
+        "favorite_count": 1532,
+        "hashtags": [],
+        "id": 1237635068614582274,
+        "id_str": "1237635068614582274",
+        "lang": "en",
+        "retweet_count": 758,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "UK interest rates cut in emergency move to shore up economy amid coronavirus outbreak https://t.co/Y2kZ6ZjKYK",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2TJrptn",
+                "url": "https://t.co/Y2kZ6ZjKYK"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Tue Mar 10 22:35:12 +0000 2020",
+        "favorite_count": 18433,
+        "hashtags": [],
+        "id": 1237507322244726785,
+        "id_str": "1237507322244726785",
+        "lang": "en",
+        "retweet_count": 9443,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Health minister Nadine Dorries says she has tested positive for coronavirus and is self-isolating https://t.co/79GYWaeJDb",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2W8nfgd",
+                "url": "https://t.co/79GYWaeJDb"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Tue Mar 10 18:02:35 +0000 2020",
+        "favorite_count": 793,
+        "hashtags": [],
+        "id": 1237438716710465536,
+        "id_str": "1237438716710465536",
+        "lang": "en",
+        "retweet_count": 182,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "UK chancellor to promise biggest spending on roads, housing and rail in generations in 2020 Budget, BBC learns https://t.co/d8ymZrinqO",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2xs0klE",
+                "url": "https://t.co/d8ymZrinqO"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Mar 09 20:47:40 +0000 2020",
+        "favorite_count": 9379,
+        "hashtags": [],
+        "id": 1237117872868122628,
+        "id_str": "1237117872868122628",
+        "lang": "en",
+        "retweet_count": 5614,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Italy's PM Giuseppe Conte extends coronavirus measures, including ban on public gatherings, to entire country https://t.co/psjxmdKMoq",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2wDCGlH",
+                "url": "https://t.co/psjxmdKMoq"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Mar 09 18:37:33 +0000 2020",
+        "favorite_count": 3062,
+        "hashtags": [],
+        "id": 1237085131267022853,
+        "id_str": "1237085131267022853",
+        "lang": "en",
+        "retweet_count": 1283,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Israel to bring in 14-day quarantine for everyone arriving in the country to combat coronavirus https://t.co/5oGV2fs65d",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2IwGBDJ",
+                "url": "https://t.co/5oGV2fs65d"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sun Mar 08 21:34:21 +0000 2020",
+        "favorite_count": 1329,
+        "hashtags": [],
+        "id": 1236767236490215427,
+        "id_str": "1236767236490215427",
+        "lang": "en",
+        "retweet_count": 483,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "A third person, in the UK, a man in his 60s with underlying health problems, has died after testing positive for co\u2026 https://t.co/HTvSEgViLp",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1236767236490215427",
+                "url": "https://t.co/HTvSEgViLp"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sun Mar 08 17:37:34 +0000 2020",
+        "favorite_count": 5378,
+        "hashtags": [],
+        "id": 1236707646637584385,
+        "id_str": "1236707646637584385",
+        "lang": "en",
+        "retweet_count": 4001,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Italy coronavirus death toll soars by 133 in a day to 366, as millions adapt to widespread travel restrictions https://t.co/9CMyhEcU5X",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2IrqdEq",
+                "url": "https://t.co/9CMyhEcU5X"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sat Mar 07 01:24:38 +0000 2020",
+        "favorite_count": 447,
+        "hashtags": [],
+        "id": 1236100410412339201,
+        "id_str": "1236100410412339201",
+        "lang": "en",
+        "retweet_count": 137,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "President Trump appoints Mark Meadows as new chief of staff - former post holder Mick Mulvaney to be N Ireland envoy https://t.co/sZxvNbQSUa",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2Q9QiMD",
+                "url": "https://t.co/sZxvNbQSUa"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Mar 06 21:42:56 +0000 2020",
+        "favorite_count": 1080,
+        "hashtags": [],
+        "id": 1236044618363531264,
+        "id_str": "1236044618363531264",
+        "lang": "en",
+        "retweet_count": 416,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Man in his early 80s with underlying health issues is second person with coronavirus to die in the UK, hospital says https://t.co/tXjLsHIKlm",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/39ByXE0",
+                "url": "https://t.co/tXjLsHIKlm"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Mar 06 14:19:19 +0000 2020",
+        "favorite_count": 2474,
+        "hashtags": [],
+        "id": 1235932980226424832,
+        "id_str": "1235932980226424832",
+        "lang": "en",
+        "retweet_count": 1369,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Coronavirus cases in the UK have now risen to 163 from a total of 20,338 people tested so far https://t.co/r0X6BCDXRO",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2TWdWNJ",
+                "url": "https://t.co/r0X6BCDXRO"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Mar 05 17:36:50 +0000 2020",
+        "favorite_count": 2815,
+        "hashtags": [],
+        "id": 1235620297870659589,
+        "id_str": "1235620297870659589",
+        "lang": "en",
+        "retweet_count": 1750,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Patient with underlying health conditions becomes first person with coronavirus to die in the UK, hospital says https://t.co/MFz4VlutfU",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3awvSVM",
+                "url": "https://t.co/MFz4VlutfU"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Mar 05 16:08:22 +0000 2020",
+        "favorite_count": 1645,
+        "hashtags": [],
+        "id": 1235598034563739648,
+        "id_str": "1235598034563739648",
+        "lang": "en",
+        "retweet_count": 919,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Coronavirus cases in the UK have risen to 115 - with 25 of them in London, new figures show https://t.co/tvKZU8knzC",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3asuMdx",
+                "url": "https://t.co/tvKZU8knzC"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Mar 05 16:01:13 +0000 2020",
+        "favorite_count": 1897,
+        "hashtags": [],
+        "id": 1235596237031825409,
+        "id_str": "1235596237031825409",
+        "lang": "en",
+        "retweet_count": 1141,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Ruler of Dubai abducted two of his daughters and tortured one, UK court finds, in case brought by estranged wife https://t.co/136hC9hDJE",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/32Uz4aQ",
+                "url": "https://t.co/136hC9hDJE"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Mar 05 15:52:49 +0000 2020",
+        "favorite_count": 2561,
+        "hashtags": [],
+        "id": 1235594121731026949,
+        "id_str": "1235594121731026949",
+        "lang": "en",
+        "retweet_count": 752,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Senator Elizabeth Warren ends her presidential campaign after poor showing on Super Tuesday, US media report https://t.co/DAylnPJtQ7",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2wth0Zs",
+                "url": "https://t.co/DAylnPJtQ7"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Mar 05 09:37:28 +0000 2020",
+        "favorite_count": 2368,
+        "hashtags": [],
+        "id": 1235499660489474048,
+        "id_str": "1235499660489474048",
+        "lang": "en",
+        "retweet_count": 969,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Probe of alleged war crimes by US and others in Afghan conflict can go ahead, International Criminal Court rules https://t.co/KzTQo8s2kK",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2vIBBJ4",
+                "url": "https://t.co/KzTQo8s2kK"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Mar 04 21:21:01 +0000 2020",
+        "favorite_count": 2324,
+        "hashtags": [],
+        "id": 1235314327818776576,
+        "id_str": "1235314327818776576",
+        "lang": "en",
+        "retweet_count": 1822,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Struggling UK airline Flybe set to collapse within hours, putting 2,000 jobs at risk, says BBC business editor https://t.co/ni5oe9r4TB",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2PLdWyy",
+                "url": "https://t.co/ni5oe9r4TB"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Mar 04 15:15:39 +0000 2020",
+        "favorite_count": 2725,
+        "hashtags": [],
+        "id": 1235222380689141764,
+        "id_str": "1235222380689141764",
+        "lang": "en",
+        "retweet_count": 841,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Michael Bloomberg ends his bid for the White House after poor Super Tuesday showing https://t.co/FrdmQ29yj2",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2wqQCiQ",
+                "url": "https://t.co/FrdmQ29yj2"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Mar 04 14:13:58 +0000 2020",
+        "favorite_count": 3874,
+        "hashtags": [],
+        "id": 1235206857477718017,
+        "id_str": "1235206857477718017",
+        "lang": "en",
+        "retweet_count": 2314,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Coronavirus cases in the UK jump by 34 in a day, taking total number to 85 https://t.co/TRb21qEMob",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2uR39eX",
+                "url": "https://t.co/TRb21qEMob"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Mar 04 13:46:51 +0000 2020",
+        "favorite_count": 798,
+        "hashtags": [],
+        "id": 1235200035194843136,
+        "id_str": "1235200035194843136",
+        "in_reply_to_screen_name": "BBCBreaking",
+        "in_reply_to_status_id": 1235192322910015489,
+        "in_reply_to_user_id": 5402612,
+        "lang": "en",
+        "retweet_count": 417,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Italian education minister says decision to close all schools - reported by Italian news agency Ansa and several lo\u2026 https://t.co/sOLnNftBrD",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1235200035194843136",
+                "url": "https://t.co/sOLnNftBrD"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Mar 04 13:16:13 +0000 2020",
+        "favorite_count": 4707,
+        "hashtags": [],
+        "id": 1235192322910015489,
+        "id_str": "1235192322910015489",
+        "lang": "en",
+        "retweet_count": 3167,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Italy to close all schools and universities across the country for two weeks to control coronavirus outbreak, Itali\u2026 https://t.co/vjMIolJfu4",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1235192322910015489",
+                "url": "https://t.co/vjMIolJfu4"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Mar 04 08:02:24 +0000 2020",
+        "favorite_count": 790,
+        "hashtags": [],
+        "id": 1235113351274885120,
+        "id_str": "1235113351274885120",
+        "lang": "en",
+        "retweet_count": 185,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Joe Biden projected to win Texas in his latest Super Tuesday poll victory over rival Bernie Sanders https://t.co/mqZ6oDooC0",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2Q0BDmT",
+                "url": "https://t.co/mqZ6oDooC0"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Tue Mar 03 10:41:37 +0000 2020",
+        "favorite_count": 1340,
+        "hashtags": [],
+        "id": 1234791029490036737,
+        "id_str": "1234791029490036737",
+        "lang": "en",
+        "retweet_count": 680,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Up to a fifth of the UK workforce may be off sick during the peak of a coronavirus epidemic, government says\u2026 https://t.co/5Fh20CxPnu",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1234791029490036737",
+                "url": "https://t.co/5Fh20CxPnu"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Mar 02 18:40:38 +0000 2020",
+        "favorite_count": 1168,
+        "hashtags": [],
+        "id": 1234549189431848960,
+        "id_str": "1234549189431848960",
+        "lang": "en",
+        "retweet_count": 341,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Amy Klobuchar drops out of race to be Democratic presidential challenger to Donald Trump and endorses Joe Biden https://t.co/byK6zSFiZw",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2uQiFIa",
+                "url": "https://t.co/byK6zSFiZw"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sun Mar 01 23:19:50 +0000 2020",
+        "favorite_count": 1771,
+        "hashtags": [],
+        "id": 1234257064832225281,
+        "id_str": "1234257064832225281",
+        "lang": "en",
+        "retweet_count": 428,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Pete Buttigieg to pull out of Democratic Party presidential race after poor placing in South Carolina - US media https://t.co/9dejwCPtLr",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2wip92U",
+                "url": "https://t.co/9dejwCPtLr"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sun Mar 01 13:45:27 +0000 2020",
+        "favorite_count": 3175,
+        "hashtags": [],
+        "id": 1234112517712089088,
+        "id_str": "1234112517712089088",
+        "lang": "en",
+        "retweet_count": 1964,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Twelve more patients in England test positive for coronavirus, taking total number of UK cases to 35 https://t.co/gzLAIFpkl8",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2I98y4a",
+                "url": "https://t.co/gzLAIFpkl8"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sat Feb 29 18:27:15 +0000 2020",
+        "favorite_count": 1132,
+        "hashtags": [],
+        "id": 1233821047457296384,
+        "id_str": "1233821047457296384",
+        "lang": "en",
+        "retweet_count": 581,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "US reports its first death from coronavirus, in the north-west state of Washington https://t.co/xNb67WXCBd",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2T8t9Mm",
+                "url": "https://t.co/xNb67WXCBd"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sat Feb 29 17:35:47 +0000 2020",
+        "favorite_count": 4593,
+        "hashtags": [],
+        "id": 1233808095832420353,
+        "id_str": "1233808095832420353",
+        "lang": "en",
+        "retweet_count": 808,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "PM Boris Johnson and partner Carrie Symonds are expecting a baby in early summer and are engaged, couple announce https://t.co/79HP3jJcNY",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3cnLRr0",
+                "url": "https://t.co/79HP3jJcNY"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sat Feb 29 13:18:31 +0000 2020",
+        "favorite_count": 6108,
+        "hashtags": [],
+        "id": 1233743353449238529,
+        "id_str": "1233743353449238529",
+        "lang": "en",
+        "retweet_count": 2055,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "US and Afghan Taliban sign deal leading to American troop withdrawal and further peace talks, after 18 years of war https://t.co/9D57JqwtZH",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/32JQx64",
+                "url": "https://t.co/9D57JqwtZH"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sat Feb 29 12:26:28 +0000 2020",
+        "favorite_count": 1653,
+        "hashtags": [],
+        "id": 1233730253362794496,
+        "id_str": "1233730253362794496",
+        "lang": "en",
+        "retweet_count": 618,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "US-Taliban agreement to be signed shortly allows for complete US troop withdrawal from Afghanistan in 14 months https://t.co/gmTV1mLDeE",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/38fSyrT",
+                "url": "https://t.co/gmTV1mLDeE"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sat Feb 29 10:01:27 +0000 2020",
+        "favorite_count": 2831,
+        "hashtags": [],
+        "id": 1233693758711091201,
+        "id_str": "1233693758711091201",
+        "lang": "en",
+        "retweet_count": 1063,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Top Home Office civil servant Sir Philip Rutnam resigns, and intends to sue government for constructive dismissal https://t.co/4CZO8OQnhV",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2Pw4XBe",
+                "url": "https://t.co/4CZO8OQnhV"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Feb 28 17:27:10 +0000 2020",
+        "favorite_count": 4146,
+        "hashtags": [],
+        "id": 1233443539914252289,
+        "id_str": "1233443539914252289",
+        "lang": "en",
+        "retweet_count": 3287,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "At least 210 coronavirus patients have died in Iran - far more than officially admitted - Iranian health sources te\u2026 https://t.co/p1JmS5WiNQ",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1233443539914252289",
+                "url": "https://t.co/p1JmS5WiNQ"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Feb 28 16:46:22 +0000 2020",
+        "favorite_count": 1317,
+        "hashtags": [],
+        "id": 1233433270467121152,
+        "id_str": "1233433270467121152",
+        "lang": "en",
+        "retweet_count": 663,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "UK's FTSE 100 share index hit by biggest one-week fall since 2008 financial crisis amid coronavirus fears https://t.co/I7eSJ6q9r6",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/39aTgYm",
+                "url": "https://t.co/I7eSJ6q9r6"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Feb 28 13:33:31 +0000 2020",
+        "favorite_count": 2753,
+        "hashtags": [],
+        "id": 1233384738729185281,
+        "id_str": "1233384738729185281",
+        "lang": "en",
+        "retweet_count": 1840,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "British man who had been on board cruise ship has died from coronavirus, Japan Health Ministry says https://t.co/QYt7Ty9t2u",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2TmrMsi",
+                "url": "https://t.co/QYt7Ty9t2u"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Feb 28 09:36:56 +0000 2020",
+        "favorite_count": 2571,
+        "hashtags": [],
+        "id": 1233325200101474305,
+        "id_str": "1233325200101474305",
+        "lang": "en",
+        "retweet_count": 1556,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "First coronavirus case confirmed in Wales, in a patient who had returned from Italy - taking total UK cases to 17 https://t.co/a3lqWkrKqh",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2Pwx8Qy",
+                "url": "https://t.co/a3lqWkrKqh"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Feb 27 21:46:24 +0000 2020",
+        "favorite_count": 1030,
+        "hashtags": [],
+        "id": 1233146388646629377,
+        "id_str": "1233146388646629377",
+        "lang": "en",
+        "retweet_count": 458,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "More than 20 Turkish soldiers killed by Syrian forces in Idlib airstrike, officials say https://t.co/gvKeLiiTQE",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2I4fYpn",
+                "url": "https://t.co/gvKeLiiTQE"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Feb 27 19:10:31 +0000 2020",
+        "favorite_count": 1841,
+        "hashtags": [],
+        "id": 1233107159082291206,
+        "id_str": "1233107159082291206",
+        "lang": "en",
+        "retweet_count": 1195,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Northern Ireland authorities confirm first case of coronavirus - taking total number of UK cases to 16 https://t.co/gkWa5kjtFz",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/398CuJI",
+                "url": "https://t.co/gkWa5kjtFz"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Feb 27 10:12:28 +0000 2020",
+        "favorite_count": 2235,
+        "hashtags": [],
+        "id": 1232971753221185536,
+        "id_str": "1232971753221185536",
+        "lang": "en",
+        "retweet_count": 670,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Campaigners win Court of Appeal ruling over controversial plans for third runway at Heathrow on environment grounds https://t.co/Y05ktPwkbQ",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/39595A2",
+                "url": "https://t.co/Y05ktPwkbQ"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Feb 27 09:10:34 +0000 2020",
+        "favorite_count": 1885,
+        "hashtags": [],
+        "id": 1232956176146542592,
+        "id_str": "1232956176146542592",
+        "lang": "en",
+        "retweet_count": 1093,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Two more patients test positive for coronavirus in England, bringing total number of UK cases to 15 https://t.co/ryHKJrv8zw",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2TjODEP",
+                "url": "https://t.co/ryHKJrv8zw"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Feb 26 14:46:28 +0000 2020",
+        "favorite_count": 602,
+        "hashtags": [],
+        "id": 1232678321600761856,
+        "id_str": "1232678321600761856",
+        "lang": "en",
+        "retweet_count": 254,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Ireland v Italy Six Nations game in Dublin postponed due to coronavirus concerns\nhttps://t.co/4N3KGHDmBe",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/3c9sZeV",
+                "url": "https://t.co/4N3KGHDmBe"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Tue Feb 25 11:03:04 +0000 2020",
+        "favorite_count": 2280,
+        "hashtags": [],
+        "id": 1232259712692957185,
+        "id_str": "1232259712692957185",
+        "lang": "en",
+        "retweet_count": 1914,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Former Egyptian President Hosni Mubarak \u2013 ousted by the military in 2011 \u2013 has died in hospital in Cairo aged 91 https://t.co/QnlPMqEkRs",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2VjZ8ul",
+                "url": "https://t.co/QnlPMqEkRs"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Feb 24 16:48:39 +0000 2020",
+        "favorite_count": 15026,
+        "hashtags": [
+            {
+                "text": "MeToo"
+            }
+        ],
+        "id": 1231984294110908419,
+        "id_str": "1231984294110908419",
+        "lang": "en",
+        "retweet_count": 4523,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Harvey Weinstein, once Hollywood's most powerful man, found guilty in sex assault case that spurred #MeToo movement https://t.co/qgtGpZ44DC",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2T73qTc",
+                "url": "https://t.co/qgtGpZ44DC"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Feb 24 14:46:15 +0000 2020",
+        "favorite_count": 1152,
+        "hashtags": [],
+        "id": 1231953492874604545,
+        "id_str": "1231953492874604545",
+        "lang": "en",
+        "retweet_count": 817,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Car drives into crowd during carnival procession in German town of Volkmarsen, injuring several people, police say https://t.co/yCdHp0Td2f",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/396fdrT",
+                "url": "https://t.co/yCdHp0Td2f"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Feb 24 06:39:33 +0000 2020",
+        "favorite_count": 2165,
+        "hashtags": [],
+        "id": 1231831010045812737,
+        "id_str": "1231831010045812737",
+        "lang": "en",
+        "retweet_count": 2002,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "The Malaysian prime minister, 94-year-old Mahathir Mohamad, submits his resignation to the king https://t.co/6yFXfsBjmR",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2SQozlD",
+                "url": "https://t.co/6yFXfsBjmR"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sun Feb 23 16:18:23 +0000 2020",
+        "favorite_count": 2020,
+        "hashtags": [],
+        "id": 1231614287917047808,
+        "id_str": "1231614287917047808",
+        "lang": "en",
+        "retweet_count": 1110,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Four of the cruise ship passengers brought to UK test positive for coronavirus, bringing number of UK cases to 13 https://t.co/iYFKDnENZ0",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2PcMHgb",
+                "url": "https://t.co/iYFKDnENZ0"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sun Feb 23 05:40:21 +0000 2020",
+        "hashtags": [
+            {
+                "text": "FuryWilder2"
+            },
+            {
+                "text": "bbcboxing"
+            }
+        ],
+        "id": 1231453724410863616,
+        "id_str": "1231453724410863616",
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/CwFGzBHE0G",
+                "expanded_url": "https://twitter.com/BBCSport/status/1231453662888763393/photo/1",
+                "id": 1231453599718346753,
+                "media_url": "http://pbs.twimg.com/media/ERcAhkCWkAE7vFd.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ERcAhkCWkAE7vFd.jpg",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 680,
+                        "h": 383,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 675,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1920,
+                        "h": 1080,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/CwFGzBHE0G"
+            }
+        ],
+        "retweet_count": 1720,
+        "retweeted_status": {
+            "created_at": "Sun Feb 23 05:40:07 +0000 2020",
+            "favorite_count": 9039,
+            "hashtags": [
+                {
+                    "text": "FuryWilder2"
+                },
+                {
+                    "text": "bbcboxing"
+                }
+            ],
+            "id": 1231453662888763393,
+            "id_str": "1231453662888763393",
+            "lang": "en",
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/CwFGzBHE0G",
+                    "expanded_url": "https://twitter.com/BBCSport/status/1231453662888763393/photo/1",
+                    "id": 1231453599718346753,
+                    "media_url": "http://pbs.twimg.com/media/ERcAhkCWkAE7vFd.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ERcAhkCWkAE7vFd.jpg",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1920,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/CwFGzBHE0G"
+                }
+            ],
+            "retweet_count": 1720,
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "text": "WHAT A PERFORMANCE! \n\nWHAT A FIGHTER!\n\n#FuryWilder2 LIVE: https://t.co/IqaYS0foUx #bbcboxing https://t.co/CwFGzBHE0G",
+            "urls": [
+                {
+                    "expanded_url": "http://bbc.in/392GpaZ",
+                    "url": "https://t.co/IqaYS0foUx"
+                }
+            ],
+            "user": {
+                "id": 265902729,
+                "id_str": "265902729"
+            },
+            "user_mentions": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "RT @BBCSport: WHAT A PERFORMANCE! \n\nWHAT A FIGHTER!\n\n#FuryWilder2 LIVE: https://t.co/IqaYS0foUx #bbcboxing https://t.co/CwFGzBHE0G",
+        "urls": [
+            {
+                "expanded_url": "http://bbc.in/392GpaZ",
+                "url": "https://t.co/IqaYS0foUx"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": [
+            {
+                "id": 265902729,
+                "id_str": "265902729",
+                "name": "BBC Sport",
+                "screen_name": "BBCSport"
+            }
+        ]
+    },
+    {
+        "created_at": "Fri Feb 21 19:30:19 +0000 2020",
+        "favorite_count": 3298,
+        "hashtags": [],
+        "id": 1230937814466023424,
+        "id_str": "1230937814466023424",
+        "lang": "en",
+        "retweet_count": 630,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "The Duke and Duchess of Sussex are to stop using their \"SussexRoyal\" brand from Spring 2020 https://t.co/kmdYuBlAwZ",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/3c0eMRt",
+                "url": "https://t.co/kmdYuBlAwZ"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Feb 21 11:15:25 +0000 2020",
+        "favorite_count": 1388,
+        "hashtags": [],
+        "id": 1230813269205667840,
+        "id_str": "1230813269205667840",
+        "lang": "en",
+        "retweet_count": 846,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Supporter of Islamic State group admits plotting to bomb London's St Paul's Cathedral and a hotel https://t.co/nuD43up9dm",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/39POkIv",
+                "url": "https://t.co/nuD43up9dm"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Feb 20 21:53:36 +0000 2020",
+        "favorite_count": 2046,
+        "hashtags": [],
+        "id": 1230611486361473026,
+        "id_str": "1230611486361473026",
+        "lang": "en",
+        "retweet_count": 327,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Man who killed British backpacker Grace Millane jailed for at least 17 years by a New Zealand judge https://t.co/F9oH0fWoCW",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/3bUXCon",
+                "url": "https://t.co/F9oH0fWoCW"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Feb 20 17:36:25 +0000 2020",
+        "favorite_count": 1807,
+        "hashtags": [],
+        "id": 1230546764765290496,
+        "id_str": "1230546764765290496",
+        "lang": "en",
+        "retweet_count": 528,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Roger Stone, long-time ally of President Trump, is given 40 months in jail on charges stemming from Russia inquiry https://t.co/mF05rlemFY",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2v1I9SU",
+                "url": "https://t.co/mF05rlemFY"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Feb 20 16:06:35 +0000 2020",
+        "favorite_count": 1480,
+        "hashtags": [],
+        "id": 1230524155315052544,
+        "id_str": "1230524155315052544",
+        "lang": "en",
+        "retweet_count": 959,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Man arrested on suspicion of attempted murder after a stabbing at a mosque in central London https://t.co/TBDbyXZKw1",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/3bVoX9W",
+                "url": "https://t.co/TBDbyXZKw1"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Feb 20 10:35:09 +0000 2020",
+        "favorite_count": 619,
+        "hashtags": [],
+        "id": 1230440748211933187,
+        "id_str": "1230440748211933187",
+        "lang": "en",
+        "retweet_count": 273,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Two people killed as Sydney to Melbourne express train derails near town of Wallan, Australian media reports https://t.co/dR5ncntINM",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/38NVInC",
+                "url": "https://t.co/dR5ncntINM"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Feb 20 09:16:00 +0000 2020",
+        "favorite_count": 2865,
+        "hashtags": [],
+        "id": 1230420828577320960,
+        "id_str": "1230420828577320960",
+        "lang": "en",
+        "retweet_count": 1997,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "German police treating shootings in Hanau as terror attacks, with evidence that suspect was right-wing extremist https://t.co/9lrZBjjidU",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2uewMqh",
+                "url": "https://t.co/9lrZBjjidU"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Feb 19 23:18:11 +0000 2020",
+        "favorite_count": 2493,
+        "hashtags": [],
+        "id": 1230270382294302722,
+        "id_str": "1230270382294302722",
+        "lang": "en",
+        "retweet_count": 2454,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Several people are dead following a mass shooting in the German city of Hanau, local media report https://t.co/67uQFnlA1D",
+        "urls": [
+            {
+                "expanded_url": "http://bit.ly/2wze51z",
+                "url": "https://t.co/67uQFnlA1D"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sat Feb 15 18:12:12 +0000 2020",
+        "favorite_count": 15842,
+        "hashtags": [],
+        "id": 1228743829219663874,
+        "id_str": "1228743829219663874",
+        "lang": "en",
+        "retweet_count": 5335,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Caroline Flack, former Love Island presenter, has died, her family confirms https://t.co/UgL9GWXvd8",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2HsR6r2",
+                "url": "https://t.co/UgL9GWXvd8"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sat Feb 15 10:09:21 +0000 2020",
+        "favorite_count": 3375,
+        "hashtags": [],
+        "id": 1228622316835348480,
+        "id_str": "1228622316835348480",
+        "lang": "en",
+        "retweet_count": 2261,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "First coronavirus fatality in Europe as France confirms death of Chinese tourist https://t.co/GA9VjX6bBT",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/38FTuXz",
+                "url": "https://t.co/GA9VjX6bBT"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Fri Feb 14 18:52:06 +0000 2020",
+        "hashtags": [],
+        "id": 1228391483537084417,
+        "id_str": "1228391483537084417",
+        "lang": "en",
+        "retweet_count": 2619,
+        "retweeted_status": {
+            "created_at": "Fri Feb 14 18:35:57 +0000 2020",
+            "favorite_count": 9278,
+            "hashtags": [],
+            "id": 1228387418874818565,
+            "id_str": "1228387418874818565",
+            "lang": "en",
+            "retweet_count": 2619,
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "text": "Manchester City have been banned from the Champions League for two seasons by UEFA.\n\nIn full \u27a1\u2026 https://t.co/AfKLJHLAFX",
+            "truncated": true,
+            "urls": [
+                {
+                    "expanded_url": "https://twitter.com/i/web/status/1228387418874818565",
+                    "url": "https://t.co/AfKLJHLAFX"
+                }
+            ],
+            "user": {
+                "id": 265902729,
+                "id_str": "265902729"
+            },
+            "user_mentions": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "RT @BBCSport: Manchester City have been banned from the Champions League for two seasons by UEFA.\n\nIn full \u27a1 https://t.co/qFxrBWL7DH https:\u2026",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/31UCQ3x",
+                "url": "https://t.co/qFxrBWL7DH"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": [
+            {
+                "id": 265902729,
+                "id_str": "265902729",
+                "name": "BBC Sport",
+                "screen_name": "BBCSport"
+            }
+        ]
+    },
+    {
+        "created_at": "Thu Feb 13 12:23:15 +0000 2020",
+        "favorite_count": 408,
+        "hashtags": [],
+        "id": 1227931235684683777,
+        "id_str": "1227931235684683777",
+        "in_reply_to_screen_name": "BBCBreaking",
+        "in_reply_to_status_id": 1227924548655484929,
+        "in_reply_to_user_id": 5402612,
+        "lang": "en",
+        "retweet_count": 140,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Rishi Sunak has been appointed as the new UK chancellor, following Sajid Javid's resignation\u2026 https://t.co/QgFTWIO7iB",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1227931235684683777",
+                "url": "https://t.co/QgFTWIO7iB"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Feb 13 11:56:40 +0000 2020",
+        "favorite_count": 1329,
+        "hashtags": [],
+        "id": 1227924548655484929,
+        "id_str": "1227924548655484929",
+        "lang": "en",
+        "retweet_count": 594,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "UK Chancellor Sajid Javid has resigned amid Boris Johnson's cabinet reshuffle in a surprise move\n\nLive updates:\u2026 https://t.co/HIQnam6Yjk",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1227924548655484929",
+                "url": "https://t.co/HIQnam6Yjk"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Feb 12 18:45:50 +0000 2020",
+        "favorite_count": 1965,
+        "hashtags": [],
+        "id": 1227665128725897216,
+        "id_str": "1227665128725897216",
+        "lang": "en",
+        "retweet_count": 990,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "A new UK coronavirus case, believed to be a woman who flew into London from China, is confirmed to the BBC https://t.co/AlIdzeDO54",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2vpELRC",
+                "url": "https://t.co/AlIdzeDO54"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Feb 12 16:42:54 +0000 2020",
+        "favorite_count": 1597,
+        "hashtags": [],
+        "id": 1227634190503567362,
+        "id_str": "1227634190503567362",
+        "lang": "en",
+        "retweet_count": 574,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "A 52-year-old man is charged over the murder of journalist Lyra McKee in Londonderry https://t.co/xzWoXgz9BI",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/39nQcYG",
+                "url": "https://t.co/xzWoXgz9BI"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Wed Feb 12 11:02:34 +0000 2020",
+        "favorite_count": 1308,
+        "hashtags": [],
+        "id": 1227548543872897024,
+        "id_str": "1227548543872897024",
+        "lang": "en",
+        "retweet_count": 352,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Pope Francis rules against allowing married men to be ordained to address shortage of priests in Amazon region https://t.co/1w7W5zkwOQ",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2UKf7Sc",
+                "url": "https://t.co/1w7W5zkwOQ"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Tue Feb 11 13:47:14 +0000 2020",
+        "favorite_count": 3519,
+        "hashtags": [],
+        "id": 1227227597060411392,
+        "id_str": "1227227597060411392",
+        "lang": "en",
+        "retweet_count": 1770,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Sudan's rulers to hand over ex-President Omar al-Bashir to the International Criminal Court on war crimes charges https://t.co/VBfYRm09gT",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2ShfFgR",
+                "url": "https://t.co/VBfYRm09gT"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Tue Feb 11 12:45:25 +0000 2020",
+        "favorite_count": 401,
+        "hashtags": [],
+        "id": 1227212038079946752,
+        "id_str": "1227212038079946752",
+        "lang": "en",
+        "retweet_count": 98,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "High Speed 2 rail line will go ahead with a minister to oversee project and discipline will be \"restored\", says PM https://t.co/3e9UVMmJrB",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2w0bgGf",
+                "url": "https://t.co/3e9UVMmJrB"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Tue Feb 11 10:20:50 +0000 2020",
+        "favorite_count": 1675,
+        "hashtags": [],
+        "id": 1227175653667196928,
+        "id_str": "1227175653667196928",
+        "lang": "en",
+        "retweet_count": 412,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Man linked to several coronavirus cases in UK, France and Mallorca says he has recovered from the illness https://t.co/V0DMOWEFG7",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/38hsXPL",
+                "url": "https://t.co/V0DMOWEFG7"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Tue Feb 11 09:32:48 +0000 2020",
+        "favorite_count": 1321,
+        "hashtags": [],
+        "id": 1227163566328942592,
+        "id_str": "1227163566328942592",
+        "lang": "en",
+        "retweet_count": 366,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Queen's grandson Peter Phillips and wife Autumn to divorce, saying it is best for their two daughters https://t.co/Dwt4M3M5ti",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2SesPLx",
+                "url": "https://t.co/Dwt4M3M5ti"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Feb 10 22:01:00 +0000 2020",
+        "favorite_count": 3565,
+        "hashtags": [],
+        "id": 1226989468554596353,
+        "id_str": "1226989468554596353",
+        "lang": "en",
+        "retweet_count": 998,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Government will give go-ahead to whole of controversial high-speed rail line HS2, BBC confirms https://t.co/o1kfLuGVv9",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2OKtpi1",
+                "url": "https://t.co/o1kfLuGVv9"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Feb 10 15:22:15 +0000 2020",
+        "favorite_count": 1399,
+        "hashtags": [],
+        "id": 1226889120124985349,
+        "id_str": "1226889120124985349",
+        "lang": "en",
+        "retweet_count": 692,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "US charges four Chinese military \"hackers\" over cyber-attack of credit score giant Equifax https://t.co/DopqkQnk5C",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/38ay6cx",
+                "url": "https://t.co/DopqkQnk5C"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Feb 10 13:35:14 +0000 2020",
+        "favorite_count": 3656,
+        "hashtags": [],
+        "id": 1226862190847721473,
+        "id_str": "1226862190847721473",
+        "lang": "en",
+        "retweet_count": 2471,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "GP practice in Brighton closes after staff member tests positive for coronavirus https://t.co/xY3R0fPvRg",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/31GESnS",
+                "url": "https://t.co/xY3R0fPvRg"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Feb 10 09:53:50 +0000 2020",
+        "favorite_count": 1995,
+        "hashtags": [],
+        "id": 1226806469875699712,
+        "id_str": "1226806469875699712",
+        "lang": "en",
+        "retweet_count": 1040,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Four more patients in England test positive for coronavirus, bringing total number of cases in UK to eight https://t.co/GYvMEURgZb",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2umLCeB",
+                "url": "https://t.co/GYvMEURgZb"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Feb 10 07:31:52 +0000 2020",
+        "favorite_count": 6030,
+        "hashtags": [],
+        "id": 1226770744786477058,
+        "id_str": "1226770744786477058",
+        "lang": "en",
+        "retweet_count": 3520,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "UK government declares coronavirus a \"serious and imminent threat\" to public health https://t.co/Deq2cDBf4o",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/37ceOlJ",
+                "url": "https://t.co/Deq2cDBf4o"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Feb 10 04:29:41 +0000 2020",
+        "favorite_count": 2439,
+        "hashtags": [
+            {
+                "text": "Oscars2020"
+            }
+        ],
+        "id": 1226724897193328644,
+        "id_str": "1226724897193328644",
+        "in_reply_to_screen_name": "BBCBreaking",
+        "in_reply_to_status_id": 1226720953574608897,
+        "in_reply_to_user_id": 5402612,
+        "lang": "en",
+        "retweet_count": 1103,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Parasite named Best Film at #Oscars2020, the first foreign language film to be awarded the prize\u2026 https://t.co/9ThmJvI4ct",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1226724897193328644",
+                "url": "https://t.co/9ThmJvI4ct"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Feb 10 04:14:01 +0000 2020",
+        "favorite_count": 904,
+        "hashtags": [
+            {
+                "text": "Oscars2020"
+            }
+        ],
+        "id": 1226720953574608897,
+        "id_str": "1226720953574608897",
+        "in_reply_to_screen_name": "BBCBreaking",
+        "in_reply_to_status_id": 1226719266013138944,
+        "in_reply_to_user_id": 5402612,
+        "lang": "de",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/KEJ2segaTu",
+                "expanded_url": "https://twitter.com/BBCBreaking/status/1226720953574608897/photo/1",
+                "id": 1226720928278687746,
+                "media_url": "http://pbs.twimg.com/media/EQYwL1CWsAIiYew.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EQYwL1CWsAIiYew.jpg",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 363,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1920,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 640,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/KEJ2segaTu"
+            }
+        ],
+        "retweet_count": 181,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Ren\u00e9e Zellweger named Best Actress for her leading role in Judy #Oscars2020 \n\nhttps://t.co/yPX5nNBYH2 https://t.co/KEJ2segaTu",
+        "urls": [
+            {
+                "expanded_url": "http://bbc.in/3brh6AU",
+                "url": "https://t.co/yPX5nNBYH2"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Feb 10 04:07:19 +0000 2020",
+        "favorite_count": 1412,
+        "hashtags": [
+            {
+                "text": "Oscars2020"
+            }
+        ],
+        "id": 1226719266013138944,
+        "id_str": "1226719266013138944",
+        "in_reply_to_screen_name": "BBCBreaking",
+        "in_reply_to_status_id": 1226715705787244544,
+        "in_reply_to_user_id": 5402612,
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/YNmaD8PUT4",
+                "expanded_url": "https://twitter.com/BBCBreaking/status/1226719266013138944/photo/1",
+                "id": 1226719227786166273,
+                "media_url": "http://pbs.twimg.com/media/EQYuo2NWAAEFH93.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EQYuo2NWAAEFH93.jpg",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 363,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1920,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 640,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/YNmaD8PUT4"
+            }
+        ],
+        "retweet_count": 451,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Joaquin Phoenix named Best Actor at #Oscars2020 for his leading role in Joker\n\nhttps://t.co/yPX5nNBYH2 https://t.co/YNmaD8PUT4",
+        "urls": [
+            {
+                "expanded_url": "http://bbc.in/3brh6AU",
+                "url": "https://t.co/yPX5nNBYH2"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Feb 10 03:53:10 +0000 2020",
+        "favorite_count": 1128,
+        "hashtags": [
+            {
+                "text": "Oscars2020"
+            }
+        ],
+        "id": 1226715705787244544,
+        "id_str": "1226715705787244544",
+        "in_reply_to_screen_name": "BBCBreaking",
+        "in_reply_to_status_id": 1226692306394370048,
+        "in_reply_to_user_id": 5402612,
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/DTgUOLtUj9",
+                "expanded_url": "https://twitter.com/BBCBreaking/status/1226715705787244544/photo/1",
+                "id": 1226715634718912512,
+                "media_url": "http://pbs.twimg.com/media/EQYrXs_WsAAhmc7.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EQYrXs_WsAAhmc7.jpg",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 363,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1920,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 640,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/DTgUOLtUj9"
+            }
+        ],
+        "retweet_count": 495,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Bong Joon-Ho awarded Best Director for Parasite #Oscars2020 \n\nhttps://t.co/yPX5nNBYH2 https://t.co/DTgUOLtUj9",
+        "urls": [
+            {
+                "expanded_url": "http://bbc.in/3brh6AU",
+                "url": "https://t.co/yPX5nNBYH2"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Feb 10 02:20:11 +0000 2020",
+        "favorite_count": 632,
+        "hashtags": [
+            {
+                "text": "Oscars2020"
+            }
+        ],
+        "id": 1226692306394370048,
+        "id_str": "1226692306394370048",
+        "in_reply_to_screen_name": "BBCBreaking",
+        "in_reply_to_status_id": 1226676021400920066,
+        "in_reply_to_user_id": 5402612,
+        "lang": "en",
+        "media": [
+            {
+                "display_url": "pic.twitter.com/fnduAy2Bpt",
+                "expanded_url": "https://twitter.com/BBCBreaking/status/1226692306394370048/photo/1",
+                "id": 1226691988097052672,
+                "media_url": "http://pbs.twimg.com/media/EQYV3SdXsAAk5QX.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/EQYV3SdXsAAk5QX.jpg",
+                "sizes": {
+                    "small": {
+                        "w": 680,
+                        "h": 363,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "large": {
+                        "w": 1920,
+                        "h": 1024,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 1200,
+                        "h": 640,
+                        "resize": "fit"
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/fnduAy2Bpt"
+            }
+        ],
+        "retweet_count": 119,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "Laura Dern wins Best Supporting Actress, for her role in Marriage Story #Oscars2020\n\nhttps://t.co/yPX5nNBYH2 https://t.co/fnduAy2Bpt",
+        "urls": [
+            {
+                "expanded_url": "http://bbc.in/3brh6AU",
+                "url": "https://t.co/yPX5nNBYH2"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Mon Feb 10 01:15:28 +0000 2020",
+        "favorite_count": 2758,
+        "hashtags": [
+            {
+                "text": "Oscars2020"
+            }
+        ],
+        "id": 1226676021400920066,
+        "id_str": "1226676021400920066",
+        "lang": "en",
+        "retweet_count": 540,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Brad Pitt awarded Best Supporting Actor, for his performance in Once Upon a Time in Hollywood, at #Oscars2020\u2026 https://t.co/xitapwoN6K",
+        "truncated": true,
+        "urls": [
+            {
+                "expanded_url": "https://twitter.com/i/web/status/1226676021400920066",
+                "url": "https://t.co/xitapwoN6K"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sun Feb 09 02:30:39 +0000 2020",
+        "favorite_count": 1941,
+        "hashtags": [],
+        "id": 1226332552165806081,
+        "id_str": "1226332552165806081",
+        "lang": "en",
+        "retweet_count": 2419,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Soldier who killed at least 21 in a shooting rampage in Thailand has been shot dead, police say https://t.co/b4apO9RsH1",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2UAOr6h",
+                "url": "https://t.co/b4apO9RsH1"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Sat Feb 08 12:16:17 +0000 2020",
+        "favorite_count": 2515,
+        "hashtags": [],
+        "id": 1226117546371375105,
+        "id_str": "1226117546371375105",
+        "lang": "en",
+        "retweet_count": 6686,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Thai soldier shoots dead \"many people\" in and around city of Korat, north-east of Bangkok, reports say https://t.co/HfVV3xzJAN",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/31BvhyJ",
+                "url": "https://t.co/HfVV3xzJAN"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Feb 06 22:02:31 +0000 2020",
+        "favorite_count": 622,
+        "hashtags": [],
+        "id": 1225540298190868480,
+        "id_str": "1225540298190868480",
+        "lang": "en",
+        "retweet_count": 191,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Teenager who threw boy off Tate Modern told carers of plan to push someone off building months beforehand, BBC told https://t.co/28serQKra8",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/39fvSZE",
+                "url": "https://t.co/28serQKra8"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Feb 06 13:28:38 +0000 2020",
+        "favorite_count": 1969,
+        "hashtags": [],
+        "id": 1225410978059255810,
+        "id_str": "1225410978059255810",
+        "lang": "en",
+        "retweet_count": 1018,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Third person in UK confirmed as having coronavirus and they have been taken to a specialist NHS centre https://t.co/AyzoZucrrI",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2GWnlP8",
+                "url": "https://t.co/AyzoZucrrI"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    },
+    {
+        "created_at": "Thu Feb 06 08:16:02 +0000 2020",
+        "favorite_count": 1606,
+        "hashtags": [],
+        "id": 1225332307508199424,
+        "id_str": "1225332307508199424",
+        "lang": "en",
+        "retweet_count": 616,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "text": "Scotland's finance secretary quits hours before budget amid claims he messaged a 16-year-old boy on social media https://t.co/UW8cyJQRvi",
+        "urls": [
+            {
+                "expanded_url": "https://bbc.in/2GWFXhJ",
+                "url": "https://t.co/UW8cyJQRvi"
+            }
+        ],
+        "user": {
+            "id": 5402612,
+            "id_str": "5402612"
+        },
+        "user_mentions": []
+    }
+]
