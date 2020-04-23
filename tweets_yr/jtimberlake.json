@@ -1,14 +1,14 @@
 [
     {
         "created_at": "Tue Apr 14 18:25:04 +0000 2020",
-        "favorite_count": 1216,
+        "favorite_count": 1234,
         "hashtags": [],
         "id": 1250127952429420544,
         "id_str": "1250127952429420544",
         "lang": "und",
         "quoted_status": {
             "created_at": "Tue Apr 14 02:53:25 +0000 2020",
-            "favorite_count": 292,
+            "favorite_count": 295,
             "hashtags": [],
             "id": 1249893494958764032,
             "id_str": "1249893494958764032",
@@ -31,12 +31,12 @@
         },
         "quoted_status_id": 1249893494958764032,
         "quoted_status_id_str": "1249893494958764032",
-        "retweet_count": 161,
+        "retweet_count": 169,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "\ud83e\udd18\ud83c\udffb @ludwiggoransson @Trolls https://t.co/KHSSlKVmL3",
         "urls": [
             {
-                "expanded_url": "https://twitter.com/vanityfair/status/1249893494958764032",
+                "expanded_url": "https://twitter.com/VanityFair/status/1249893494958764032",
                 "url": "https://t.co/KHSSlKVmL3"
             }
         ],
@@ -61,14 +61,14 @@
     },
     {
         "created_at": "Sun Apr 12 00:55:13 +0000 2020",
-        "favorite_count": 1233,
+        "favorite_count": 1240,
         "hashtags": [],
         "id": 1249138971281588224,
         "id_str": "1249138971281588224",
         "lang": "und",
         "quoted_status": {
             "created_at": "Sat Apr 11 20:22:28 +0000 2020",
-            "favorite_count": 272,
+            "favorite_count": 273,
             "hashtags": [],
             "id": 1249070333593862145,
             "id_str": "1249070333593862145",
@@ -95,7 +95,7 @@
         },
         "quoted_status_id": 1249070333593862145,
         "quoted_status_id_str": "1249070333593862145",
-        "retweet_count": 114,
+        "retweet_count": 117,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "\ud83e\udd18\ud83c\udffb\ud83e\udd18\ud83c\udffb https://t.co/XQeeuMeimz",
         "urls": [
@@ -123,10 +123,10 @@
         "id": 1249138786405154818,
         "id_str": "1249138786405154818",
         "lang": "en",
-        "retweet_count": 114,
+        "retweet_count": 120,
         "retweeted_status": {
             "created_at": "Sun Apr 12 00:15:18 +0000 2020",
-            "favorite_count": 721,
+            "favorite_count": 736,
             "hashtags": [
                 {
                     "text": "StayHome"
@@ -138,7 +138,7 @@
             "id": 1249128926397505539,
             "id_str": "1249128926397505539",
             "lang": "en",
-            "retweet_count": 114,
+            "retweet_count": 120,
             "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
             "text": "#StayHome and watch @jtimberlake from his house in Montana answering all your questions in the #MostRequestedLive\u2026 https://t.co/lAHUsn7p23",
             "truncated": true,
@@ -185,7 +185,7 @@
     },
     {
         "created_at": "Sun Apr 12 00:53:39 +0000 2020",
-        "favorite_count": 1255,
+        "favorite_count": 1265,
         "hashtags": [
             {
                 "text": "TrollsWorldTour"
@@ -197,7 +197,7 @@
         "id": 1249138578980036608,
         "id_str": "1249138578980036608",
         "lang": "en",
-        "retweet_count": 175,
+        "retweet_count": 179,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "my new movie #TrollsWorldTour came out yesterday...and now it's time for our online #SocialDistancing party. here's\u2026 https://t.co/plrM7nThi0",
         "truncated": true,
@@ -215,7 +215,7 @@
     },
     {
         "created_at": "Fri Apr 10 22:09:44 +0000 2020",
-        "favorite_count": 6574,
+        "favorite_count": 6595,
         "hashtags": [
             {
                 "text": "FBF"
@@ -288,7 +288,7 @@
                 "url": "https://t.co/d5ZJdvy7JL"
             }
         ],
-        "retweet_count": 591,
+        "retweet_count": 593,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "#FBF... also me rn. I\u2019m sorry/you\u2019re welcome. HAPPY TROLLS DAY \ud83e\udd18\ud83c\udffbWho\u2019s watching?! https://t.co/WCUn9O2SgP https://t.co/d5ZJdvy7JL",
         "urls": [
@@ -309,15 +309,15 @@
         "id": 1248734525489844225,
         "id_str": "1248734525489844225",
         "lang": "en",
-        "retweet_count": 113,
+        "retweet_count": 115,
         "retweeted_status": {
             "created_at": "Fri Apr 10 21:10:32 +0000 2020",
-            "favorite_count": 741,
+            "favorite_count": 754,
             "hashtags": [],
             "id": 1248720038816694273,
             "id_str": "1248720038816694273",
             "lang": "en",
-            "retweet_count": 113,
+            "retweet_count": 115,
             "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
             "text": "Meet the voices behind these musical trolls. @AnnaKendrick47 and @jtimberlake star as two trolls from the land of P\u2026 https://t.co/QdAhrdjvCo",
             "truncated": true,
@@ -376,14 +376,14 @@
     },
     {
         "created_at": "Fri Apr 10 17:10:32 +0000 2020",
-        "favorite_count": 1800,
+        "favorite_count": 1807,
         "hashtags": [],
         "id": 1248659642781179909,
         "id_str": "1248659642781179909",
         "lang": "en",
         "quoted_status": {
             "created_at": "Fri Apr 10 15:54:22 +0000 2020",
-            "favorite_count": 2878,
+            "favorite_count": 2905,
             "hashtags": [],
             "id": 1248640476476915715,
             "id_str": "1248640476476915715",
@@ -433,10 +433,10 @@
         "id": 1248659477282332673,
         "id_str": "1248659477282332673",
         "lang": "en",
-        "retweet_count": 135,
+        "retweet_count": 139,
         "retweeted_status": {
             "created_at": "Fri Apr 10 16:45:07 +0000 2020",
-            "favorite_count": 825,
+            "favorite_count": 834,
             "hashtags": [
                 {
                     "text": "TrollsWorldTour"
@@ -445,7 +445,7 @@
             "id": 1248653246417207297,
             "id_str": "1248653246417207297",
             "lang": "en",
-            "retweet_count": 135,
+            "retweet_count": 139,
             "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
             "text": ".@jtimberlake brings the sounds of #TrollsWorldTour to life with an in-depth look at the making of the movie's soun\u2026 https://t.co/TpIR5dOm1k",
             "truncated": true,
@@ -492,14 +492,14 @@
     },
     {
         "created_at": "Fri Apr 10 16:20:43 +0000 2020",
-        "favorite_count": 2617,
+        "favorite_count": 2622,
         "hashtags": [],
         "id": 1248647104781791232,
         "id_str": "1248647104781791232",
         "lang": "und",
         "quoted_status": {
             "created_at": "Fri Apr 10 16:00:54 +0000 2020",
-            "favorite_count": 2249,
+            "favorite_count": 2250,
             "hashtags": [
                 {
                     "text": "TrollsWorldTour"
@@ -541,7 +541,7 @@
                     "url": "https://t.co/rN5uYknPef"
                 }
             ],
-            "retweet_count": 231,
+            "retweet_count": 232,
             "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
             "text": "Watch #TrollsWorldTour at home on demand now. https://t.co/HXgkSXvA1e https://t.co/rN5uYknPef",
             "urls": [
@@ -558,7 +558,7 @@
         },
         "quoted_status_id": 1248642118865883141,
         "quoted_status_id_str": "1248642118865883141",
-        "retweet_count": 266,
+        "retweet_count": 269,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "\ud83e\udd18\ud83e\udd18\ud83e\udd18\ud83e\udd18 https://t.co/HIJEypMtrO",
         "urls": [
@@ -586,7 +586,7 @@
         "retweet_count": 1052,
         "retweeted_status": {
             "created_at": "Thu Apr 09 17:30:31 +0000 2020",
-            "favorite_count": 6525,
+            "favorite_count": 6524,
             "hashtags": [
                 {
                     "text": "TrollsWatchParty"
@@ -632,7 +632,7 @@
     },
     {
         "created_at": "Thu Apr 09 18:40:34 +0000 2020",
-        "favorite_count": 221,
+        "favorite_count": 222,
         "hashtags": [],
         "id": 1248319914395475968,
         "id_str": "1248319914395475968",
@@ -671,17 +671,17 @@
         "lang": "en",
         "quoted_status_id": 1248309254215200768,
         "quoted_status_id_str": "1248309254215200768",
-        "retweet_count": 54,
+        "retweet_count": 56,
         "retweeted_status": {
             "created_at": "Thu Apr 09 18:10:04 +0000 2020",
-            "favorite_count": 618,
+            "favorite_count": 620,
             "hashtags": [],
             "id": 1248312235572834305,
             "id_str": "1248312235572834305",
             "lang": "en",
             "quoted_status": {
                 "created_at": "Thu Apr 09 17:58:13 +0000 2020",
-                "favorite_count": 857,
+                "favorite_count": 864,
                 "hashtags": [],
                 "id": 1248309254215200768,
                 "id_str": "1248309254215200768",
@@ -723,7 +723,7 @@
             },
             "quoted_status_id": 1248309254215200768,
             "quoted_status_id_str": "1248309254215200768",
-            "retweet_count": 54,
+            "retweet_count": 56,
             "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
             "text": "GOT THAT @nardwuar S/O \ud83d\udd25 https://t.co/lZoffBgF5H",
             "urls": [
@@ -769,12 +769,12 @@
     },
     {
         "created_at": "Thu Apr 09 18:26:56 +0000 2020",
-        "favorite_count": 7486,
+        "favorite_count": 7506,
         "hashtags": [],
         "id": 1248316483324858368,
         "id_str": "1248316483324858368",
         "lang": "en",
-        "retweet_count": 838,
+        "retweet_count": 840,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "I\u2019m not sure why I did this and I\u2019ma let y\u2019all finish but I didn\u2019t touch that water or that milk once and I would l\u2026 https://t.co/JjMFbEs1h4",
         "truncated": true,
@@ -800,10 +800,10 @@
         "id": 1248314563403153408,
         "id_str": "1248314563403153408",
         "lang": "en",
-        "retweet_count": 148,
+        "retweet_count": 154,
         "retweeted_status": {
             "created_at": "Thu Apr 09 18:10:51 +0000 2020",
-            "favorite_count": 912,
+            "favorite_count": 920,
             "hashtags": [
                 {
                     "text": "TrollsWorldTour"
@@ -812,7 +812,7 @@
             "id": 1248312432914825219,
             "id_str": "1248312432914825219",
             "lang": "en",
-            "retweet_count": 148,
+            "retweet_count": 154,
             "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
             "text": ".@jtimberlake touches on the music and the message of #TrollsWorldTour coming April 10.\n\nCheck it out now:\u2026 https://t.co/n9Wx9QkTLm",
             "truncated": true,
@@ -859,7 +859,7 @@
     },
     {
         "created_at": "Thu Apr 09 17:45:10 +0000 2020",
-        "favorite_count": 848,
+        "favorite_count": 853,
         "hashtags": [
             {
                 "text": "TrollsWorldTour"
@@ -901,10 +901,10 @@
         "id": 1248280087436374016,
         "id_str": "1248280087436374016",
         "lang": "en",
-        "retweet_count": 389,
+        "retweet_count": 391,
         "retweeted_status": {
             "created_at": "Thu Apr 09 15:00:01 +0000 2020",
-            "favorite_count": 1736,
+            "favorite_count": 1745,
             "hashtags": [
                 {
                     "text": "HotOnes"
@@ -913,7 +913,7 @@
             "id": 1248264408175763458,
             "id_str": "1248264408175763458",
             "lang": "en",
-            "retweet_count": 389,
+            "retweet_count": 391,
             "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
             "text": "\ud83d\udea8NEW #HotOnes ALERT\ud83d\udea8\nInternational pop icon @JTimberlake heavies up on the sauce versus some spicy wings \ud83d\udd25\ud83e\udd75\ud83d\udc80\n\nWATCH\u2026 https://t.co/z8yYDYRu1f",
             "truncated": true,
@@ -964,15 +964,15 @@
         "id": 1247989283329277954,
         "id_str": "1247989283329277954",
         "lang": "en",
-        "retweet_count": 1578,
+        "retweet_count": 1582,
         "retweeted_status": {
             "created_at": "Wed Apr 08 14:01:19 +0000 2020",
-            "favorite_count": 9744,
+            "favorite_count": 9749,
             "hashtags": [],
             "id": 1247887248223158282,
             "id_str": "1247887248223158282",
             "lang": "en",
-            "retweet_count": 1578,
+            "retweet_count": 1582,
             "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
             "text": "Using random objects around their home, Jimmy &amp; @jtimberlake transform their conversation into an epic song in this\u2026 https://t.co/d8HaVSkNmP",
             "truncated": true,
@@ -1030,7 +1030,7 @@
         "retweet_count": 394,
         "retweeted_status": {
             "created_at": "Tue Apr 07 21:00:00 +0000 2020",
-            "favorite_count": 2577,
+            "favorite_count": 2581,
             "hashtags": [
                 {
                     "text": "HotOnes"
@@ -1145,15 +1145,15 @@
         "id": 1247235380023345152,
         "id_str": "1247235380023345152",
         "lang": "en",
-        "retweet_count": 144,
+        "retweet_count": 145,
         "retweeted_status": {
             "created_at": "Mon Apr 06 18:39:43 +0000 2020",
-            "favorite_count": 1028,
+            "favorite_count": 1031,
             "hashtags": [],
             "id": 1247232535198720006,
             "id_str": "1247232535198720006",
             "lang": "en",
-            "retweet_count": 144,
+            "retweet_count": 145,
             "source": "<a href=\"http://www.socialbakers.com/\" rel=\"nofollow\">Socialbakers</a>",
             "text": "\ud83c\udfac @AndersonPaak and @jtimberlake team up for the \"Don't Slack\" video starring @AnnaKendrick47.\n\nWATCH:\u2026 https://t.co/N6tfxwA7hb",
             "truncated": true,
@@ -1231,7 +1231,7 @@
         "retweet_count": 168,
         "retweeted_status": {
             "created_at": "Mon Apr 06 15:22:13 +0000 2020",
-            "favorite_count": 994,
+            "favorite_count": 993,
             "hashtags": [],
             "id": 1247182834478940161,
             "id_str": "1247182834478940161",
@@ -1323,7 +1323,7 @@
         "retweet_count": 137,
         "retweeted_status": {
             "created_at": "Mon Apr 06 15:33:00 +0000 2020",
-            "favorite_count": 698,
+            "favorite_count": 699,
             "hashtags": [],
             "id": 1247185545450536961,
             "id_str": "1247185545450536961",
@@ -1406,7 +1406,7 @@
         "retweet_count": 237,
         "retweeted_status": {
             "created_at": "Mon Apr 06 15:08:29 +0000 2020",
-            "favorite_count": 1128,
+            "favorite_count": 1129,
             "hashtags": [],
             "id": 1247179377625845761,
             "id_str": "1247179377625845761",
@@ -1482,7 +1482,7 @@
     },
     {
         "created_at": "Mon Apr 06 15:02:56 +0000 2020",
-        "favorite_count": 4856,
+        "favorite_count": 4905,
         "hashtags": [],
         "id": 1247177981006618625,
         "id_str": "1247177981006618625",
@@ -1548,7 +1548,7 @@
                 }
             }
         ],
-        "retweet_count": 866,
+        "retweet_count": 877,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "DON\u2019T SLACK\ud83e\udd18@AndersonPaak @AnnaKendrick47 @Trolls \nhttps://t.co/Xsjp5vOjbP https://t.co/8Z7flns3WW",
         "urls": [
@@ -1584,12 +1584,12 @@
     },
     {
         "created_at": "Sun Apr 05 20:11:03 +0000 2020",
-        "favorite_count": 3249,
+        "favorite_count": 3251,
         "hashtags": [],
         "id": 1246893134065393671,
         "id_str": "1246893134065393671",
         "lang": "en",
-        "retweet_count": 385,
+        "retweet_count": 386,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "On set for DON\u2019T SLACK, playing everything but DON\u2019T SLACK \ud83e\udd23 Just tryin\u2019 to bring some joy.... Video is finally out\u2026 https://t.co/vZlWdkoi4t",
         "truncated": true,
@@ -1607,7 +1607,7 @@
     },
     {
         "created_at": "Sat Apr 04 19:00:02 +0000 2020",
-        "favorite_count": 1461,
+        "favorite_count": 1463,
         "hashtags": [],
         "id": 1246512872001282058,
         "id_str": "1246512872001282058",
@@ -1724,15 +1724,15 @@
         "id": 1245436882672025601,
         "id_str": "1245436882672025601",
         "lang": "en",
-        "retweet_count": 151,
+        "retweet_count": 152,
         "retweeted_status": {
             "created_at": "Tue Mar 31 19:54:00 +0000 2020",
-            "favorite_count": 762,
+            "favorite_count": 765,
             "hashtags": [],
             "id": 1245076900902551553,
             "id_str": "1245076900902551553",
             "lang": "en",
-            "retweet_count": 151,
+            "retweet_count": 152,
             "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
             "text": "\ud83d\ude02 @AnnaKendrick47 and @jtimberlake putting their own twist on the Unpopular Opinion theme, while jet-lagged, is TOO\u2026 https://t.co/xQDDGcQj63",
             "truncated": true,
@@ -1791,7 +1791,7 @@
     },
     {
         "created_at": "Sun Mar 29 00:02:42 +0000 2020",
-        "favorite_count": 1151,
+        "favorite_count": 1152,
         "hashtags": [
             {
                 "text": "TrollsWorldTour"
@@ -1837,7 +1837,7 @@
     },
     {
         "created_at": "Sun Mar 15 16:47:26 +0000 2020",
-        "favorite_count": 2708,
+        "favorite_count": 2711,
         "hashtags": [],
         "id": 1239231747017125888,
         "id_str": "1239231747017125888",
@@ -1864,15 +1864,15 @@
         "id": 1238256562172563457,
         "id_str": "1238256562172563457",
         "lang": "en",
-        "retweet_count": 132,
+        "retweet_count": 133,
         "retweeted_status": {
             "created_at": "Thu Mar 12 23:00:00 +0000 2020",
-            "favorite_count": 674,
+            "favorite_count": 676,
             "hashtags": [],
             "id": 1238238340303982595,
             "id_str": "1238238340303982595",
             "lang": "en",
-            "retweet_count": 132,
+            "retweet_count": 133,
             "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
             "text": ".@sza and @jtimberlake's new song \"The Other Side\" has these fans ready to get up and dance \ud83d\udd7a Tap the link to check\u2026 https://t.co/oS6YUPQgf4",
             "truncated": true,
@@ -1996,10 +1996,10 @@
                 }
             }
         ],
-        "retweet_count": 676,
+        "retweet_count": 675,
         "retweeted_status": {
             "created_at": "Wed Mar 11 23:52:25 +0000 2020",
-            "favorite_count": 4034,
+            "favorite_count": 4048,
             "hashtags": [],
             "id": 1237889142576386052,
             "id_str": "1237889142576386052",
@@ -2065,7 +2065,7 @@
                     }
                 }
             ],
-            "retweet_count": 676,
+            "retweet_count": 675,
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "text": "Don\u2019t Slack out now! Acapella version sold separately @jtimberlake https://t.co/nzjOPKtSZO https://t.co/11iAeoFIQ3",
             "urls": [
@@ -2185,10 +2185,10 @@
                 }
             }
         ],
-        "retweet_count": 500,
+        "retweet_count": 502,
         "retweeted_status": {
             "created_at": "Wed Mar 11 17:29:59 +0000 2020",
-            "favorite_count": 3165,
+            "favorite_count": 3167,
             "hashtags": [
                 {
                     "text": "TrollingforGood"
@@ -2258,7 +2258,7 @@
                     }
                 }
             ],
-            "retweet_count": 500,
+            "retweet_count": 502,
             "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
             "text": "I did some #TrollingforGood with @JTimberlake, @AndersonPaak, and @SZA. https://t.co/sPpF29MAWu",
             "urls": [],
@@ -2330,7 +2330,7 @@
         "retweet_count": 217,
         "retweeted_status": {
             "created_at": "Wed Mar 11 17:26:33 +0000 2020",
-            "favorite_count": 1176,
+            "favorite_count": 1178,
             "hashtags": [],
             "id": 1237792038285869056,
             "id_str": "1237792038285869056",
@@ -2431,7 +2431,7 @@
         "retweet_count": 107,
         "retweeted_status": {
             "created_at": "Tue Mar 10 17:59:49 +0000 2020",
-            "favorite_count": 917,
+            "favorite_count": 918,
             "hashtags": [],
             "id": 1237438021940715521,
             "id_str": "1237438021940715521",
@@ -2539,7 +2539,7 @@
         "retweet_count": 70,
         "retweeted_status": {
             "created_at": "Tue Mar 10 18:27:11 +0000 2020",
-            "favorite_count": 436,
+            "favorite_count": 438,
             "hashtags": [],
             "id": 1237444908438429699,
             "id_str": "1237444908438429699",
@@ -2633,7 +2633,7 @@
     },
     {
         "created_at": "Wed Mar 11 05:39:09 +0000 2020",
-        "favorite_count": 1283,
+        "favorite_count": 1285,
         "hashtags": [
             {
                 "text": "NewMusicDaily"
@@ -2801,7 +2801,7 @@
         "retweet_count": 71,
         "retweeted_status": {
             "created_at": "Tue Mar 10 16:03:43 +0000 2020",
-            "favorite_count": 509,
+            "favorite_count": 508,
             "hashtags": [],
             "id": 1237408804528164864,
             "id_str": "1237408804528164864",
@@ -2902,7 +2902,7 @@
     },
     {
         "created_at": "Tue Mar 10 16:01:20 +0000 2020",
-        "favorite_count": 2426,
+        "favorite_count": 2425,
         "hashtags": [
             {
                 "text": "TrollsWorldTour"
@@ -2942,14 +2942,14 @@
     },
     {
         "created_at": "Tue Mar 10 14:39:49 +0000 2020",
-        "favorite_count": 2058,
+        "favorite_count": 2059,
         "hashtags": [],
         "id": 1237387690762309632,
         "id_str": "1237387690762309632",
         "lang": "und",
         "quoted_status": {
             "created_at": "Tue Mar 10 08:00:00 +0000 2020",
-            "favorite_count": 667,
+            "favorite_count": 666,
             "hashtags": [],
             "id": 1237287074128171008,
             "id_str": "1237287074128171008",
@@ -3006,10 +3006,10 @@
         "id": 1236422018419109890,
         "id_str": "1236422018419109890",
         "lang": "en",
-        "retweet_count": 208,
+        "retweet_count": 209,
         "retweeted_status": {
             "created_at": "Sat Mar 07 02:40:06 +0000 2020",
-            "favorite_count": 1949,
+            "favorite_count": 1948,
             "hashtags": [
                 {
                     "text": "TrollsWorldTour"
@@ -3018,7 +3018,7 @@
             "id": 1236119404016005121,
             "id_str": "1236119404016005121",
             "lang": "en",
-            "retweet_count": 208,
+            "retweet_count": 209,
             "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
             "text": "Now we know when @JustinTimberlake &amp; @AndersonPaak's #TrollsWorldTour song is coming...  https://t.co/TbVF5aU8zu",
             "urls": [
@@ -3058,14 +3058,14 @@
     },
     {
         "created_at": "Sat Mar 07 22:42:03 +0000 2020",
-        "favorite_count": 2592,
+        "favorite_count": 2594,
         "hashtags": [],
         "id": 1236421885564538882,
         "id_str": "1236421885564538882",
         "lang": "und",
         "quoted_status": {
             "created_at": "Wed Mar 04 18:18:25 +0000 2020",
-            "favorite_count": 213,
+            "favorite_count": 212,
             "hashtags": [],
             "id": 1235268373833043970,
             "id_str": "1235268373833043970",
@@ -3270,7 +3270,7 @@
     },
     {
         "created_at": "Fri Mar 06 19:55:25 +0000 2020",
-        "favorite_count": 1931,
+        "favorite_count": 1933,
         "hashtags": [
             {
                 "text": "tinydiamond"
@@ -3331,7 +3331,7 @@
     },
     {
         "created_at": "Thu Mar 05 20:46:01 +0000 2020",
-        "favorite_count": 2218,
+        "favorite_count": 2217,
         "hashtags": [],
         "id": 1235667907008278528,
         "id_str": "1235667907008278528",
@@ -3362,7 +3362,7 @@
         "id": 1234536206697975810,
         "id_str": "1234536206697975810",
         "lang": "en",
-        "retweet_count": 368,
+        "retweet_count": 367,
         "retweeted_status": {
             "created_at": "Mon Mar 02 16:00:00 +0000 2020",
             "favorite_count": 1340,
@@ -3374,7 +3374,7 @@
             "id": 1234508764629200902,
             "id_str": "1234508764629200902",
             "lang": "en",
-            "retweet_count": 368,
+            "retweet_count": 367,
             "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
             "text": "Sing along with @SZA and @JTimberlake. Check out the lyric video for \u201cThe Other Side,\u201d from the #TrollsWorldTour so\u2026 https://t.co/DA5vqzyyI0",
             "truncated": true,
@@ -3433,7 +3433,7 @@
     },
     {
         "created_at": "Mon Mar 02 17:21:55 +0000 2020",
-        "favorite_count": 1816,
+        "favorite_count": 1815,
         "hashtags": [],
         "id": 1234529378819870723,
         "id_str": "1234529378819870723",
@@ -3564,10 +3564,10 @@
                 }
             }
         ],
-        "retweet_count": 808,
+        "retweet_count": 807,
         "retweeted_status": {
             "created_at": "Sun Mar 01 00:58:39 +0000 2020",
-            "favorite_count": 4629,
+            "favorite_count": 4631,
             "hashtags": [
                 {
                     "text": "Believe"
@@ -3637,7 +3637,7 @@
                     }
                 }
             ],
-            "retweet_count": 808,
+            "retweet_count": 807,
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "text": "#Believe @jtimberlake @espn https://t.co/UsZo9mlKMj",
             "urls": [],
@@ -3697,7 +3697,7 @@
         "retweet_count": 98,
         "retweeted_status": {
             "created_at": "Sat Feb 29 22:00:36 +0000 2020",
-            "favorite_count": 817,
+            "favorite_count": 818,
             "hashtags": [
                 {
                     "text": "nowplaying"
@@ -3764,14 +3764,14 @@
     },
     {
         "created_at": "Fri Feb 28 23:46:01 +0000 2020",
-        "favorite_count": 2032,
+        "favorite_count": 2030,
         "hashtags": [],
         "id": 1233538878293893120,
         "id_str": "1233538878293893120",
         "lang": "und",
         "quoted_status": {
             "created_at": "Fri Feb 28 19:00:00 +0000 2020",
-            "favorite_count": 949,
+            "favorite_count": 947,
             "hashtags": [],
             "id": 1233466900883165184,
             "id_str": "1233466900883165184",
@@ -3807,7 +3807,7 @@
         },
         "quoted_status_id": 1233466900883165184,
         "quoted_status_id_str": "1233466900883165184",
-        "retweet_count": 211,
+        "retweet_count": 212,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "\ud83d\ude4f\ud83c\udffc https://t.co/SEgtGaCeiZ",
         "urls": [
@@ -3884,7 +3884,7 @@
     },
     {
         "created_at": "Fri Feb 28 04:25:07 +0000 2020",
-        "favorite_count": 11974,
+        "favorite_count": 11968,
         "hashtags": [],
         "id": 1233246730398896129,
         "id_str": "1233246730398896129",
@@ -3950,7 +3950,7 @@
                 }
             }
         ],
-        "retweet_count": 933,
+        "retweet_count": 935,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Samoas vs Thin Mints... FOOD FOR THOUGHT. https://t.co/7pDL18A8Hm",
         "urls": [],
@@ -3995,7 +3995,7 @@
     },
     {
         "created_at": "Thu Feb 27 21:03:10 +0000 2020",
-        "favorite_count": 1055,
+        "favorite_count": 1053,
         "hashtags": [],
         "id": 1233135509167386628,
         "id_str": "1233135509167386628",
@@ -4065,7 +4065,7 @@
         "retweet_count": 103,
         "retweeted_status": {
             "created_at": "Thu Feb 27 20:05:11 +0000 2020",
-            "favorite_count": 644,
+            "favorite_count": 645,
             "hashtags": [
                 {
                     "text": "TheOtherSide"
@@ -4150,14 +4150,14 @@
     },
     {
         "created_at": "Wed Feb 26 23:46:54 +0000 2020",
-        "favorite_count": 2900,
+        "favorite_count": 2902,
         "hashtags": [],
         "id": 1232814327759097857,
         "id_str": "1232814327759097857",
         "lang": "und",
         "quoted_status": {
             "created_at": "Wed Feb 26 22:20:07 +0000 2020",
-            "favorite_count": 394,
+            "favorite_count": 396,
             "hashtags": [],
             "id": 1232792487762255880,
             "id_str": "1232792487762255880",
@@ -4240,15 +4240,15 @@
         "id": 1232814178370498560,
         "id_str": "1232814178370498560",
         "lang": "en",
-        "retweet_count": 229,
+        "retweet_count": 230,
         "retweeted_status": {
             "created_at": "Wed Feb 26 23:23:23 +0000 2020",
-            "favorite_count": 1450,
+            "favorite_count": 1451,
             "hashtags": [],
             "id": 1232808409646256128,
             "id_str": "1232808409646256128",
             "lang": "en",
-            "retweet_count": 229,
+            "retweet_count": 230,
             "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
             "text": "What do you get when @SZA and @JTimberlake are on the same track? A bop \ud83d\udd7a Watch the video for The Other Side out no\u2026 https://t.co/PzgjEskZUy",
             "truncated": true,
@@ -4314,7 +4314,7 @@
         "retweet_count": 217,
         "retweeted_status": {
             "created_at": "Wed Feb 26 23:30:07 +0000 2020",
-            "favorite_count": 1388,
+            "favorite_count": 1386,
             "hashtags": [],
             "id": 1232810102765342720,
             "id_str": "1232810102765342720",
@@ -4461,14 +4461,14 @@
     },
     {
         "created_at": "Wed Feb 26 18:38:28 +0000 2020",
-        "favorite_count": 5574,
+        "favorite_count": 5573,
         "hashtags": [],
         "id": 1232736707969241088,
         "id_str": "1232736707969241088",
         "lang": "und",
         "quoted_status": {
             "created_at": "Wed Feb 26 17:16:45 +0000 2020",
-            "favorite_count": 3081,
+            "favorite_count": 3078,
             "hashtags": [],
             "id": 1232716141409206272,
             "id_str": "1232716141409206272",
@@ -4534,7 +4534,7 @@
                     }
                 }
             ],
-            "retweet_count": 488,
+            "retweet_count": 487,
             "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
             "text": "SZA has dropped a new song with Justin Timberlake, \u2018The Other Side\u2019, watch in full here \ud83d\udc40: https://t.co/9nQoGeDtA3 https://t.co/VFLgwwVm1W",
             "urls": [
@@ -4575,7 +4575,7 @@
         "retweet_count": 172,
         "retweeted_status": {
             "created_at": "Wed Feb 26 18:09:52 +0000 2020",
-            "favorite_count": 1315,
+            "favorite_count": 1316,
             "hashtags": [],
             "id": 1232729510233157632,
             "id_str": "1232729510233157632",
@@ -4733,7 +4733,7 @@
         "retweet_count": 61,
         "retweeted_status": {
             "created_at": "Wed Feb 26 11:00:17 +0000 2020",
-            "favorite_count": 333,
+            "favorite_count": 332,
             "hashtags": [
                 {
                     "text": "TheOtherSide"
@@ -4801,7 +4801,7 @@
     },
     {
         "created_at": "Wed Feb 26 17:07:31 +0000 2020",
-        "favorite_count": 1315,
+        "favorite_count": 1316,
         "hashtags": [],
         "id": 1232713819501273095,
         "id_str": "1232713819501273095",
@@ -4947,7 +4947,7 @@
     },
     {
         "created_at": "Wed Feb 26 16:17:12 +0000 2020",
-        "favorite_count": 26759,
+        "favorite_count": 26716,
         "hashtags": [],
         "id": 1232701153512742912,
         "id_str": "1232701153512742912",
@@ -5013,7 +5013,7 @@
                 }
             }
         ],
-        "retweet_count": 5371,
+        "retweet_count": 5366,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "TURN THIS UP \ud83d\udc8e @sza https://t.co/92lCo6j5PA https://t.co/fbFrtSNXIX",
         "urls": [
@@ -5115,7 +5115,7 @@
         "retweet_count": 161,
         "retweeted_status": {
             "created_at": "Wed Feb 26 16:05:21 +0000 2020",
-            "favorite_count": 1085,
+            "favorite_count": 1084,
             "hashtags": [],
             "id": 1232698174692843527,
             "id_str": "1232698174692843527",
@@ -5374,7 +5374,7 @@
             "lang": "en",
             "quoted_status": {
                 "created_at": "Wed Feb 26 15:42:44 +0000 2020",
-                "favorite_count": 1688,
+                "favorite_count": 1689,
                 "hashtags": [],
                 "id": 1232692479268392962,
                 "id_str": "1232692479268392962",
@@ -5435,7 +5435,7 @@
                     {
                         "id": 4579155913,
                         "id_str": "4579155913",
-                        "name": "DreamWorks Trolls",
+                        "name": "#TrollsWorldTour - at home now!",
                         "screen_name": "Trolls"
                     }
                 ]
@@ -5489,7 +5489,7 @@
     },
     {
         "created_at": "Wed Feb 26 15:42:44 +0000 2020",
-        "favorite_count": 1688,
+        "favorite_count": 1689,
         "hashtags": [],
         "id": 1232692479268392962,
         "id_str": "1232692479268392962",
@@ -5550,7 +5550,7 @@
             {
                 "id": 4579155913,
                 "id_str": "4579155913",
-                "name": "DreamWorks Trolls",
+                "name": "#TrollsWorldTour - at home now!",
                 "screen_name": "Trolls"
             }
         ]
@@ -5603,7 +5603,7 @@
         "retweet_count": 179,
         "retweeted_status": {
             "created_at": "Wed Feb 26 11:14:25 +0000 2020",
-            "favorite_count": 802,
+            "favorite_count": 804,
             "hashtags": [],
             "id": 1232624957827538944,
             "id_str": "1232624957827538944",
@@ -5755,7 +5755,7 @@
     },
     {
         "created_at": "Wed Feb 26 11:05:45 +0000 2020",
-        "favorite_count": 2699,
+        "favorite_count": 2698,
         "hashtags": [],
         "id": 1232622777548574720,
         "id_str": "1232622777548574720",
@@ -5838,7 +5838,7 @@
     },
     {
         "created_at": "Tue Feb 25 16:19:40 +0000 2020",
-        "favorite_count": 5568,
+        "favorite_count": 5563,
         "hashtags": [],
         "id": 1232339389222662147,
         "id_str": "1232339389222662147",
@@ -5928,7 +5928,7 @@
     },
     {
         "created_at": "Sun Feb 23 23:49:54 +0000 2020",
-        "favorite_count": 1106,
+        "favorite_count": 1107,
         "hashtags": [],
         "id": 1231727916851105792,
         "id_str": "1231727916851105792",
@@ -6004,7 +6004,7 @@
     },
     {
         "created_at": "Fri Feb 21 15:07:02 +0000 2020",
-        "favorite_count": 3127,
+        "favorite_count": 3130,
         "hashtags": [
             {
                 "text": "believechallenge"
@@ -6110,7 +6110,7 @@
         "retweet_count": 189,
         "retweeted_status": {
             "created_at": "Thu Feb 20 22:38:19 +0000 2020",
-            "favorite_count": 1290,
+            "favorite_count": 1291,
             "hashtags": [
                 {
                     "text": "TrollsWorldTour"
@@ -6193,7 +6193,7 @@
     },
     {
         "created_at": "Tue Feb 18 15:59:51 +0000 2020",
-        "favorite_count": 2999,
+        "favorite_count": 3001,
         "hashtags": [
             {
                 "text": "TROLLSWORLDTOUR"
@@ -6263,7 +6263,7 @@
                 }
             }
         ],
-        "retweet_count": 498,
+        "retweet_count": 497,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "#TROLLSWORLDTOUR \ud83e\udd18\nVolume up \ud83d\udcf6 @sza @Trolls https://t.co/N36SACCGf8",
         "urls": [],
@@ -6288,7 +6288,7 @@
     },
     {
         "created_at": "Thu Feb 13 15:07:51 +0000 2020",
-        "favorite_count": 2801,
+        "favorite_count": 2803,
         "hashtags": [
             {
                 "text": "TrollsWorldTour"
@@ -6297,7 +6297,7 @@
         "id": 1227972661378191363,
         "id_str": "1227972661378191363",
         "lang": "en",
-        "retweet_count": 455,
+        "retweet_count": 454,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "That\u2019s a long list. I wanted to show it to you guys before anyone else, so HERE YOU GO. #TrollsWorldTour is coming\u2026 https://t.co/BDFnCdqpnA",
         "truncated": true,
@@ -6315,7 +6315,7 @@
     },
     {
         "created_at": "Thu Feb 13 15:07:06 +0000 2020",
-        "favorite_count": 4263,
+        "favorite_count": 4260,
         "hashtags": [
             {
                 "text": "TrollsWorldTour"
@@ -6415,7 +6415,7 @@
         "retweet_count": 56,
         "retweeted_status": {
             "created_at": "Sat Feb 08 18:10:40 +0000 2020",
-            "favorite_count": 469,
+            "favorite_count": 470,
             "hashtags": [
                 {
                     "text": "believe"
@@ -6525,7 +6525,7 @@
         "retweet_count": 122,
         "retweeted_status": {
             "created_at": "Sat Feb 08 18:23:04 +0000 2020",
-            "favorite_count": 762,
+            "favorite_count": 761,
             "hashtags": [
                 {
                     "text": "believe"
@@ -6590,14 +6590,14 @@
     },
     {
         "created_at": "Sat Feb 08 18:31:53 +0000 2020",
-        "favorite_count": 2012,
+        "favorite_count": 2014,
         "hashtags": [],
         "id": 1226212068736618514,
         "id_str": "1226212068736618514",
         "lang": "en",
         "quoted_status": {
             "created_at": "Sat Feb 08 17:56:44 +0000 2020",
-            "favorite_count": 128,
+            "favorite_count": 129,
             "hashtags": [
                 {
                     "text": "Believe"
@@ -6732,7 +6732,7 @@
         "retweet_count": 80,
         "retweeted_status": {
             "created_at": "Sat Feb 08 17:54:14 +0000 2020",
-            "favorite_count": 580,
+            "favorite_count": 578,
             "hashtags": [
                 {
                     "text": "Believe"
@@ -6814,7 +6814,7 @@
         "retweet_count": 35,
         "retweeted_status": {
             "created_at": "Sat Feb 08 18:22:50 +0000 2020",
-            "favorite_count": 249,
+            "favorite_count": 248,
             "hashtags": [
                 {
                     "text": "Believe"
@@ -7088,7 +7088,7 @@
         "retweet_count": 47,
         "retweeted_status": {
             "created_at": "Sat Feb 08 15:38:48 +0000 2020",
-            "favorite_count": 367,
+            "favorite_count": 366,
             "hashtags": [
                 {
                     "text": "believe"
@@ -7442,7 +7442,7 @@
         "retweet_count": 33,
         "retweeted_status": {
             "created_at": "Sat Feb 08 17:47:18 +0000 2020",
-            "favorite_count": 201,
+            "favorite_count": 200,
             "hashtags": [
                 {
                     "text": "Believe"
@@ -7668,7 +7668,7 @@
         "retweet_count": 35,
         "retweeted_status": {
             "created_at": "Sat Feb 08 17:47:38 +0000 2020",
-            "favorite_count": 204,
+            "favorite_count": 203,
             "hashtags": [
                 {
                     "text": "believe"
@@ -7741,7 +7741,7 @@
         "retweet_count": 26,
         "retweeted_status": {
             "created_at": "Sat Feb 08 15:42:22 +0000 2020",
-            "favorite_count": 206,
+            "favorite_count": 205,
             "hashtags": [
                 {
                     "text": "Believe"
@@ -7820,7 +7820,7 @@
         "retweet_count": 58,
         "retweeted_status": {
             "created_at": "Sat Feb 08 15:38:45 +0000 2020",
-            "favorite_count": 459,
+            "favorite_count": 457,
             "hashtags": [
                 {
                     "text": "Believe"
@@ -7912,7 +7912,7 @@
     },
     {
         "created_at": "Sat Feb 08 17:45:22 +0000 2020",
-        "favorite_count": 4618,
+        "favorite_count": 4620,
         "hashtags": [
             {
                 "text": "Believe"
@@ -8182,7 +8182,7 @@
     },
     {
         "created_at": "Fri Feb 07 20:39:00 +0000 2020",
-        "favorite_count": 5846,
+        "favorite_count": 5850,
         "hashtags": [],
         "id": 1225881669548290048,
         "id_str": "1225881669548290048",
@@ -8299,7 +8299,7 @@
     },
     {
         "created_at": "Fri Feb 07 06:03:06 +0000 2020",
-        "favorite_count": 4252,
+        "favorite_count": 4253,
         "hashtags": [],
         "id": 1225661243614085120,
         "id_str": "1225661243614085120",
@@ -8354,14 +8354,14 @@
     },
     {
         "created_at": "Fri Feb 07 06:01:00 +0000 2020",
-        "favorite_count": 4075,
+        "favorite_count": 4077,
         "hashtags": [],
         "id": 1225660711726006274,
         "id_str": "1225660711726006274",
         "lang": "und",
         "quoted_status": {
             "created_at": "Fri Feb 07 05:29:33 +0000 2020",
-            "favorite_count": 882,
+            "favorite_count": 883,
             "hashtags": [
                 {
                     "text": "Believe"
@@ -8483,10 +8483,10 @@
                 }
             }
         ],
-        "retweet_count": 2013,
+        "retweet_count": 2011,
         "retweeted_status": {
             "created_at": "Fri Feb 07 05:10:32 +0000 2020",
-            "favorite_count": 8384,
+            "favorite_count": 8383,
             "hashtags": [],
             "id": 1225648012061331457,
             "id_str": "1225648012061331457",
@@ -8552,7 +8552,7 @@
                     }
                 }
             ],
-            "retweet_count": 2013,
+            "retweet_count": 2011,
             "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
             "text": "Listen to @MeekMill's new single \"Believe\" f/ @jtimberlake \nhttps://t.co/HKeKUlVZmQ\n\nhttps://t.co/q98mYlHpPu",
             "urls": [
@@ -8659,7 +8659,7 @@
         "retweet_count": 326,
         "retweeted_status": {
             "created_at": "Fri Feb 07 05:05:35 +0000 2020",
-            "favorite_count": 1612,
+            "favorite_count": 1615,
             "hashtags": [
                 {
                     "text": "Believe"
@@ -8982,10 +8982,10 @@
                 }
             }
         ],
-        "retweet_count": 7655,
+        "retweet_count": 7645,
         "retweeted_status": {
             "created_at": "Fri Feb 07 05:03:23 +0000 2020",
-            "favorite_count": 25254,
+            "favorite_count": 25253,
             "hashtags": [
                 {
                     "text": "BELIEVE"
@@ -9055,7 +9055,7 @@
                     }
                 }
             ],
-            "retweet_count": 7655,
+            "retweet_count": 7645,
             "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
             "text": "#BELIEVE ft. @jtimberlake ~ song and video out now: https://t.co/WqKNWAitFy https://t.co/6G7VuVwMav",
             "urls": [
@@ -9106,7 +9106,7 @@
     },
     {
         "created_at": "Fri Feb 07 05:57:04 +0000 2020",
-        "favorite_count": 4821,
+        "favorite_count": 4819,
         "hashtags": [],
         "id": 1225659723447300096,
         "id_str": "1225659723447300096",
@@ -9198,7 +9198,7 @@
     },
     {
         "created_at": "Fri Jan 17 14:56:31 +0000 2020",
-        "favorite_count": 6131,
+        "favorite_count": 6129,
         "hashtags": [],
         "id": 1218185336603529217,
         "id_str": "1218185336603529217",
@@ -9293,7 +9293,7 @@
         "retweet_count": 2116,
         "retweeted_status": {
             "created_at": "Wed Jan 01 21:53:54 +0000 2020",
-            "favorite_count": 21596,
+            "favorite_count": 21594,
             "hashtags": [],
             "id": 1212492165844291585,
             "id_str": "1212492165844291585",
@@ -9359,7 +9359,7 @@
     },
     {
         "created_at": "Mon Dec 30 18:37:28 +0000 2019",
-        "favorite_count": 3189,
+        "favorite_count": 3188,
         "hashtags": [],
         "id": 1211717959334408194,
         "id_str": "1211717959334408194",
@@ -9428,10 +9428,10 @@
         "id": 1209521270192103426,
         "id_str": "1209521270192103426",
         "lang": "en",
-        "retweet_count": 270,
+        "retweet_count": 268,
         "retweeted_status": {
             "created_at": "Tue Dec 24 16:34:50 +0000 2019",
-            "favorite_count": 1635,
+            "favorite_count": 1636,
             "hashtags": [
                 {
                     "text": "TheLastDance"
@@ -9440,7 +9440,7 @@
             "id": 1209512769491554305,
             "id_str": "1209512769491554305",
             "lang": "en",
-            "retweet_count": 270,
+            "retweet_count": 268,
             "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
             "text": "The latest trailer for Michael Jordan's doc #TheLastDance is here. \n\nThe 10-part documentary features Barack Obama,\u2026 https://t.co/i3pTnTtJzA",
             "truncated": true,
@@ -9603,7 +9603,7 @@
         "retweet_count": 412,
         "retweeted_status": {
             "created_at": "Wed Nov 13 16:00:01 +0000 2019",
-            "favorite_count": 1811,
+            "favorite_count": 1814,
             "hashtags": [
                 {
                     "text": "TrollsWorldTour"
@@ -9704,7 +9704,7 @@
     },
     {
         "created_at": "Sat Nov 09 16:02:37 +0000 2019",
-        "favorite_count": 6267,
+        "favorite_count": 6268,
         "hashtags": [],
         "id": 1193197208461627404,
         "id_str": "1193197208461627404",
@@ -9822,7 +9822,7 @@
         "retweet_count": 110,
         "retweeted_status": {
             "created_at": "Fri Oct 25 22:36:03 +0000 2019",
-            "favorite_count": 735,
+            "favorite_count": 736,
             "hashtags": [],
             "id": 1187860402148757510,
             "id_str": "1187860402148757510",
@@ -9868,7 +9868,7 @@
         "retweet_count": 210,
         "retweeted_status": {
             "created_at": "Tue Oct 22 18:54:19 +0000 2019",
-            "favorite_count": 1237,
+            "favorite_count": 1236,
             "hashtags": [],
             "id": 1186717435606392832,
             "id_str": "1186717435606392832",
@@ -9910,7 +9910,7 @@
     },
     {
         "created_at": "Thu Oct 03 14:07:12 +0000 2019",
-        "favorite_count": 22159,
+        "favorite_count": 22153,
         "hashtags": [],
         "id": 1179759810935427074,
         "id_str": "1179759810935427074",
@@ -9976,7 +9976,7 @@
                 }
             }
         ],
-        "retweet_count": 1455,
+        "retweet_count": 1454,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Pre-show warmup. If you know, you know. https://t.co/t6NmGghoSI",
         "urls": [],
@@ -9995,7 +9995,7 @@
         "lang": "und",
         "quoted_status": {
             "created_at": "Wed Oct 02 13:30:02 +0000 2019",
-            "favorite_count": 1972,
+            "favorite_count": 1974,
             "hashtags": [
                 {
                     "text": "LVSS20"
@@ -10160,7 +10160,7 @@
         "retweet_count": 231,
         "retweeted_status": {
             "created_at": "Sat Sep 28 19:08:00 +0000 2019",
-            "favorite_count": 2844,
+            "favorite_count": 2843,
             "hashtags": [
                 {
                     "text": "DunhillLinks"
@@ -10330,7 +10330,7 @@
     },
     {
         "created_at": "Sat Sep 28 17:07:15 +0000 2019",
-        "favorite_count": 6634,
+        "favorite_count": 6633,
         "hashtags": [],
         "id": 1177993184015720457,
         "id_str": "1177993184015720457",
@@ -10415,7 +10415,7 @@
     },
     {
         "created_at": "Thu Sep 26 12:57:35 +0000 2019",
-        "favorite_count": 4427,
+        "favorite_count": 4428,
         "hashtags": [],
         "id": 1177205577564508165,
         "id_str": "1177205577564508165",
@@ -10467,7 +10467,7 @@
     },
     {
         "created_at": "Fri Sep 20 17:23:03 +0000 2019",
-        "favorite_count": 2004,
+        "favorite_count": 2005,
         "hashtags": [],
         "id": 1175098054304829440,
         "id_str": "1175098054304829440",
@@ -10529,7 +10529,7 @@
     },
     {
         "created_at": "Mon Sep 16 01:39:30 +0000 2019",
-        "favorite_count": 17373,
+        "favorite_count": 17371,
         "hashtags": [],
         "id": 1173411054468173824,
         "id_str": "1173411054468173824",
@@ -10595,7 +10595,7 @@
                 }
             }
         ],
-        "retweet_count": 801,
+        "retweet_count": 800,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Tuscan Drip: Seconda Parte @JessicaBiel https://t.co/i3F5gUfQtD",
         "urls": [],
@@ -10614,7 +10614,7 @@
     },
     {
         "created_at": "Thu Sep 12 12:08:56 +0000 2019",
-        "favorite_count": 2318,
+        "favorite_count": 2319,
         "hashtags": [
             {
                 "text": "HurricaneDorian"
@@ -10691,15 +10691,15 @@
         "id": 1172115074284183553,
         "id_str": "1172115074284183553",
         "lang": "en",
-        "retweet_count": 605,
+        "retweet_count": 604,
         "retweeted_status": {
             "created_at": "Thu Sep 12 11:44:07 +0000 2019",
-            "favorite_count": 4282,
+            "favorite_count": 4281,
             "hashtags": [],
             "id": 1172113656169095168,
             "id_str": "1172113656169095168",
             "lang": "en",
-            "retweet_count": 605,
+            "retweet_count": 604,
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "text": "1) As a strong believer in philanthropy and teamwork, I\u2019m excited to partner with my friends @jtimberlake,\u2026 https://t.co/bqWLNp088N",
             "truncated": true,
@@ -10878,7 +10878,7 @@
     },
     {
         "created_at": "Sun Sep 01 16:22:18 +0000 2019",
-        "favorite_count": 4131,
+        "favorite_count": 4129,
         "hashtags": [],
         "id": 1168197398570635265,
         "id_str": "1168197398570635265",
@@ -10939,7 +10939,7 @@
     },
     {
         "created_at": "Thu Aug 22 15:48:57 +0000 2019",
-        "favorite_count": 6464,
+        "favorite_count": 6466,
         "hashtags": [],
         "id": 1164565125665136640,
         "id_str": "1164565125665136640",
@@ -11017,7 +11017,7 @@
     },
     {
         "created_at": "Thu Aug 15 22:47:44 +0000 2019",
-        "favorite_count": 57841,
+        "favorite_count": 57836,
         "hashtags": [],
         "id": 1162133800849219585,
         "id_str": "1162133800849219585",
@@ -11083,7 +11083,7 @@
                 }
             }
         ],
-        "retweet_count": 4829,
+        "retweet_count": 4830,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "... @lizzo flames, brb https://t.co/TfuLYR9V4Q",
         "urls": [],
@@ -11102,7 +11102,7 @@
     },
     {
         "created_at": "Mon Jul 15 11:44:47 +0000 2019",
-        "favorite_count": 12533,
+        "favorite_count": 12529,
         "hashtags": [],
         "id": 1150732939728228357,
         "id_str": "1150732939728228357",
@@ -11244,7 +11244,7 @@
         "retweet_count": 83,
         "retweeted_status": {
             "created_at": "Sun Jul 07 16:35:00 +0000 2019",
-            "favorite_count": 585,
+            "favorite_count": 584,
             "hashtags": [
                 {
                     "text": "SpinTheWheel"
@@ -11327,7 +11327,7 @@
     },
     {
         "created_at": "Fri Jul 05 18:14:19 +0000 2019",
-        "favorite_count": 12790,
+        "favorite_count": 12787,
         "hashtags": [],
         "id": 1147207091402268672,
         "id_str": "1147207091402268672",
@@ -11393,7 +11393,7 @@
                 }
             }
         ],
-        "retweet_count": 827,
+        "retweet_count": 826,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "https://t.co/ouJRRqa574",
         "urls": [],
@@ -11405,7 +11405,7 @@
     },
     {
         "created_at": "Sat Jun 29 15:34:47 +0000 2019",
-        "favorite_count": 1825,
+        "favorite_count": 1826,
         "hashtags": [
             {
                 "text": "HelpUsStrangerREPEAT"
@@ -11670,7 +11670,7 @@
     },
     {
         "created_at": "Wed Jun 19 15:04:06 +0000 2019",
-        "favorite_count": 6797,
+        "favorite_count": 6796,
         "hashtags": [
             {
                 "text": "TimeToRock"
@@ -11715,7 +11715,7 @@
                 "url": "https://t.co/k0EBm3oQlQ"
             }
         ],
-        "retweet_count": 1029,
+        "retweet_count": 1028,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "@AnnaKendrick47 Nope @AnnaKendrick47, it\u2019s #TimeToRock \ud83e\udd18 https://t.co/k0EBm3oQlQ",
         "urls": [],
@@ -11747,7 +11747,7 @@
         "lang": "en",
         "quoted_status": {
             "created_at": "Fri Jun 14 18:21:14 +0000 2019",
-            "favorite_count": 825,
+            "favorite_count": 826,
             "hashtags": [],
             "id": 1139598687884259328,
             "id_str": "1139598687884259328",
@@ -11988,14 +11988,14 @@
     },
     {
         "created_at": "Fri Jun 07 01:40:58 +0000 2019",
-        "favorite_count": 3642,
+        "favorite_count": 3643,
         "hashtags": [],
         "id": 1136810246649892869,
         "id_str": "1136810246649892869",
         "lang": "en",
         "quoted_status": {
             "created_at": "Thu Jun 06 21:45:00 +0000 2019",
-            "favorite_count": 755,
+            "favorite_count": 756,
             "hashtags": [],
             "id": 1136750863081304066,
             "id_str": "1136750863081304066",
@@ -12035,7 +12035,7 @@
     },
     {
         "created_at": "Thu Jun 06 03:10:16 +0000 2019",
-        "favorite_count": 4028,
+        "favorite_count": 4029,
         "hashtags": [],
         "id": 1136470332938825729,
         "id_str": "1136470332938825729",
@@ -12073,7 +12073,7 @@
                 "url": "https://t.co/W3fahgPSZK"
             }
         ],
-        "retweet_count": 359,
+        "retweet_count": 360,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "The duet is named... Barbara Fett. \n@ludwiggoransson https://t.co/Q5mbBhzC0b https://t.co/W3fahgPSZK",
         "urls": [
@@ -12097,7 +12097,7 @@
     },
     {
         "created_at": "Mon May 20 18:12:04 +0000 2019",
-        "favorite_count": 12557,
+        "favorite_count": 12554,
         "hashtags": [
             {
                 "text": "501Day"
@@ -12167,7 +12167,7 @@
                 }
             }
         ],
-        "retweet_count": 1065,
+        "retweet_count": 1064,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "BIG MOOD. Happy #501Day! @LEVIS https://t.co/BPLnUYfDQy",
         "urls": [],
@@ -12186,7 +12186,7 @@
     },
     {
         "created_at": "Sun May 19 16:06:31 +0000 2019",
-        "favorite_count": 4502,
+        "favorite_count": 4500,
         "hashtags": [],
         "id": 1130142702094491649,
         "id_str": "1130142702094491649",
@@ -12244,14 +12244,14 @@
     },
     {
         "created_at": "Mon May 13 19:52:30 +0000 2019",
-        "favorite_count": 3113,
+        "favorite_count": 3115,
         "hashtags": [],
         "id": 1128025243401035781,
         "id_str": "1128025243401035781",
         "lang": "und",
         "quoted_status": {
             "created_at": "Wed Apr 17 23:42:14 +0000 2019",
-            "favorite_count": 299,
+            "favorite_count": 300,
             "hashtags": [],
             "id": 1118660972808298496,
             "id_str": "1118660972808298496",
@@ -12305,7 +12305,7 @@
         "lang": "und",
         "quoted_status": {
             "created_at": "Mon May 13 19:36:46 +0000 2019",
-            "favorite_count": 3867,
+            "favorite_count": 3868,
             "hashtags": [],
             "id": 1128021286091939841,
             "id_str": "1128021286091939841",
@@ -12358,7 +12358,7 @@
     },
     {
         "created_at": "Sun May 12 17:42:42 +0000 2019",
-        "favorite_count": 28287,
+        "favorite_count": 28280,
         "hashtags": [],
         "id": 1127630190681706498,
         "id_str": "1127630190681706498",
@@ -12396,7 +12396,7 @@
                 "url": "https://t.co/46NhgCCPqK"
             }
         ],
-        "retweet_count": 1015,
+        "retweet_count": 1014,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "My day one \ud83d\ude4f https://t.co/46NhgCCPqK",
         "urls": [],
@@ -12408,12 +12408,12 @@
     },
     {
         "created_at": "Sat May 11 22:53:11 +0000 2019",
-        "favorite_count": 53595,
+        "favorite_count": 53591,
         "hashtags": [],
         "id": 1127345937452621825,
         "id_str": "1127345937452621825",
         "lang": "en",
-        "retweet_count": 4598,
+        "retweet_count": 4596,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "No Dream is too big!!! Keep chasing!!! Trust me... I\u2019m a DOCTOR!! \ud83e\udd23\ud83d\udc68\u200d\ud83c\udf93 But, for real... THANK YOU to\u2026 https://t.co/iEN8Wu0Skr",
         "truncated": true,
@@ -12431,7 +12431,7 @@
     },
     {
         "created_at": "Sat May 11 18:26:57 +0000 2019",
-        "favorite_count": 57493,
+        "favorite_count": 57478,
         "hashtags": [],
         "id": 1127278938273779712,
         "id_str": "1127278938273779712",
@@ -12497,7 +12497,7 @@
                 }
             }
         ],
-        "retweet_count": 6370,
+        "retweet_count": 6367,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "https://t.co/zBikNePoTR",
         "urls": [],
@@ -12509,7 +12509,7 @@
     },
     {
         "created_at": "Sat May 11 18:23:47 +0000 2019",
-        "favorite_count": 6861,
+        "favorite_count": 6858,
         "hashtags": [],
         "id": 1127278141221867521,
         "id_str": "1127278141221867521",
@@ -12545,7 +12545,7 @@
     },
     {
         "created_at": "Wed May 08 20:51:02 +0000 2019",
-        "favorite_count": 17213,
+        "favorite_count": 17202,
         "hashtags": [],
         "id": 1126228035328454657,
         "id_str": "1126228035328454657",
@@ -12595,7 +12595,7 @@
     },
     {
         "created_at": "Sun May 05 16:00:39 +0000 2019",
-        "favorite_count": 1908,
+        "favorite_count": 1906,
         "hashtags": [
             {
                 "text": "MikeConley"
@@ -12663,7 +12663,7 @@
         "id": 1125067546368122880,
         "id_str": "1125067546368122880",
         "lang": "en",
-        "retweet_count": 372,
+        "retweet_count": 371,
         "retweeted_status": {
             "created_at": "Wed Apr 24 16:34:05 +0000 2019",
             "favorite_count": 864,
@@ -12674,7 +12674,7 @@
             "in_reply_to_status_id": 1121089674095861760,
             "in_reply_to_user_id": 19923144,
             "lang": "en",
-            "retweet_count": 372,
+            "retweet_count": 371,
             "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
             "text": "Mike Conley of the Memphis Grizzlies is nominated for the 2018-19 Seasonlong NBA Cares Community Assist Award prese\u2026 https://t.co/RSbZ9TCFd0",
             "truncated": true,
@@ -12708,7 +12708,7 @@
     },
     {
         "created_at": "Wed May 01 15:50:33 +0000 2019",
-        "favorite_count": 41254,
+        "favorite_count": 41247,
         "hashtags": [],
         "id": 1123615701984583680,
         "id_str": "1123615701984583680",
@@ -12746,7 +12746,7 @@
                 "url": "https://t.co/k413AfRTWi"
             }
         ],
-        "retweet_count": 9287,
+        "retweet_count": 9285,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "https://t.co/k413AfRTWi",
         "urls": [],

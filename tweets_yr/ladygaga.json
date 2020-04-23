@@ -1,14 +1,14 @@
 [
     {
         "created_at": "Sun Apr 19 05:44:14 +0000 2020",
-        "favorite_count": 78265,
+        "favorite_count": 79323,
         "hashtags": [],
         "id": 1251748421356134400,
         "id_str": "1251748421356134400",
         "lang": "en",
         "quoted_status": {
             "created_at": "Sun Apr 19 04:34:03 +0000 2020",
-            "favorite_count": 29083,
+            "favorite_count": 29388,
             "hashtags": [
                 {
                     "text": "TogetherAtHome"
@@ -17,7 +17,7 @@
             "id": 1251730759334928384,
             "id_str": "1251730759334928384",
             "lang": "en",
-            "retweet_count": 7001,
+            "retweet_count": 7056,
             "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
             "text": "$127.9 million for COVID-19 relief.\n\nThat is the power and impact of One World: #TogetherAtHome.\n\nThank you\u2026 https://t.co/L7XaPEiqSX",
             "truncated": true,
@@ -35,7 +35,7 @@
         },
         "quoted_status_id": 1251730759334928384,
         "quoted_status_id_str": "1251730759334928384",
-        "retweet_count": 10556,
+        "retweet_count": 10655,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "I am so humbled to have been a part of this project. Thank you @GlblCtzn. Thank you @WHO. I love you \ud83c\udf0e\u2764\ufe0f https://t.co/kBH0Ds45tf",
         "urls": [
@@ -65,7 +65,7 @@
     },
     {
         "created_at": "Sun Apr 19 03:38:08 +0000 2020",
-        "favorite_count": 143363,
+        "favorite_count": 145008,
         "hashtags": [
             {
                 "text": "TogetherAtHome"
@@ -74,7 +74,7 @@
         "id": 1251716687516143616,
         "id_str": "1251716687516143616",
         "lang": "en",
-        "retweet_count": 16443,
+        "retweet_count": 16550,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "I love all the artists on #TogetherAtHome. And everyone that watched and everyone the didn\u2019t or couldn\u2019t. We all ma\u2026 https://t.co/J4J8lkMIrB",
         "truncated": true,
@@ -92,7 +92,7 @@
     },
     {
         "created_at": "Sun Apr 19 00:04:53 +0000 2020",
-        "favorite_count": 41140,
+        "favorite_count": 41503,
         "hashtags": [
             {
                 "text": "TogetherAtHome"
@@ -103,7 +103,7 @@
         "lang": "en",
         "quoted_status": {
             "created_at": "Sat Apr 18 17:57:57 +0000 2020",
-            "favorite_count": 41958,
+            "favorite_count": 42162,
             "hashtags": [
                 {
                     "text": "TogetherAtHome"
@@ -112,7 +112,7 @@
             "id": 1251570680392495106,
             "id_str": "1251570680392495106",
             "lang": "en",
-            "retweet_count": 27708,
+            "retweet_count": 27717,
             "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
             "text": "\u2b55\ufe0fWe\u2019re LIVE! Tune in to One World: #TogetherAtHome for performances from some of the world\u2019s biggest artists, stor\u2026 https://t.co/9S565C2zFU",
             "truncated": true,
@@ -130,7 +130,7 @@
         },
         "quoted_status_id": 1251570680392495106,
         "quoted_status_id_str": "1251570680392495106",
-        "retweet_count": 9023,
+        "retweet_count": 9040,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "It\u2019s time! \ud83d\ude2d\ud83e\udd70 our TV special One World: #TogetherAtHome starts right now \ud83d\udc97 celebrating those on the frontlines. Str\u2026 https://t.co/7tl1M8ygUc",
         "truncated": true,
@@ -148,7 +148,7 @@
     },
     {
         "created_at": "Sat Apr 18 18:10:58 +0000 2020",
-        "favorite_count": 14257,
+        "favorite_count": 14500,
         "hashtags": [],
         "id": 1251573952834605057,
         "id_str": "1251573952834605057",
@@ -156,7 +156,7 @@
         "in_reply_to_status_id": 1251571964663205889,
         "in_reply_to_user_id": 14230524,
         "lang": "en",
-        "retweet_count": 3122,
+        "retweet_count": 3134,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "The TV broadcast I curated starts in 6 hours! It airs on many major networks across the globe and so many places on\u2026 https://t.co/1YhQkMWZRo",
         "truncated": true,
@@ -174,7 +174,7 @@
     },
     {
         "created_at": "Sat Apr 18 18:03:04 +0000 2020",
-        "favorite_count": 55189,
+        "favorite_count": 55489,
         "hashtags": [
             {
                 "text": "TogetherAtHome"
@@ -185,7 +185,7 @@
         "lang": "en",
         "quoted_status": {
             "created_at": "Sat Apr 18 17:57:57 +0000 2020",
-            "favorite_count": 41958,
+            "favorite_count": 42162,
             "hashtags": [
                 {
                     "text": "TogetherAtHome"
@@ -194,7 +194,7 @@
             "id": 1251570680392495106,
             "id_str": "1251570680392495106",
             "lang": "en",
-            "retweet_count": 27708,
+            "retweet_count": 27717,
             "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
             "text": "\u2b55\ufe0fWe\u2019re LIVE! Tune in to One World: #TogetherAtHome for performances from some of the world\u2019s biggest artists, stor\u2026 https://t.co/9S565C2zFU",
             "truncated": true,
@@ -212,12 +212,12 @@
         },
         "quoted_status_id": 1251570680392495106,
         "quoted_status_id_str": "1251570680392495106",
-        "retweet_count": 12756,
+        "retweet_count": 12765,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "The #TogetherAtHome digital stream starts now! So proud of the team that put this together \ud83e\udd70 https://t.co/Lnd0s9218F",
         "urls": [
             {
-                "expanded_url": "https://twitter.com/glblctzn/status/1251570680392495106",
+                "expanded_url": "https://twitter.com/GlblCtzn/status/1251570680392495106",
                 "url": "https://t.co/Lnd0s9218F"
             }
         ],
@@ -229,7 +229,7 @@
     },
     {
         "created_at": "Fri Apr 17 17:55:37 +0000 2020",
-        "favorite_count": 26819,
+        "favorite_count": 27035,
         "hashtags": [
             {
                 "text": "COVID19"
@@ -238,7 +238,7 @@
         "id": 1251207704044920832,
         "id_str": "1251207704044920832",
         "lang": "en",
-        "retweet_count": 3856,
+        "retweet_count": 3876,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Thank you Netherlands &amp; @hugodejonge for your support for a #COVID19 vaccine and to @WHO! Global citizens hope that\u2026 https://t.co/8CDYu6UUXm",
         "truncated": true,
@@ -269,7 +269,7 @@
     },
     {
         "created_at": "Fri Apr 17 17:52:21 +0000 2020",
-        "favorite_count": 15925,
+        "favorite_count": 16118,
         "hashtags": [
             {
                 "text": "COVID"
@@ -283,14 +283,14 @@
         "lang": "en",
         "quoted_status": {
             "created_at": "Wed Apr 15 18:27:54 +0000 2020",
-            "favorite_count": 1651,
+            "favorite_count": 1659,
             "hashtags": [],
             "id": 1250491052995284994,
             "id_str": "1250491052995284994",
             "lang": "en",
             "quoted_status_id": 1249741683832438785,
             "quoted_status_id_str": "1249741683832438785",
-            "retweet_count": 467,
+            "retweet_count": 472,
             "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
             "text": "Fully agree that we can only defeat this virus by working together. We need funding for treatments and vaccines. Th\u2026 https://t.co/qy6E3vvmps",
             "truncated": true,
@@ -308,7 +308,7 @@
         },
         "quoted_status_id": 1250491052995284994,
         "quoted_status_id_str": "1250491052995284994",
-        "retweet_count": 2844,
+        "retweet_count": 2869,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "That\u2019s amazing news\u00a0\ud83d\ude4f\u00a0You can count on me &amp; @GlblCtzn to help. The fight against #COVID can only be global! #G7 &amp;\u2026 https://t.co/ZkXysaeelM",
         "truncated": true,
@@ -333,14 +333,14 @@
     },
     {
         "created_at": "Tue Apr 14 20:24:39 +0000 2020",
-        "favorite_count": 56950,
+        "favorite_count": 57058,
         "hashtags": [],
         "id": 1250158045658632193,
         "id_str": "1250158045658632193",
         "lang": "en",
         "quoted_status": {
             "created_at": "Tue Apr 14 17:14:56 +0000 2020",
-            "favorite_count": 20282,
+            "favorite_count": 20277,
             "hashtags": [
                 {
                     "text": "TogetherAtHome"
@@ -349,7 +349,7 @@
             "id": 1250110300449316864,
             "id_str": "1250110300449316864",
             "lang": "en",
-            "retweet_count": 8174,
+            "retweet_count": 8164,
             "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
             "text": "\ud83d\udea8BIG NEWS: We\u2019ve just announced MORE ARTISTS for One World: #TogetherAtHome, including @JLo, @Oprah, @taylorswift13\u2026 https://t.co/igEDv4YkkY",
             "truncated": true,
@@ -386,7 +386,7 @@
         },
         "quoted_status_id": 1250110300449316864,
         "quoted_status_id_str": "1250110300449316864",
-        "retweet_count": 11184,
+        "retweet_count": 11187,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Can\u2019t wait for you to see what we\u2019ve put together! Tune in! \ud83d\udc95 https://t.co/v4owoA8QdM",
         "urls": [
@@ -403,7 +403,7 @@
     },
     {
         "created_at": "Mon Apr 13 16:53:17 +0000 2020",
-        "favorite_count": 29061,
+        "favorite_count": 29167,
         "hashtags": [
             {
                 "text": "COVID19"
@@ -412,7 +412,7 @@
         "id": 1249742464094633984,
         "id_str": "1249742464094633984",
         "lang": "en",
-        "retweet_count": 4432,
+        "retweet_count": 4439,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Hi @JustinTrudeau \u2014 thanks for funding @CEPIvaccines, the @UN appeal, and for all \ud83c\udde8\ud83c\udde6 is doing to stop #COVID19 and\u2026 https://t.co/0oFptf1XVy",
         "truncated": true,
@@ -449,12 +449,12 @@
     },
     {
         "created_at": "Mon Apr 13 16:50:11 +0000 2020",
-        "favorite_count": 21344,
+        "favorite_count": 21454,
         "hashtags": [],
         "id": 1249741683832438785,
         "id_str": "1249741683832438785",
         "lang": "en",
-        "retweet_count": 3652,
+        "retweet_count": 3658,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "President @vonderleyen \u2014 as a doctor you know that disease doesn't know borders. Thanks for stepping up on @UN and\u2026 https://t.co/WxKobK2O7V",
         "truncated": true,
@@ -485,12 +485,12 @@
     },
     {
         "created_at": "Mon Apr 13 16:48:07 +0000 2020",
-        "favorite_count": 36348,
+        "favorite_count": 36450,
         "hashtags": [],
         "id": 1249741164028166147,
         "id_str": "1249741164028166147",
         "lang": "en",
-        "retweet_count": 7227,
+        "retweet_count": 7233,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "President @EmmanuelMacron \u2014 last year you showed your leadership in the fight against pandemics. We need you to sup\u2026 https://t.co/EkrEx0dSBe",
         "truncated": true,
@@ -515,12 +515,12 @@
     },
     {
         "created_at": "Mon Apr 13 00:50:21 +0000 2020",
-        "favorite_count": 133343,
+        "favorite_count": 133414,
         "hashtags": [],
         "id": 1249500133978304512,
         "id_str": "1249500133978304512",
         "lang": "en",
-        "retweet_count": 14944,
+        "retweet_count": 14938,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Happy Easter to the world. Many are suffering right now, whether you celebrate Easter or not, I wish you the best d\u2026 https://t.co/HpZ1BFDuQQ",
         "truncated": true,
@@ -538,7 +538,7 @@
     },
     {
         "created_at": "Wed Apr 08 15:54:19 +0000 2020",
-        "favorite_count": 73541,
+        "favorite_count": 73805,
         "hashtags": [],
         "id": 1247915685608591360,
         "id_str": "1247915685608591360",
@@ -607,7 +607,7 @@
                 "url": "https://t.co/SvuinGEbY7"
             }
         ],
-        "retweet_count": 13501,
+        "retweet_count": 13521,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": ".@InStyle May 2020 https://t.co/n3j0FyHp3t https://t.co/SvuinGEbY7",
         "urls": [
@@ -635,15 +635,15 @@
         "id": 1247660905459896320,
         "id_str": "1247660905459896320",
         "lang": "en",
-        "retweet_count": 769,
+        "retweet_count": 772,
         "retweeted_status": {
             "created_at": "Fri Apr 03 13:31:53 +0000 2020",
-            "favorite_count": 5001,
+            "favorite_count": 5062,
             "hashtags": [],
             "id": 1246067903805321219,
             "id_str": "1246067903805321219",
             "lang": "en",
-            "retweet_count": 769,
+            "retweet_count": 772,
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "text": "...@momgerm and I wrote about the importance of kindness. \u201cacts of kindness are support for the most vulnerable\u201d Pr\u2026 https://t.co/Tg78iqstGg",
             "truncated": true,
@@ -690,7 +690,7 @@
     },
     {
         "created_at": "Tue Apr 07 20:33:39 +0000 2020",
-        "favorite_count": 21272,
+        "favorite_count": 21322,
         "hashtags": [
             {
                 "text": "COVID19"
@@ -699,7 +699,7 @@
         "id": 1247623597348315136,
         "id_str": "1247623597348315136",
         "lang": "en",
-        "retweet_count": 5072,
+        "retweet_count": 5075,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Calling all developers \ud83d\udc69\u200d\ud83d\udcbb\ud83e\uddd1\u200d\ud83d\udcbb\ud83d\udc68\u200d\ud83d\udcbb Now\u2019s the time to get behind your keyboard and help fight #COVID19. Join the @IBM\u2026 https://t.co/RpOS1sHdcD",
         "truncated": true,
@@ -724,7 +724,7 @@
     },
     {
         "created_at": "Tue Apr 07 03:09:45 +0000 2020",
-        "favorite_count": 44659,
+        "favorite_count": 44712,
         "hashtags": [
             {
                 "text": "TogetherAtHome"
@@ -828,7 +828,7 @@
                 "url": "https://t.co/3mXi6d5tbF"
             }
         ],
-        "retweet_count": 12244,
+        "retweet_count": 12233,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "#TogetherAtHome @WHO @GlblCtzn https://t.co/9nxv0J96JC https://t.co/3mXi6d5tbF",
         "urls": [
@@ -869,7 +869,7 @@
         "retweet_count": 5962,
         "retweeted_status": {
             "created_at": "Mon Apr 06 15:24:40 +0000 2020",
-            "favorite_count": 20107,
+            "favorite_count": 20135,
             "hashtags": [
                 {
                     "text": "COVID19"
@@ -925,7 +925,7 @@
     },
     {
         "created_at": "Sun Apr 05 21:01:24 +0000 2020",
-        "favorite_count": 250283,
+        "favorite_count": 250599,
         "hashtags": [
             {
                 "text": "Chromatica"
@@ -967,7 +967,7 @@
                 "url": "https://t.co/tfniFmBLlj"
             }
         ],
-        "retweet_count": 60782,
+        "retweet_count": 60849,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "#Chromatica \u2694\ufe0f\ud83d\udc93 2020 https://t.co/tfniFmBLlj",
         "urls": [],
@@ -983,15 +983,15 @@
         "id": 1246151973105254400,
         "id_str": "1246151973105254400",
         "lang": "en",
-        "retweet_count": 1947,
+        "retweet_count": 1951,
         "retweeted_status": {
             "created_at": "Tue Mar 31 21:30:08 +0000 2020",
-            "favorite_count": 8674,
+            "favorite_count": 8720,
             "hashtags": [],
             "id": 1245101093987770368,
             "id_str": "1245101093987770368",
             "lang": "en",
-            "retweet_count": 1947,
+            "retweet_count": 1951,
             "source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
             "text": "Live shows are not possible without our crew members behind the scenes. We are helping those workers who need it th\u2026 https://t.co/ZCiAPaNNOQ",
             "truncated": true,
@@ -1025,7 +1025,7 @@
     },
     {
         "created_at": "Thu Apr 02 23:05:21 +0000 2020",
-        "favorite_count": 22230,
+        "favorite_count": 22259,
         "hashtags": [
             {
                 "text": "AmericasFoodFund"
@@ -1034,7 +1034,7 @@
         "id": 1245849833388179457,
         "id_str": "1245849833388179457",
         "lang": "en",
-        "retweet_count": 4098,
+        "retweet_count": 4099,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Proud to have donated to support #AmericasFoodFund, a new initiative directly supporting @FeedingAmerica &amp;\u2026 https://t.co/72vXsKCtcI",
         "truncated": true,
@@ -1063,15 +1063,15 @@
         "id": 1244418048850677760,
         "id_str": "1244418048850677760",
         "lang": "en",
-        "retweet_count": 4208,
+        "retweet_count": 4206,
         "retweeted_status": {
             "created_at": "Sat Mar 28 21:09:13 +0000 2020",
-            "favorite_count": 19673,
+            "favorite_count": 19695,
             "hashtags": [],
             "id": 1244008665251708929,
             "id_str": "1244008665251708929",
             "lang": "en",
-            "retweet_count": 4208,
+            "retweet_count": 4206,
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "text": "A very good call with @ladygaga. I thanked her for her continuing efforts to show compassion &amp; kindness to the worl\u2026 https://t.co/xC0IJxzAI5",
             "truncated": true,
@@ -1118,7 +1118,7 @@
     },
     {
         "created_at": "Tue Mar 24 16:04:47 +0000 2020",
-        "favorite_count": 84273,
+        "favorite_count": 84312,
         "hashtags": [],
         "id": 1242482502775660546,
         "id_str": "1242482502775660546",
@@ -1187,7 +1187,7 @@
                 "url": "https://t.co/0vgqIEeBIz"
             }
         ],
-        "retweet_count": 15236,
+        "retweet_count": 15238,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "\u2694\ufe0f\ud83d\udc93 https://t.co/0vgqIEeBIz",
         "urls": [],
@@ -1199,7 +1199,7 @@
     },
     {
         "created_at": "Wed Mar 18 04:38:55 +0000 2020",
-        "favorite_count": 55126,
+        "favorite_count": 55133,
         "hashtags": [],
         "id": 1240135570371874818,
         "id_str": "1240135570371874818",
@@ -1268,7 +1268,7 @@
                 "url": "https://t.co/zAhmHkXzqp"
             }
         ],
-        "retweet_count": 6424,
+        "retweet_count": 6423,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "https://t.co/zAhmHkXzqp",
         "urls": [],
@@ -1280,7 +1280,7 @@
     },
     {
         "created_at": "Mon Mar 16 18:25:58 +0000 2020",
-        "favorite_count": 5512,
+        "favorite_count": 5511,
         "hashtags": [],
         "id": 1239618928583888897,
         "id_str": "1239618928583888897",
@@ -1317,17 +1317,17 @@
         "lang": "en",
         "quoted_status_id": 1238969456618954752,
         "quoted_status_id_str": "1238969456618954752",
-        "retweet_count": 3304,
+        "retweet_count": 3306,
         "retweeted_status": {
             "created_at": "Mon Mar 16 09:45:36 +0000 2020",
-            "favorite_count": 17312,
+            "favorite_count": 17343,
             "hashtags": [],
             "id": 1239487976448671744,
             "id_str": "1239487976448671744",
             "lang": "en",
             "quoted_status": {
                 "created_at": "Sat Mar 14 23:25:12 +0000 2020",
-                "favorite_count": 108620,
+                "favorite_count": 108606,
                 "hashtags": [],
                 "id": 1238969456618954752,
                 "id_str": "1238969456618954752",
@@ -1396,7 +1396,7 @@
                         "url": "https://t.co/4CiVyJMZZ9"
                     }
                 ],
-                "retweet_count": 16522,
+                "retweet_count": 16504,
                 "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
                 "text": "\ud83d\udcaa\ud83d\udc98\ud83c\udf08 https://t.co/4CiVyJMZZ9",
                 "urls": [],
@@ -1408,7 +1408,7 @@
             },
             "quoted_status_id": 1238969456618954752,
             "quoted_status_id_str": "1238969456618954752",
-            "retweet_count": 3304,
+            "retweet_count": 3306,
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "text": "Thank you @ladygaga for leading the way with your kindness, solidarity and advice for the world in response to\u2026 https://t.co/cb5VBRgvGS",
             "truncated": true,
@@ -1455,7 +1455,7 @@
     },
     {
         "created_at": "Mon Mar 16 15:02:19 +0000 2020",
-        "favorite_count": 68546,
+        "favorite_count": 68572,
         "hashtags": [],
         "id": 1239567679616241665,
         "id_str": "1239567679616241665",
@@ -1524,7 +1524,7 @@
                 "url": "https://t.co/xQdVaMJsmC"
             }
         ],
-        "retweet_count": 15416,
+        "retweet_count": 15414,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": ".@papermagazine \ud83e\uddbe https://t.co/IVBpXv4cou https://t.co/xQdVaMJsmC",
         "urls": [
@@ -1548,7 +1548,7 @@
     },
     {
         "created_at": "Sun Mar 15 23:55:19 +0000 2020",
-        "favorite_count": 48938,
+        "favorite_count": 48954,
         "hashtags": [],
         "id": 1239339424485273600,
         "id_str": "1239339424485273600",
@@ -1617,7 +1617,7 @@
                 "url": "https://t.co/aJXCo3Ggjm"
             }
         ],
-        "retweet_count": 7577,
+        "retweet_count": 7572,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "We can\u2019t do this without kindness. \u2764\ufe0f https://t.co/aJXCo3Ggjm",
         "urls": [],
@@ -1629,7 +1629,7 @@
     },
     {
         "created_at": "Sun Mar 15 01:32:01 +0000 2020",
-        "favorite_count": 57558,
+        "favorite_count": 57560,
         "hashtags": [],
         "id": 1239001374227980289,
         "id_str": "1239001374227980289",
@@ -1667,7 +1667,7 @@
                 "url": "https://t.co/NMh1MJRWQf"
             }
         ],
-        "retweet_count": 6881,
+        "retweet_count": 6878,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "https://t.co/NMh1MJRWQf",
         "urls": [],
@@ -1679,7 +1679,7 @@
     },
     {
         "created_at": "Sat Mar 14 23:25:12 +0000 2020",
-        "favorite_count": 108620,
+        "favorite_count": 108606,
         "hashtags": [],
         "id": 1238969456618954752,
         "id_str": "1238969456618954752",
@@ -1748,7 +1748,7 @@
                 "url": "https://t.co/4CiVyJMZZ9"
             }
         ],
-        "retweet_count": 16522,
+        "retweet_count": 16504,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "\ud83d\udcaa\ud83d\udc98\ud83c\udf08 https://t.co/4CiVyJMZZ9",
         "urls": [],
@@ -1760,12 +1760,12 @@
     },
     {
         "created_at": "Fri Mar 13 03:09:29 +0000 2020",
-        "favorite_count": 164409,
+        "favorite_count": 164358,
         "hashtags": [],
         "id": 1238301123888308224,
         "id_str": "1238301123888308224",
         "lang": "en",
-        "retweet_count": 30037,
+        "retweet_count": 30005,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Now it\u2019s as important as ever to be kind. For those who are sick, or those who are not and are scared. We\u2019re in thi\u2026 https://t.co/F9TqeUDQON",
         "truncated": true,
@@ -1783,7 +1783,7 @@
     },
     {
         "created_at": "Thu Mar 12 00:44:29 +0000 2020",
-        "favorite_count": 31657,
+        "favorite_count": 31701,
         "hashtags": [],
         "id": 1237902245368180736,
         "id_str": "1237902245368180736",
@@ -1845,7 +1845,7 @@
     },
     {
         "created_at": "Wed Mar 11 03:44:32 +0000 2020",
-        "favorite_count": 44847,
+        "favorite_count": 44835,
         "hashtags": [
             {
                 "text": "StupidLove"
@@ -1854,7 +1854,7 @@
         "id": 1237585172339421186,
         "id_str": "1237585172339421186",
         "lang": "en",
-        "retweet_count": 4393,
+        "retweet_count": 4388,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "If Peter breaks up with Hannah Ann and proposes to Madison \ud83e\udd26\u200d\u2640\ufe0f#StupidLove",
         "urls": [],
@@ -1866,7 +1866,7 @@
     },
     {
         "created_at": "Tue Mar 10 23:40:21 +0000 2020",
-        "favorite_count": 31312,
+        "favorite_count": 31314,
         "hashtags": [
             {
                 "text": "Chromatica"
@@ -1875,7 +1875,7 @@
         "id": 1237523719083319296,
         "id_str": "1237523719083319296",
         "lang": "en",
-        "retweet_count": 5340,
+        "retweet_count": 5328,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Pre-save #Chromatica on @spotify \u2694\ufe0f\ud83d\udc97 https://t.co/BFkKbs3Gun",
         "urls": [
@@ -1899,12 +1899,12 @@
     },
     {
         "created_at": "Tue Mar 10 09:03:56 +0000 2020",
-        "favorite_count": 22407,
+        "favorite_count": 22420,
         "hashtags": [],
         "id": 1237303160533745664,
         "id_str": "1237303160533745664",
         "lang": "en",
-        "retweet_count": 2979,
+        "retweet_count": 2978,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "LADY GAGA\nTHE CHROMATICA BALL\nLONDON AND PARIS PRE-SALE NOW\nhttps://t.co/qNceLPSA4p\n \nIf you pre-ordered a copy of\u2026 https://t.co/wz57fnp7sq",
         "truncated": true,
@@ -1926,12 +1926,12 @@
     },
     {
         "created_at": "Mon Mar 09 18:18:04 +0000 2020",
-        "favorite_count": 17522,
+        "favorite_count": 17536,
         "hashtags": [],
         "id": 1237080224530968577,
         "id_str": "1237080224530968577",
         "lang": "en",
-        "retweet_count": 2978,
+        "retweet_count": 2974,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "From the beginning, @momgerm and I wanted @btwfoundation &amp; @channelkindness to be powered by the perspectives and e\u2026 https://t.co/zWC4krJOUv",
         "truncated": true,
@@ -1968,7 +1968,7 @@
     },
     {
         "created_at": "Sun Mar 08 18:43:35 +0000 2020",
-        "favorite_count": 31199,
+        "favorite_count": 31197,
         "hashtags": [
             {
                 "text": "InternationalWomensDay"
@@ -1977,7 +1977,7 @@
         "id": 1236724261374447616,
         "id_str": "1236724261374447616",
         "lang": "en",
-        "retweet_count": 5534,
+        "retweet_count": 5528,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "It\u2019s #InternationalWomensDay and I\u2019m celebrating all of the strong, women of choice all over the world with this pl\u2026 https://t.co/qxftW9OX6f",
         "truncated": true,
@@ -2009,10 +2009,10 @@
         "id": 1236041217588117505,
         "id_str": "1236041217588117505",
         "lang": "en",
-        "retweet_count": 1306,
+        "retweet_count": 1307,
         "retweeted_status": {
             "created_at": "Fri Mar 06 18:22:07 +0000 2020",
-            "favorite_count": 8045,
+            "favorite_count": 8052,
             "hashtags": [
                 {
                     "text": "Chromatica"
@@ -2024,7 +2024,7 @@
             "id": 1235994083593728000,
             "id_str": "1235994083593728000",
             "lang": "en",
-            "retweet_count": 1306,
+            "retweet_count": 1307,
             "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
             "text": ".@LadyGaga\u2019s #Chromatica Ball tour is kicking off in July &amp; Citi cardmembers can register for #VerifiedFan\u2026 https://t.co/wBiW3EVVUf",
             "truncated": true,
@@ -2071,7 +2071,7 @@
     },
     {
         "created_at": "Fri Mar 06 01:33:39 +0000 2020",
-        "favorite_count": 131888,
+        "favorite_count": 131858,
         "hashtags": [],
         "id": 1235740293304954882,
         "id_str": "1235740293304954882",
@@ -2109,7 +2109,7 @@
                 "url": "https://t.co/lBunMYrNIo"
             }
         ],
-        "retweet_count": 15012,
+        "retweet_count": 14998,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "I would battle for you (Even if we break in two) \u2694\ufe0f\ud83d\udc93 https://t.co/lBunMYrNIo",
         "urls": [],
@@ -2121,7 +2121,7 @@
     },
     {
         "created_at": "Thu Mar 05 09:09:32 +0000 2020",
-        "favorite_count": 6082,
+        "favorite_count": 6086,
         "hashtags": [
             {
                 "text": "Chromatica"
@@ -2151,7 +2151,7 @@
     },
     {
         "created_at": "Thu Mar 05 09:08:57 +0000 2020",
-        "favorite_count": 5863,
+        "favorite_count": 5864,
         "hashtags": [],
         "id": 1235492486874681344,
         "id_str": "1235492486874681344",
@@ -2177,7 +2177,7 @@
     },
     {
         "created_at": "Thu Mar 05 09:08:05 +0000 2020",
-        "favorite_count": 3333,
+        "favorite_count": 3332,
         "hashtags": [],
         "id": 1235492265503510529,
         "id_str": "1235492265503510529",
@@ -2203,7 +2203,7 @@
     },
     {
         "created_at": "Thu Mar 05 09:06:33 +0000 2020",
-        "favorite_count": 61137,
+        "favorite_count": 61139,
         "hashtags": [
             {
                 "text": "CHROMATICA"
@@ -2245,7 +2245,7 @@
                 "url": "https://t.co/2GkMRHWfni"
             }
         ],
-        "retweet_count": 11185,
+        "retweet_count": 11178,
         "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
         "text": "LADY GAGA \nTHE #CHROMATICA BALL\nhttps://t.co/cnEmbkpU7j https://t.co/2GkMRHWfni",
         "urls": [
@@ -2262,7 +2262,7 @@
     },
     {
         "created_at": "Thu Mar 05 02:12:24 +0000 2020",
-        "favorite_count": 62270,
+        "favorite_count": 62271,
         "hashtags": [],
         "id": 1235387657368121347,
         "id_str": "1235387657368121347",
@@ -2323,7 +2323,7 @@
                 }
             }
         ],
-        "retweet_count": 10524,
+        "retweet_count": 10516,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "when ure so tired from working nonstop u end up spray painting your whip \ud83e\udd2a\ud83e\udd26\u200d\u2640\ufe0f\ud83d\udc9e https://t.co/NzKbpXyWh3",
         "urls": [],
@@ -2335,7 +2335,7 @@
     },
     {
         "created_at": "Wed Mar 04 21:29:39 +0000 2020",
-        "favorite_count": 36314,
+        "favorite_count": 36317,
         "hashtags": [
             {
                 "text": "StupidLove"
@@ -2344,7 +2344,7 @@
         "id": 1235316502544502786,
         "id_str": "1235316502544502786",
         "lang": "en",
-        "retweet_count": 8048,
+        "retweet_count": 8036,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "GAGAVISION - EPISODE 47\nhttps://t.co/KnQq3qQ0uy\n\n\u201cSTUPID LOVE\u201d OUT NOW: https://t.co/hLtxNC0TRY \n\n#StupidLove\u2026 https://t.co/TuhJJ73TIv",
         "truncated": true,
@@ -2374,15 +2374,15 @@
         "id": 1235288787573407751,
         "id_str": "1235288787573407751",
         "lang": "und",
-        "retweet_count": 16124,
+        "retweet_count": 16116,
         "retweeted_status": {
             "created_at": "Tue Mar 03 19:27:50 +0000 2020",
-            "favorite_count": 56392,
+            "favorite_count": 56414,
             "hashtags": [],
             "id": 1234923456464064513,
             "id_str": "1234923456464064513",
             "lang": "und",
-            "retweet_count": 16124,
+            "retweet_count": 16116,
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "text": "s\u1d1b\u0280\u1d07\u1d00\u1d0d  \ud83d\udc95\n          \ud83d\udc95\n \u3000\ud83d\udc95\n  \ud83d\udc95\n \ud83d\udc95\n \ud83d\udc95\n  \ud83d\udc95\n    \ud83d\udc95\n \u3000  \ud83d\udc95\n \u3000 \u3000\ud83d\udc95\n   \u3000\u3000 \ud83d\udc95\n  \u3000 \u3000  \ud83d\udc95 s\u1d1b\u1d1c\u1d18\u026a\u1d05\n  \u3000\u3000   \ud83d\udc95\n  \u3000     \ud83d\udc95\n \u3000    \ud83d\udc95\u2026 https://t.co/mIvgg5ugFo",
             "truncated": true,
@@ -2416,14 +2416,14 @@
     },
     {
         "created_at": "Wed Mar 04 07:57:42 +0000 2020",
-        "favorite_count": 227137,
+        "favorite_count": 227032,
         "hashtags": [],
         "id": 1235112167726133248,
         "id_str": "1235112167726133248",
         "lang": "en",
         "quoted_status": {
             "created_at": "Sun Mar 01 22:59:26 +0000 2020",
-            "favorite_count": 28252,
+            "favorite_count": 28236,
             "hashtags": [
                 {
                     "text": "StupidLove"
@@ -2450,7 +2450,7 @@
         },
         "quoted_status_id": 1234251933919125504,
         "quoted_status_id_str": "1234251933919125504",
-        "retweet_count": 33166,
+        "retweet_count": 33144,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "and this is why I make music https://t.co/uiliyr3sYk",
         "urls": [
@@ -2467,7 +2467,7 @@
     },
     {
         "created_at": "Mon Mar 02 23:33:19 +0000 2020",
-        "favorite_count": 30015,
+        "favorite_count": 30006,
         "hashtags": [
             {
                 "text": "StupidLove"
@@ -2605,7 +2605,7 @@
                 "url": "https://t.co/kUzJJVgZDb"
             }
         ],
-        "retweet_count": 5099,
+        "retweet_count": 5092,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "\u201cSTUPID LOVE\u201d MERCH AVAILABLE NOW\nhttps://t.co/MltBcEkKF1 \n#StupidLove #Chromatica https://t.co/kUzJJVgZDb",
         "urls": [
@@ -2622,12 +2622,12 @@
     },
     {
         "created_at": "Mon Mar 02 17:02:49 +0000 2020",
-        "favorite_count": 102757,
+        "favorite_count": 102733,
         "hashtags": [],
         "id": 1234524574802333698,
         "id_str": "1234524574802333698",
         "lang": "en",
-        "retweet_count": 30024,
+        "retweet_count": 29994,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Welcome to \u201cChromatica\u201d, coming April 10. Pre-order now \u2694\ufe0f\ud83d\udc93 https://t.co/GjJUC3PRWz\n\nThis is not the album cover bu\u2026 https://t.co/0LjbMR05Fn",
         "truncated": true,
@@ -2649,7 +2649,7 @@
     },
     {
         "created_at": "Sun Mar 01 21:06:17 +0000 2020",
-        "favorite_count": 27866,
+        "favorite_count": 27862,
         "hashtags": [
             {
                 "text": "NewMusicDaily"
@@ -2691,7 +2691,7 @@
                 "url": "https://t.co/66GJP5mXm1"
             }
         ],
-        "retweet_count": 4414,
+        "retweet_count": 4409,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "\ud83e\udd29 @applemusic #NewMusicDaily https://t.co/aC2wVodMGZ https://t.co/66GJP5mXm1",
         "urls": [
@@ -2715,7 +2715,7 @@
     },
     {
         "created_at": "Sun Mar 01 20:01:29 +0000 2020",
-        "favorite_count": 80088,
+        "favorite_count": 80085,
         "hashtags": [
             {
                 "text": "stupidlove"
@@ -2785,7 +2785,7 @@
                 }
             }
         ],
-        "retweet_count": 12003,
+        "retweet_count": 11996,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "\u2764\ufe0f\ud83d\udc9b\ud83d\udc9a\ud83d\udc99\ud83d\udda4\ud83d\udc96 #stupidlove https://t.co/hLtxNCiuJw https://t.co/hLFO5Br5Mf",
         "urls": [
@@ -2810,10 +2810,10 @@
         "id": 1233875067706019840,
         "id_str": "1233875067706019840",
         "lang": "en",
-        "retweet_count": 1618,
+        "retweet_count": 1616,
         "retweeted_status": {
             "created_at": "Sat Feb 29 21:49:07 +0000 2020",
-            "favorite_count": 9379,
+            "favorite_count": 9378,
             "hashtags": [
                 {
                     "text": "BTWFanniversary"
@@ -2878,7 +2878,7 @@
                     }
                 }
             ],
-            "retweet_count": 1618,
+            "retweet_count": 1616,
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "text": "Thank you for 8 incredible years! Sign up here to be part of what\u2019s next: https://t.co/e3SOdDD6j6 #BTWFanniversary https://t.co/fGos4xwEwc",
             "urls": [
@@ -2916,7 +2916,7 @@
     },
     {
         "created_at": "Fri Feb 28 22:56:58 +0000 2020",
-        "favorite_count": 39029,
+        "favorite_count": 39016,
         "hashtags": [
             {
                 "text": "StupidLove"
@@ -2925,7 +2925,7 @@
         "id": 1233526534641614853,
         "id_str": "1233526534641614853",
         "lang": "en",
-        "retweet_count": 7195,
+        "retweet_count": 7189,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "This girl couldn\u2019t be happier to see #StupidLove celebrated in my favorite city in the world. Love u NYC, and thank\u2026 https://t.co/pDXxCq0ZEy",
         "truncated": true,
@@ -2943,7 +2943,7 @@
     },
     {
         "created_at": "Fri Feb 28 22:54:45 +0000 2020",
-        "favorite_count": 29391,
+        "favorite_count": 29395,
         "hashtags": [
             {
                 "text": "StupidLove"
@@ -2985,7 +2985,7 @@
                 "url": "https://t.co/ZsNcJAM39M"
             }
         ],
-        "retweet_count": 4976,
+        "retweet_count": 4972,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "#StupidLove in Toronto \ud83c\udde8\ud83c\udde6 Thank u @AmazonMusic https://t.co/cwhhkuICyp https://t.co/ZsNcJAM39M",
         "urls": [
@@ -3009,7 +3009,7 @@
     },
     {
         "created_at": "Fri Feb 28 22:53:01 +0000 2020",
-        "favorite_count": 23784,
+        "favorite_count": 23785,
         "hashtags": [
             {
                 "text": "StupidLove"
@@ -3054,7 +3054,7 @@
                 "url": "https://t.co/pjelcyEzjI"
             }
         ],
-        "retweet_count": 4499,
+        "retweet_count": 4495,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "#StupidLove in LA \ud83d\udc97 Listen on @Spotify #NMF https://t.co/IHZwMMLnIL https://t.co/pjelcyEzjI",
         "urls": [
@@ -3078,7 +3078,7 @@
     },
     {
         "created_at": "Fri Feb 28 22:46:10 +0000 2020",
-        "favorite_count": 34666,
+        "favorite_count": 34667,
         "hashtags": [
             {
                 "text": "StupidLove"
@@ -3151,7 +3151,7 @@
                 }
             }
         ],
-        "retweet_count": 6424,
+        "retweet_count": 6417,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Thank u @AppleMusic \ud83e\udd70 Listen to #StupidLove on the #NewMusicDaily playlist! \u2763\ufe0f https://t.co/aC2wVodMGZ https://t.co/rVTpsObbm6",
         "urls": [
@@ -3175,7 +3175,7 @@
     },
     {
         "created_at": "Fri Feb 28 05:03:51 +0000 2020",
-        "favorite_count": 167994,
+        "favorite_count": 170169,
         "hashtags": [
             {
                 "text": "StupidLove"
@@ -3248,7 +3248,7 @@
                 }
             }
         ],
-        "retweet_count": 50972,
+        "retweet_count": 51217,
         "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
         "text": "\u201cSTUPID LOVE\u201d\nTHE NEW SINGLE &amp; MUSIC VIDEO\nOUT NOW: https://t.co/hLtxNCiuJw\n#StupidLove #ShotOniPhone https://t.co/QLF3Cx1mcw",
         "urls": [
@@ -3265,12 +3265,12 @@
     },
     {
         "created_at": "Fri Feb 28 04:16:29 +0000 2020",
-        "favorite_count": 640337,
+        "favorite_count": 640296,
         "hashtags": [],
         "id": 1233244554976849921,
         "id_str": "1233244554976849921",
         "lang": "en",
-        "retweet_count": 148307,
+        "retweet_count": 148347,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "earth is cancelled",
         "urls": [],
@@ -3282,12 +3282,12 @@
     },
     {
         "created_at": "Fri Feb 28 04:14:06 +0000 2020",
-        "favorite_count": 109571,
+        "favorite_count": 109530,
         "hashtags": [],
         "id": 1233243956483215360,
         "id_str": "1233243956483215360",
         "lang": "en",
-        "retweet_count": 19946,
+        "retweet_count": 19922,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "My single and music video are dropping in 45 minutes. Don\u2019t mind me, I\u2019ll just be in the corner breathing into a pa\u2026 https://t.co/nLjhFjeb4L",
         "truncated": true,
@@ -3305,7 +3305,7 @@
     },
     {
         "created_at": "Thu Feb 27 20:09:08 +0000 2020",
-        "favorite_count": 111030,
+        "favorite_count": 111027,
         "hashtags": [
             {
                 "text": "LG6"
@@ -3378,7 +3378,7 @@
                 }
             }
         ],
-        "retweet_count": 25282,
+        "retweet_count": 25263,
         "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
         "text": "\u201cSTUPID LOVE\u201d \n9 HOURS \n#LG6 \n#ShotOniPhone https://t.co/ZMdoy3jGDG",
         "urls": [],
@@ -3390,7 +3390,7 @@
     },
     {
         "created_at": "Thu Feb 27 16:41:51 +0000 2020",
-        "favorite_count": 93102,
+        "favorite_count": 93068,
         "hashtags": [
             {
                 "text": "LG6"
@@ -3432,7 +3432,7 @@
                 "url": "https://t.co/YAjT4dS98J"
             }
         ],
-        "retweet_count": 22176,
+        "retweet_count": 22151,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "\u201cSTUPID LOVE\u201d \nMIDNIGHT ET TONIGHT \n#LG6 \u2763\ufe0f https://t.co/YAjT4dS98J",
         "urls": [],
@@ -3444,7 +3444,7 @@
     },
     {
         "created_at": "Thu Feb 27 05:30:28 +0000 2020",
-        "favorite_count": 162485,
+        "favorite_count": 162461,
         "hashtags": [],
         "id": 1232900786486558720,
         "id_str": "1232900786486558720",
@@ -3510,7 +3510,7 @@
                 }
             }
         ],
-        "retweet_count": 43644,
+        "retweet_count": 43617,
         "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
         "text": "\u201cSTUPID LOVE\u201d \nTHE SINGLE &amp; MUSIC VIDEO \nOUT FRIDAY 2/28 AT MIDNIGHT ET https://t.co/nLWI3LXCHe",
         "urls": [],
@@ -3522,7 +3522,7 @@
     },
     {
         "created_at": "Wed Feb 26 18:33:30 +0000 2020",
-        "favorite_count": 179139,
+        "favorite_count": 179066,
         "hashtags": [
             {
                 "text": "LG6"
@@ -3564,7 +3564,7 @@
                 "url": "https://t.co/nF8A8dj5jO"
             }
         ],
-        "retweet_count": 41907,
+        "retweet_count": 41876,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "\u201cSTUPID LOVE\u201d\n2/28, midnight ET \u2763\ufe0f\n#LG6 https://t.co/nF8A8dj5jO",
         "urls": [],
@@ -3576,7 +3576,7 @@
     },
     {
         "created_at": "Tue Feb 25 16:53:11 +0000 2020",
-        "favorite_count": 186400,
+        "favorite_count": 186358,
         "hashtags": [
             {
                 "text": "LG6"
@@ -3618,7 +3618,7 @@
                 "url": "https://t.co/lu4zDqlepm"
             }
         ],
-        "retweet_count": 57260,
+        "retweet_count": 57215,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "\u201cSTUPID LOVE\u201d\nTHE NEW SINGLE BY LADY GAGA \nOUT FRIDAY AT MIDNIGHT ET \n#LG6 https://t.co/lu4zDqlepm",
         "urls": [],
@@ -3630,7 +3630,7 @@
     },
     {
         "created_at": "Fri Feb 21 21:12:44 +0000 2020",
-        "favorite_count": 36913,
+        "favorite_count": 36879,
         "hashtags": [],
         "id": 1230963590242304000,
         "id_str": "1230963590242304000",
@@ -3668,7 +3668,7 @@
                 "url": "https://t.co/RVaCBX9nXp"
             }
         ],
-        "retweet_count": 4073,
+        "retweet_count": 4067,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Feelin like a REBEL \ud83e\udd18\n\nAvailable now on @amazon https://t.co/Z4CroBYbXJ https://t.co/RVaCBX9nXp",
         "urls": [
@@ -3692,12 +3692,12 @@
     },
     {
         "created_at": "Wed Feb 19 04:07:41 +0000 2020",
-        "favorite_count": 26561,
+        "favorite_count": 26555,
         "hashtags": [],
         "id": 1229980851129110528,
         "id_str": "1229980851129110528",
         "lang": "en",
-        "retweet_count": 2662,
+        "retweet_count": 2660,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Thank you to all monsters and little monsters who supported @hauslabs Le Monster Lip Crayon today. I love that it\u2019s\u2026 https://t.co/GSSauUP3Rc",
         "truncated": true,
@@ -3722,12 +3722,12 @@
     },
     {
         "created_at": "Tue Feb 18 18:30:26 +0000 2020",
-        "favorite_count": 25654,
+        "favorite_count": 25652,
         "hashtags": [],
         "id": 1229835579560316928,
         "id_str": "1229835579560316928",
         "lang": "en",
-        "retweet_count": 3087,
+        "retweet_count": 3081,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "I wore @hauslabs LE MONSTER MATTE LIP CRAYON on stage in Miami and I wear this shade all the time in my daily life.\u2026 https://t.co/HPfZK4PnCu",
         "truncated": true,
@@ -3752,12 +3752,12 @@
     },
     {
         "created_at": "Fri Feb 14 15:07:10 +0000 2020",
-        "favorite_count": 43933,
+        "favorite_count": 43919,
         "hashtags": [],
         "id": 1228334875482001410,
         "id_str": "1228334875482001410",
         "lang": "en",
-        "retweet_count": 6381,
+        "retweet_count": 6378,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Celebrating Valentine\u2019s Day wearing this badass ring designed by my friend @BAkerlund for @klarna. As we celebrate\u2026 https://t.co/i4rjx6HDzT",
         "truncated": true,
@@ -3788,7 +3788,7 @@
     },
     {
         "created_at": "Thu Feb 13 20:02:16 +0000 2020",
-        "favorite_count": 42294,
+        "favorite_count": 42265,
         "hashtags": [],
         "id": 1228046754655850496,
         "id_str": "1228046754655850496",
@@ -3826,7 +3826,7 @@
                 "url": "https://t.co/jtWrjg5tpl"
             }
         ],
-        "retweet_count": 5670,
+        "retweet_count": 5661,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "\ud83e\udd18 https://t.co/9I33BfgCSY https://t.co/jtWrjg5tpl",
         "urls": [
@@ -3843,7 +3843,7 @@
     },
     {
         "created_at": "Thu Feb 13 17:08:44 +0000 2020",
-        "favorite_count": 7666,
+        "favorite_count": 7659,
         "hashtags": [],
         "id": 1228003079749943297,
         "id_str": "1228003079749943297",
@@ -3851,7 +3851,7 @@
         "in_reply_to_status_id": 1228002860014555136,
         "in_reply_to_user_id": 14230524,
         "lang": "en",
-        "retweet_count": 989,
+        "retweet_count": 988,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Le Monster Matte Lip Crayon drops on @hauslabs (https://t.co/lfX4GLwMiF) &amp; https://t.co/u2QQBCGZpN on 2/18. PUT YOUR FUCKING PAWS UP \ud83d\udc8b",
         "urls": [
@@ -3879,12 +3879,12 @@
     },
     {
         "created_at": "Thu Feb 13 17:07:51 +0000 2020",
-        "favorite_count": 47211,
+        "favorite_count": 47191,
         "hashtags": [],
         "id": 1228002860014555136,
         "id_str": "1228002860014555136",
         "lang": "en",
-        "retweet_count": 5806,
+        "retweet_count": 5802,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "We created this product (and 11 MORE SHADES) for my biggest fans. I've been testing this for a long time (like in M\u2026 https://t.co/tRUoQewVFy",
         "truncated": true,
@@ -3902,12 +3902,12 @@
     },
     {
         "created_at": "Mon Feb 10 18:36:54 +0000 2020",
-        "favorite_count": 28400,
+        "favorite_count": 28390,
         "hashtags": [],
         "id": 1226938105438978048,
         "id_str": "1226938105438978048",
         "lang": "en",
-        "retweet_count": 2892,
+        "retweet_count": 2888,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": ".@hauslabs is on @amazon\u2019s Deal of the Day today! That means lots of special prices on the products I use every day\u2026 https://t.co/VieEBH0UHz",
         "truncated": true,
@@ -3938,7 +3938,7 @@
     },
     {
         "created_at": "Tue Feb 04 23:22:52 +0000 2020",
-        "favorite_count": 48833,
+        "favorite_count": 48820,
         "hashtags": [],
         "id": 1224835742888685569,
         "id_str": "1224835742888685569",
@@ -3976,7 +3976,7 @@
                 "url": "https://t.co/JXSgo0NtgZ"
             }
         ],
-        "retweet_count": 4858,
+        "retweet_count": 4852,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Loved performing in Miami \ud83c\udfdd What an amazing weekend. Wore something new on the red carpet\u2026 \ud83d\ude09 @hauslabs https://t.co/JXSgo0NtgZ",
         "urls": [],
@@ -4009,7 +4009,7 @@
         "retweet_count": 1408,
         "retweeted_status": {
             "created_at": "Mon Feb 03 14:00:09 +0000 2020",
-            "favorite_count": 6005,
+            "favorite_count": 6000,
             "hashtags": [
                 {
                     "text": "ATTtv"
@@ -4059,7 +4059,7 @@
     },
     {
         "created_at": "Tue Feb 04 01:50:21 +0000 2020",
-        "favorite_count": 24552,
+        "favorite_count": 24538,
         "hashtags": [
             {
                 "text": "SuperSaturdayNight"
@@ -4070,7 +4070,7 @@
         "lang": "en",
         "quoted_status": {
             "created_at": "Mon Feb 03 03:00:17 +0000 2020",
-            "favorite_count": 3241,
+            "favorite_count": 3240,
             "hashtags": [
                 {
                     "text": "ATTtv"
@@ -4124,7 +4124,7 @@
     },
     {
         "created_at": "Mon Feb 03 05:47:21 +0000 2020",
-        "favorite_count": 22485,
+        "favorite_count": 22475,
         "hashtags": [
             {
                 "text": "SuperSaturdayNight"
@@ -4136,7 +4136,7 @@
         "id": 1224207726072356864,
         "id_str": "1224207726072356864",
         "lang": "en",
-        "retweet_count": 3343,
+        "retweet_count": 3342,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "If you missed my #SuperSaturdayNight performance last night you can watch it again here tomorrow at 9am ET \ud83d\ude0e https://t.co/SCbiR7fY4j #ATTtv",
         "urls": [
@@ -4153,12 +4153,12 @@
     },
     {
         "created_at": "Mon Feb 03 01:29:32 +0000 2020",
-        "favorite_count": 333729,
+        "favorite_count": 333669,
         "hashtags": [],
         "id": 1224142846267138048,
         "id_str": "1224142846267138048",
         "lang": "en",
-        "retweet_count": 46627,
+        "retweet_count": 46609,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": ". @JLo and @shakira and all the special guests were so incredible!!! What a fun halftime show I danced and smiled t\u2026 https://t.co/5CvMhtrRkI",
         "truncated": true,
@@ -4189,7 +4189,7 @@
     },
     {
         "created_at": "Sat Feb 01 19:00:14 +0000 2020",
-        "favorite_count": 34692,
+        "favorite_count": 34686,
         "hashtags": [
             {
                 "text": "SuperSaturdayNight"
@@ -4201,7 +4201,7 @@
         "id": 1223682486263107584,
         "id_str": "1223682486263107584",
         "lang": "en",
-        "retweet_count": 22039,
+        "retweet_count": 22016,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Every time you tweet tonight using the hashtag #SuperSaturdayNight and RT this message, #ATTtv will donate $1 (up t\u2026 https://t.co/yELdk0RKkj",
         "truncated": true,
@@ -4219,7 +4219,7 @@
     },
     {
         "created_at": "Sat Feb 01 16:00:14 +0000 2020",
-        "favorite_count": 24399,
+        "favorite_count": 24390,
         "hashtags": [
             {
                 "text": "SuperSaturdayNight"
@@ -4234,7 +4234,7 @@
         "id": 1223637189499600897,
         "id_str": "1223637189499600897",
         "lang": "en",
-        "retweet_count": 6316,
+        "retweet_count": 6307,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "#SuperSaturdayNight is here \ud83c\udf34 Stream it tonight at 11pm ET, RSVP here https://t.co/SCbiR7fY4j #ATTtv #ad",
         "urls": [
@@ -4255,15 +4255,15 @@
         "id": 1222989814045134848,
         "id_str": "1222989814045134848",
         "lang": "en",
-        "retweet_count": 994,
+        "retweet_count": 993,
         "retweeted_status": {
             "created_at": "Wed Jan 29 18:12:46 +0000 2020",
-            "favorite_count": 7612,
+            "favorite_count": 7615,
             "hashtags": [],
             "id": 1222583376923639808,
             "id_str": "1222583376923639808",
             "lang": "en",
-            "retweet_count": 994,
+            "retweet_count": 993,
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "text": "We\u2019re bringing back some of your favorite sets and an ALL-NEW one just in time for your V-DAY glam! Limited quantit\u2026 https://t.co/uHs7BN8omC",
             "truncated": true,
@@ -4297,12 +4297,12 @@
     },
     {
         "created_at": "Tue Jan 28 05:35:32 +0000 2020",
-        "favorite_count": 120884,
+        "favorite_count": 120851,
         "hashtags": [],
         "id": 1222030424739704832,
         "id_str": "1222030424739704832",
         "lang": "en",
-        "retweet_count": 10024,
+        "retweet_count": 10016,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Thinking of Kobe Bryant and his family. I\u2019m praying for their healing and the reincarnation of their joy. Such a tr\u2026 https://t.co/GO0OGZAscn",
         "truncated": true,
@@ -4320,7 +4320,7 @@
     },
     {
         "created_at": "Sat Jan 25 19:14:12 +0000 2020",
-        "favorite_count": 49090,
+        "favorite_count": 49084,
         "hashtags": [
             {
                 "text": "SuperSaturdayNight"
@@ -4393,7 +4393,7 @@
                 }
             }
         ],
-        "retweet_count": 8027,
+        "retweet_count": 8015,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "My performance at #SuperSaturdayNight is a week away \ud83c\udfa4 watch live on @ItsOnATT #ad https://t.co/pOfids5WKY",
         "urls": [],
@@ -4412,7 +4412,7 @@
     },
     {
         "created_at": "Thu Jan 23 00:32:20 +0000 2020",
-        "favorite_count": 371952,
+        "favorite_count": 371835,
         "hashtags": [],
         "id": 1220142182595620865,
         "id_str": "1220142182595620865",
@@ -4450,7 +4450,7 @@
                 "url": "https://t.co/1jvZLdY6jV"
             }
         ],
-        "retweet_count": 73245,
+        "retweet_count": 73248,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "can y\u2019all stop https://t.co/1jvZLdY6jV",
         "urls": [],
@@ -4506,7 +4506,7 @@
         "retweet_count": 1120,
         "retweeted_status": {
             "created_at": "Fri Jan 17 18:10:44 +0000 2020",
-            "favorite_count": 7468,
+            "favorite_count": 7467,
             "hashtags": [
                 {
                     "text": "HAUSCALL"
@@ -4586,7 +4586,7 @@
     },
     {
         "created_at": "Sat Jan 11 20:57:24 +0000 2020",
-        "favorite_count": 91064,
+        "favorite_count": 91038,
         "hashtags": [],
         "id": 1216101829584359424,
         "id_str": "1216101829584359424",
@@ -4652,7 +4652,7 @@
                 }
             }
         ],
-        "retweet_count": 14259,
+        "retweet_count": 14252,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Thank you @Oprah for caring, and for helping bring light to the mental health crisis happening around the world. \u2764\ufe0f https://t.co/BMbq9U473H",
         "urls": [],
@@ -4675,15 +4675,15 @@
         "id": 1209261011951185920,
         "id_str": "1209261011951185920",
         "lang": "en",
-        "retweet_count": 807,
+        "retweet_count": 808,
         "retweeted_status": {
             "created_at": "Mon Dec 23 20:33:04 +0000 2019",
-            "favorite_count": 6505,
+            "favorite_count": 6506,
             "hashtags": [],
             "id": 1209210336152211456,
             "id_str": "1209210336152211456",
             "lang": "en",
-            "retweet_count": 807,
+            "retweet_count": 808,
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "text": "Our BURLESQUE SET is SOLD OUT on https://t.co/ikCe6lFpp8, but don\u2019t worry \ud83d\ude09 you can still find it on @amazon here:\u2026 https://t.co/jx29qRFo7w",
             "truncated": true,
@@ -4739,7 +4739,7 @@
     },
     {
         "created_at": "Thu Dec 19 03:27:59 +0000 2019",
-        "favorite_count": 113767,
+        "favorite_count": 113758,
         "hashtags": [
             {
                 "text": "LG6"
@@ -4748,7 +4748,7 @@
         "id": 1207502813657366529,
         "id_str": "1207502813657366529",
         "lang": "en",
-        "retweet_count": 15375,
+        "retweet_count": 15360,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "#LG6\nmy assistant: when\u2019s the last time you bathed\nme: i don\u2019t remember",
         "urls": [],
@@ -4764,15 +4764,15 @@
         "id": 1204528025624178688,
         "id_str": "1204528025624178688",
         "lang": "en",
-        "retweet_count": 851,
+        "retweet_count": 850,
         "retweeted_status": {
             "created_at": "Tue Dec 10 22:15:28 +0000 2019",
-            "favorite_count": 5918,
+            "favorite_count": 5915,
             "hashtags": [],
             "id": 1204525063610847233,
             "id_str": "1204525063610847233",
             "lang": "en",
-            "retweet_count": 851,
+            "retweet_count": 850,
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "text": "\ud83d\udea8RESTOCK ALERT\ud83d\udea8\n\nOur BURLESQUE KIT - 3 full size products + a clutch for $46 (a $72 value) - is coming back tomorro\u2026 https://t.co/QN8xVrAKDh",
             "truncated": true,
@@ -4806,12 +4806,12 @@
     },
     {
         "created_at": "Tue Dec 10 20:09:30 +0000 2019",
-        "favorite_count": 37808,
+        "favorite_count": 37795,
         "hashtags": [],
         "id": 1204493362029400064,
         "id_str": "1204493362029400064",
         "lang": "en",
-        "retweet_count": 3580,
+        "retweet_count": 3575,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Also launching today is HAUS of Whiskey because... well... in our Haus, we love whiskey \ud83e\udd43 it\u2019s a beautiful rich cho\u2026 https://t.co/ZDIuSRfaUb",
         "truncated": true,
@@ -4829,7 +4829,7 @@
     },
     {
         "created_at": "Tue Dec 10 17:21:22 +0000 2019",
-        "favorite_count": 24989,
+        "favorite_count": 24981,
         "hashtags": [
             {
                 "text": "AStarIsBorn"
@@ -4838,7 +4838,7 @@
         "id": 1204451049081229312,
         "id_str": "1204451049081229312",
         "lang": "en",
-        "retweet_count": 3104,
+        "retweet_count": 3100,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Introducing the HAUS of Future Hollywood Collection, inspired by my look at the premiere for #AStarIsBorn in Los An\u2026 https://t.co/nrmPNUNPKy",
         "truncated": true,
@@ -4856,7 +4856,7 @@
     },
     {
         "created_at": "Mon Dec 09 15:05:03 +0000 2019",
-        "favorite_count": 14341,
+        "favorite_count": 14339,
         "hashtags": [
             {
                 "text": "SuperSaturdayNight"
@@ -4901,7 +4901,7 @@
                 "url": "https://t.co/Ug9oZRvXTf"
             }
         ],
-        "retweet_count": 2262,
+        "retweet_count": 2259,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "AT&amp;T TV #SuperSaturdayNight tickets on sale 12/10 \ud83d\ude18 Stream it on 2/1 https://t.co/cCSHXExDLy #ad https://t.co/Ug9oZRvXTf",
         "urls": [
@@ -4922,15 +4922,15 @@
         "id": 1203470352220688385,
         "id_str": "1203470352220688385",
         "lang": "en",
-        "retweet_count": 110008,
+        "retweet_count": 109971,
         "retweeted_status": {
             "created_at": "Thu Dec 05 19:22:27 +0000 2019",
-            "favorite_count": 436531,
+            "favorite_count": 436418,
             "hashtags": [],
             "id": 1202669582407782400,
             "id_str": "1202669582407782400",
             "lang": "en",
-            "retweet_count": 110008,
+            "retweet_count": 109971,
             "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
             "text": "what\u2019s something you can say during sex but also when you manage a brand twitter account?",
             "urls": [],
@@ -4962,10 +4962,10 @@
         "id": 1203470342997471233,
         "id_str": "1203470342997471233",
         "lang": "en",
-        "retweet_count": 1572,
+        "retweet_count": 1570,
         "retweeted_status": {
             "created_at": "Sun Dec 08 00:13:37 +0000 2019",
-            "favorite_count": 13488,
+            "favorite_count": 13485,
             "hashtags": [],
             "id": 1203467632160018432,
             "id_str": "1203467632160018432",
@@ -4973,7 +4973,7 @@
             "in_reply_to_status_id": 1202669582407782400,
             "in_reply_to_user_id": 16573941,
             "lang": "en",
-            "retweet_count": 1572,
+            "retweet_count": 1570,
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "text": "@netflix i\u2019ll give you a discount",
             "urls": [],
@@ -5014,7 +5014,7 @@
     },
     {
         "created_at": "Sat Dec 07 18:00:54 +0000 2019",
-        "favorite_count": 23464,
+        "favorite_count": 23463,
         "hashtags": [],
         "id": 1203373835640176645,
         "id_str": "1203373835640176645",
@@ -5080,7 +5080,7 @@
                 }
             }
         ],
-        "retweet_count": 3236,
+        "retweet_count": 3234,
         "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
         "text": "GLAM ROOM PALETTE NO. 1: FAME \u26a1\ufe0f Out now at https://t.co/lfX4GLwMiF &amp; https://t.co/u2QQBCGZpN https://t.co/r0rbId3t6r",
         "urls": [
@@ -5105,15 +5105,15 @@
         "id": 1203033112956915712,
         "id_str": "1203033112956915712",
         "lang": "en",
-        "retweet_count": 847,
+        "retweet_count": 844,
         "retweeted_status": {
             "created_at": "Fri Dec 06 19:23:12 +0000 2019",
-            "favorite_count": 5867,
+            "favorite_count": 5861,
             "hashtags": [],
             "id": 1203032157452734464,
             "id_str": "1203032157452734464",
             "lang": "en",
-            "retweet_count": 847,
+            "retweet_count": 844,
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "text": "\ud83d\udea8LAST CHANCE\ud83d\udea8\nGet a SIGNED palette by our founder, @ladygaga, TODAY ONLY (12/6) at our @amazon pop-up at\u2026 https://t.co/eexL7p8PQK",
             "truncated": true,
@@ -5178,7 +5178,7 @@
     },
     {
         "created_at": "Fri Dec 06 16:00:41 +0000 2019",
-        "favorite_count": 45451,
+        "favorite_count": 45425,
         "hashtags": [],
         "id": 1202981192846450688,
         "id_str": "1202981192846450688",
@@ -5216,7 +5216,7 @@
                 "url": "https://t.co/QNyE9tWaSy"
             }
         ],
-        "retweet_count": 5437,
+        "retweet_count": 5432,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "HAUS HOLIDAY POP UP \ud83c\udf81 in GLAM ROOM PALETTE NO. 1: FAME \u26a1\ufe0f Last day at The Grove!! https://t.co/QNyE9tWaSy",
         "urls": [],
@@ -5228,7 +5228,7 @@
     },
     {
         "created_at": "Thu Dec 05 17:16:19 +0000 2019",
-        "favorite_count": 18215,
+        "favorite_count": 18208,
         "hashtags": [],
         "id": 1202637838363136000,
         "id_str": "1202637838363136000",
@@ -5255,19 +5255,19 @@
     },
     {
         "created_at": "Thu Dec 05 04:16:23 +0000 2019",
-        "favorite_count": 26824,
+        "favorite_count": 26816,
         "hashtags": [],
         "id": 1202441561327300609,
         "id_str": "1202441561327300609",
         "lang": "en",
         "quoted_status": {
             "created_at": "Thu Dec 05 03:49:58 +0000 2019",
-            "favorite_count": 4340,
+            "favorite_count": 4336,
             "hashtags": [],
             "id": 1202434916782243840,
             "id_str": "1202434916782243840",
             "lang": "en",
-            "retweet_count": 672,
+            "retweet_count": 671,
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "text": "SHOP THE HAUS. MEET LADY GAGA. Be the first in line tomorrow at our @amazon pop-up in LA. First 50 people who purch\u2026 https://t.co/GeeXfNEdIe",
             "truncated": true,
@@ -5292,7 +5292,7 @@
         },
         "quoted_status_id": 1202434916782243840,
         "quoted_status_id_str": "1202434916782243840",
-        "retweet_count": 2751,
+        "retweet_count": 2748,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Excited to see u monsters \u263a\ufe0f https://t.co/IRzpX09emd",
         "urls": [
@@ -5309,14 +5309,14 @@
     },
     {
         "created_at": "Wed Dec 04 23:51:31 +0000 2019",
-        "favorite_count": 78446,
+        "favorite_count": 78409,
         "hashtags": [],
         "id": 1202374907100745728,
         "id_str": "1202374907100745728",
         "lang": "en",
         "quoted_status": {
             "created_at": "Wed Dec 04 21:20:13 +0000 2019",
-            "favorite_count": 15074,
+            "favorite_count": 15071,
             "hashtags": [],
             "id": 1202336832135913472,
             "id_str": "1202336832135913472",
@@ -5345,7 +5345,7 @@
         },
         "quoted_status_id": 1202336832135913472,
         "quoted_status_id_str": "1202336832135913472",
-        "retweet_count": 5847,
+        "retweet_count": 5846,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "I am so snatched I don\u2019t know what to do https://t.co/9PDkg7qoKl",
         "urls": [
@@ -5362,7 +5362,7 @@
     },
     {
         "created_at": "Wed Dec 04 17:04:52 +0000 2019",
-        "favorite_count": 9776,
+        "favorite_count": 9772,
         "hashtags": [],
         "id": 1202272568012492800,
         "id_str": "1202272568012492800",
@@ -5388,7 +5388,7 @@
     },
     {
         "created_at": "Wed Dec 04 17:04:21 +0000 2019",
-        "favorite_count": 17085,
+        "favorite_count": 17080,
         "hashtags": [],
         "id": 1202272440824369152,
         "id_str": "1202272440824369152",
@@ -5396,7 +5396,7 @@
         "in_reply_to_status_id": 1202272243197198336,
         "in_reply_to_user_id": 14230524,
         "lang": "en",
-        "retweet_count": 1813,
+        "retweet_count": 1812,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "I assume many would expect my first palette to be full of crazy colors, but the truth is when I was first discoveri\u2026 https://t.co/eFUPPSkcP5",
         "truncated": true,
@@ -5414,12 +5414,12 @@
     },
     {
         "created_at": "Wed Dec 04 17:03:34 +0000 2019",
-        "favorite_count": 73819,
+        "favorite_count": 73794,
         "hashtags": [],
         "id": 1202272243197198336,
         "id_str": "1202272243197198336",
         "lang": "en",
-        "retweet_count": 7404,
+        "retweet_count": 7398,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Inspired by when I worked as a burlesque dancer as I was working to become a star, these shades remind me of my tim\u2026 https://t.co/ThT0mDwQm0",
         "truncated": true,
@@ -5437,12 +5437,12 @@
     },
     {
         "created_at": "Tue Dec 03 23:04:14 +0000 2019",
-        "favorite_count": 15512,
+        "favorite_count": 15513,
         "hashtags": [],
         "id": 1202000620124659714,
         "id_str": "1202000620124659714",
         "lang": "en",
-        "retweet_count": 2021,
+        "retweet_count": 2019,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "The @hauslabs @amazon HOLIDAY HAUS POP-UP is open for experimenting and shopping on Thursday 12/5 from 12pm - 5:30p\u2026 https://t.co/6leyHQQe1Y",
         "truncated": true,
@@ -5473,7 +5473,7 @@
     },
     {
         "created_at": "Mon Dec 02 20:04:12 +0000 2019",
-        "favorite_count": 12935,
+        "favorite_count": 12933,
         "hashtags": [
             {
                 "text": "GivingTuesday"
@@ -5482,7 +5482,7 @@
         "id": 1201592926293413890,
         "id_str": "1201592926293413890",
         "lang": "en",
-        "retweet_count": 2249,
+        "retweet_count": 2245,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "On #GivingTuesday, consider donating to @btwfoundation. Your donation will go to programs, research, and campaigns\u2026 https://t.co/ZCCzrgQLu4",
         "truncated": true,
@@ -5507,7 +5507,7 @@
     },
     {
         "created_at": "Mon Dec 02 17:14:50 +0000 2019",
-        "favorite_count": 26640,
+        "favorite_count": 26630,
         "hashtags": [],
         "id": 1201550301406220296,
         "id_str": "1201550301406220296",
@@ -5545,7 +5545,7 @@
                 "url": "https://t.co/XixeTctCcI"
             }
         ],
-        "retweet_count": 2485,
+        "retweet_count": 2481,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Get 3 of my fave lip glosses in a special set today only \ud83d\udc8b @hauslabs @amazon https://t.co/wha7khCb4M https://t.co/XixeTctCcI",
         "urls": [
@@ -5575,7 +5575,7 @@
     },
     {
         "created_at": "Fri Nov 29 19:02:24 +0000 2019",
-        "favorite_count": 33266,
+        "favorite_count": 33255,
         "hashtags": [
             {
                 "text": "BlackFriday"
@@ -5584,7 +5584,7 @@
         "id": 1200490207377678337,
         "id_str": "1200490207377678337",
         "lang": "en",
-        "retweet_count": 3688,
+        "retweet_count": 3681,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "This is the only lip syncing I\u2019ll be doing \ud83e\udd23 It\u2019s #BlackFriday and @hauslabs LIP SYNC Set is available now for a sp\u2026 https://t.co/eu4imrDpRY",
         "truncated": true,
@@ -5609,12 +5609,12 @@
     },
     {
         "created_at": "Thu Nov 28 02:54:29 +0000 2019",
-        "favorite_count": 59428,
+        "favorite_count": 59404,
         "hashtags": [],
         "id": 1199884235982561280,
         "id_str": "1199884235982561280",
         "lang": "en",
-        "retweet_count": 7698,
+        "retweet_count": 7688,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Spatchcock",
         "urls": [],
@@ -5626,7 +5626,7 @@
     },
     {
         "created_at": "Tue Nov 26 20:04:47 +0000 2019",
-        "favorite_count": 51281,
+        "favorite_count": 51261,
         "hashtags": [],
         "id": 1199418743098499072,
         "id_str": "1199418743098499072",
@@ -5664,7 +5664,7 @@
                 "url": "https://t.co/x3gbA5YTRw"
             }
         ],
-        "retweet_count": 7321,
+        "retweet_count": 7308,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Angel Baby \ud83d\udc7c Available on https://t.co/u2QQBCGZpN and https://t.co/lfX4GLwMiF https://t.co/x3gbA5YTRw",
         "urls": [
@@ -5685,7 +5685,7 @@
     },
     {
         "created_at": "Tue Nov 26 17:01:48 +0000 2019",
-        "favorite_count": 38922,
+        "favorite_count": 38901,
         "hashtags": [],
         "id": 1199372695978172416,
         "id_str": "1199372695978172416",
@@ -5723,7 +5723,7 @@
                 "url": "https://t.co/EPrQVROL3u"
             }
         ],
-        "retweet_count": 5748,
+        "retweet_count": 5737,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Angel Baby \ud83d\udc7c Available on https://t.co/u2QQBCGZpN and https://t.co/lfX4GLwMiF https://t.co/EPrQVROL3u",
         "urls": [
@@ -5744,12 +5744,12 @@
     },
     {
         "created_at": "Sun Nov 24 21:59:43 +0000 2019",
-        "favorite_count": 67015,
+        "favorite_count": 67006,
         "hashtags": [],
         "id": 1198722894760529921,
         "id_str": "1198722894760529921",
         "lang": "en",
-        "retweet_count": 8962,
+        "retweet_count": 8950,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "In the pursuit of eradicating my fears I will surrender to Time, Sufficient Effort, &amp; Divine Grace.",
         "urls": [],
@@ -5761,7 +5761,7 @@
     },
     {
         "created_at": "Wed Nov 20 23:35:35 +0000 2019",
-        "favorite_count": 22279,
+        "favorite_count": 22270,
         "hashtags": [],
         "id": 1197297468146249728,
         "id_str": "1197297468146249728",
@@ -5769,7 +5769,7 @@
         "in_reply_to_status_id": 1197297465906458624,
         "in_reply_to_user_id": 14230524,
         "lang": "en",
-        "retweet_count": 2604,
+        "retweet_count": 2601,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "... and it\u2019s the exact same mood that I have today finding out we were nominated for best compilation soundtrack, s\u2026 https://t.co/abuays3N0J",
         "truncated": true,
@@ -5787,7 +5787,7 @@
     },
     {
         "created_at": "Wed Nov 20 23:35:35 +0000 2019",
-        "favorite_count": 33668,
+        "favorite_count": 33657,
         "hashtags": [],
         "id": 1197297465906458624,
         "id_str": "1197297465906458624",
@@ -5795,7 +5795,7 @@
         "in_reply_to_status_id": 1197297398793457664,
         "in_reply_to_user_id": 14230524,
         "lang": "en",
-        "retweet_count": 3845,
+        "retweet_count": 3840,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "This is me and my engineer, and co-producer of \u201cShallow\u201d, Ben Rice on July 9, 2018 when we turned in the final mast\u2026 https://t.co/gh7IcbiE9Q",
         "truncated": true,
@@ -5813,12 +5813,12 @@
     },
     {
         "created_at": "Wed Nov 20 23:35:19 +0000 2019",
-        "favorite_count": 59043,
+        "favorite_count": 59031,
         "hashtags": [],
         "id": 1197297398793457664,
         "id_str": "1197297398793457664",
         "lang": "en",
-        "retweet_count": 6650,
+        "retweet_count": 6642,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "I am overwhelmed with joy that our work on A Star Is Born continues to be recognized over a year after it was relea\u2026 https://t.co/L173vVAeGX",
         "truncated": true,
@@ -5836,7 +5836,7 @@
     },
     {
         "created_at": "Mon Nov 18 19:48:52 +0000 2019",
-        "favorite_count": 26830,
+        "favorite_count": 26819,
         "hashtags": [
             {
                 "text": "CosmicLove"
@@ -5881,7 +5881,7 @@
                 "url": "https://t.co/Vy2BzdY9yp"
             }
         ],
-        "retweet_count": 3744,
+        "retweet_count": 3740,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "#CosmicLove #HappyHolidays get the new look at https://t.co/sWGFHvn0og or https://t.co/qKKNUf19vj !!! \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f https://t.co/Vy2BzdY9yp",
         "urls": [
@@ -5902,7 +5902,7 @@
     },
     {
         "created_at": "Mon Nov 18 19:17:00 +0000 2019",
-        "favorite_count": 33470,
+        "favorite_count": 33458,
         "hashtags": [],
         "id": 1196507616781799424,
         "id_str": "1196507616781799424",
@@ -5940,7 +5940,7 @@
                 "url": "https://t.co/XhPQ9Wlgt7"
             }
         ],
-        "retweet_count": 3990,
+        "retweet_count": 3986,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Sparkle Lipstick in Burlesque \u2728 get it now on https://t.co/u2QQBCGZpN https://t.co/XhPQ9Wlgt7",
         "urls": [
@@ -5957,7 +5957,7 @@
     },
     {
         "created_at": "Mon Nov 18 17:08:15 +0000 2019",
-        "favorite_count": 47208,
+        "favorite_count": 47206,
         "hashtags": [],
         "id": 1196475215053672459,
         "id_str": "1196475215053672459",
@@ -6023,7 +6023,7 @@
                 }
             }
         ],
-        "retweet_count": 7530,
+        "retweet_count": 7519,
         "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
         "text": "Cosmic Love Holiday Collection is out now \ud83c\udf81 @hauslabs https://t.co/0a0HDdZ6T6 https://t.co/rNiy71pT69",
         "urls": [
@@ -6047,7 +6047,7 @@
     },
     {
         "created_at": "Sun Nov 17 20:50:31 +0000 2019",
-        "favorite_count": 38103,
+        "favorite_count": 38090,
         "hashtags": [],
         "id": 1196168762786897920,
         "id_str": "1196168762786897920",
@@ -6085,7 +6085,7 @@
                 "url": "https://t.co/gu8UB4oL80"
             }
         ],
-        "retweet_count": 4601,
+        "retweet_count": 4597,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "New @hauslabs tomorrow \ud83d\udc95 Available at https://t.co/lfX4GLwMiF and @amazon https://t.co/gu8UB4oL80",
         "urls": [
@@ -6115,12 +6115,12 @@
     },
     {
         "created_at": "Thu Nov 14 04:59:42 +0000 2019",
-        "favorite_count": 38654,
+        "favorite_count": 38645,
         "hashtags": [],
         "id": 1194842320375410688,
         "id_str": "1194842320375410688",
         "lang": "en",
-        "retweet_count": 4931,
+        "retweet_count": 4925,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Part 1 of the @hauslabs Cosmic Love Holiday Collection is launching on 11/18 \ud83d\ude0d Follow @hauslabs because they're rev\u2026 https://t.co/McDwTqKg7y",
         "truncated": true,
@@ -6151,12 +6151,12 @@
     },
     {
         "created_at": "Thu Nov 14 01:13:56 +0000 2019",
-        "favorite_count": 120564,
+        "favorite_count": 120528,
         "hashtags": [],
         "id": 1194785503519768576,
         "id_str": "1194785503519768576",
         "lang": "en",
-        "retweet_count": 12210,
+        "retweet_count": 12199,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "i used to collect trolls",
         "urls": [],
@@ -6172,15 +6172,15 @@
         "id": 1194730938439094272,
         "id_str": "1194730938439094272",
         "lang": "en",
-        "retweet_count": 783,
+        "retweet_count": 782,
         "retweeted_status": {
             "created_at": "Wed Nov 13 21:23:39 +0000 2019",
-            "favorite_count": 5155,
+            "favorite_count": 5156,
             "hashtags": [],
             "id": 1194727548493737985,
             "id_str": "1194727548493737985",
             "lang": "en",
-            "retweet_count": 783,
+            "retweet_count": 782,
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "text": "We\u2019re hosting kindness activations at @Starbucks stores across the country today! Learn more at\u2026 https://t.co/kpwVxNQS1O",
             "truncated": true,
@@ -6232,7 +6232,7 @@
     },
     {
         "created_at": "Wed Nov 13 18:13:55 +0000 2019",
-        "favorite_count": 11904,
+        "favorite_count": 11892,
         "hashtags": [
             {
                 "text": "WorldKindnessDay"
@@ -6241,7 +6241,7 @@
         "id": 1194679800415150080,
         "id_str": "1194679800415150080",
         "lang": "en",
-        "retweet_count": 2022,
+        "retweet_count": 2020,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "For #WorldKindnessDay, join @starbucks and\u00a0team @btwfoundation at a store near you to celebrate the power of kindne\u2026 https://t.co/EYKwTR1tl3",
         "truncated": true,
@@ -6272,7 +6272,7 @@
     },
     {
         "created_at": "Tue Nov 12 17:01:11 +0000 2019",
-        "favorite_count": 60671,
+        "favorite_count": 60650,
         "hashtags": [],
         "id": 1194299108250406912,
         "id_str": "1194299108250406912",
@@ -6310,7 +6310,7 @@
                 "url": "https://t.co/GgZ33Rr4yx"
             }
         ],
-        "retweet_count": 6639,
+        "retweet_count": 6629,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "New @hauslabs drops next week \ud83c\udf81 https://t.co/GgZ33Rr4yx",
         "urls": [],
@@ -6329,12 +6329,12 @@
     },
     {
         "created_at": "Mon Nov 11 20:39:45 +0000 2019",
-        "favorite_count": 240780,
+        "favorite_count": 240697,
         "hashtags": [],
         "id": 1193991726043545600,
         "id_str": "1193991726043545600",
         "lang": "en",
-        "retweet_count": 34721,
+        "retweet_count": 34708,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "i don\u2019t remember ARTPOP",
         "urls": [],
@@ -6346,7 +6346,7 @@
     },
     {
         "created_at": "Mon Nov 11 04:57:48 +0000 2019",
-        "favorite_count": 88411,
+        "favorite_count": 88375,
         "hashtags": [
             {
                 "text": "NewProfilePic"
@@ -6388,7 +6388,7 @@
                 "url": "https://t.co/GBnODYfVCF"
             }
         ],
-        "retweet_count": 7256,
+        "retweet_count": 7245,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "#NewProfilePic https://t.co/GBnODYfVCF",
         "urls": [],
@@ -6400,14 +6400,14 @@
     },
     {
         "created_at": "Sun Nov 10 14:00:14 +0000 2019",
-        "favorite_count": 61113,
+        "favorite_count": 61093,
         "hashtags": [],
         "id": 1193528798244814849,
         "id_str": "1193528798244814849",
         "lang": "en",
         "quoted_status": {
             "created_at": "Sun Nov 10 12:33:15 +0000 2019",
-            "favorite_count": 18052,
+            "favorite_count": 18047,
             "hashtags": [],
             "id": 1193506906091986945,
             "id_str": "1193506906091986945",
@@ -6463,7 +6463,7 @@
                     }
                 }
             ],
-            "retweet_count": 1524,
+            "retweet_count": 1525,
             "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
             "text": "Lady Gaga performing at the NoMad Las Vegas last night! https://t.co/quX3JWT0kG",
             "urls": [],
@@ -6475,7 +6475,7 @@
         },
         "quoted_status_id": 1193506906091986945,
         "quoted_status_id_str": "1193506906091986945",
-        "retweet_count": 5636,
+        "retweet_count": 5630,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "It\u2019s 6am in Vegas. Mood. https://t.co/cy5D8m7Qvd",
         "urls": [
@@ -6492,7 +6492,7 @@
     },
     {
         "created_at": "Sat Nov 09 10:21:56 +0000 2019",
-        "favorite_count": 132058,
+        "favorite_count": 132031,
         "hashtags": [],
         "id": 1193111473565790213,
         "id_str": "1193111473565790213",
@@ -6530,7 +6530,7 @@
                 "url": "https://t.co/PuLlEPznTp"
             }
         ],
-        "retweet_count": 14887,
+        "retweet_count": 14884,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "https://t.co/PuLlEPznTp",
         "urls": [],
@@ -6542,19 +6542,19 @@
     },
     {
         "created_at": "Fri Nov 08 17:12:54 +0000 2019",
-        "favorite_count": 19380,
+        "favorite_count": 19372,
         "hashtags": [],
         "id": 1192852506096762881,
         "id_str": "1192852506096762881",
         "lang": "en",
         "quoted_status": {
             "created_at": "Fri Nov 08 13:49:30 +0000 2019",
-            "favorite_count": 4517,
+            "favorite_count": 4515,
             "hashtags": [],
             "id": 1192801320463425536,
             "id_str": "1192801320463425536",
             "lang": "en",
-            "retweet_count": 980,
+            "retweet_count": 979,
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "text": "One of @oprah's Favorite Things this year was hand-delivered by @ladygaga herself: @hauslabs\u2019 glam attack holiday s\u2026 https://t.co/6w5998Ea3C",
             "truncated": true,
@@ -6591,7 +6591,7 @@
         },
         "quoted_status_id": 1192801320463425536,
         "quoted_status_id_str": "1192801320463425536",
-        "retweet_count": 2790,
+        "retweet_count": 2787,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Thank you @Oprah @OprahMagazine for choosing @hauslabs as one of your 2019 favorite things! \ud83d\udc8b\u2026 https://t.co/68zcMLDhpn",
         "truncated": true,
@@ -6628,7 +6628,7 @@
     },
     {
         "created_at": "Fri Nov 08 06:39:04 +0000 2019",
-        "favorite_count": 48833,
+        "favorite_count": 48819,
         "hashtags": [],
         "id": 1192692996925317120,
         "id_str": "1192692996925317120",
@@ -6666,7 +6666,7 @@
                 "url": "https://t.co/MR3nTlE8EA"
             }
         ],
-        "retweet_count": 4412,
+        "retweet_count": 4408,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "https://t.co/MR3nTlE8EA",
         "urls": [],
@@ -6678,7 +6678,7 @@
     },
     {
         "created_at": "Thu Nov 07 02:14:55 +0000 2019",
-        "favorite_count": 132167,
+        "favorite_count": 132128,
         "hashtags": [],
         "id": 1192264132633878528,
         "id_str": "1192264132633878528",
@@ -6716,7 +6716,7 @@
                 "url": "https://t.co/bFobAb14Wp"
             }
         ],
-        "retweet_count": 9190,
+        "retweet_count": 9182,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "https://t.co/bFobAb14Wp",
         "urls": [],
@@ -6728,12 +6728,12 @@
     },
     {
         "created_at": "Wed Nov 06 13:03:42 +0000 2019",
-        "favorite_count": 45554,
+        "favorite_count": 45547,
         "hashtags": [],
         "id": 1192065018029756416,
         "id_str": "1192065018029756416",
         "lang": "en",
-        "retweet_count": 7540,
+        "retweet_count": 7532,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "On the cover of @ELLEmagazine in @hauslabs, interviewed by @Oprah about mental health and the importance of kindnes\u2026 https://t.co/R4FVhytpMr",
         "truncated": true,
@@ -6770,7 +6770,7 @@
     },
     {
         "created_at": "Tue Nov 05 17:00:34 +0000 2019",
-        "favorite_count": 19062,
+        "favorite_count": 19045,
         "hashtags": [],
         "id": 1191762240656904192,
         "id_str": "1191762240656904192",
@@ -6808,7 +6808,7 @@
                 "url": "https://t.co/RWQPBDlAaK"
             }
         ],
-        "retweet_count": 2145,
+        "retweet_count": 2144,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Build your own three piece collection now on https://t.co/lfX4GLwMiF \ud83d\udc8b https://t.co/RWQPBDlAaK",
         "urls": [
@@ -6825,12 +6825,12 @@
     },
     {
         "created_at": "Sun Nov 03 22:17:57 +0000 2019",
-        "favorite_count": 161660,
+        "favorite_count": 161595,
         "hashtags": [],
         "id": 1191117337924997120,
         "id_str": "1191117337924997120",
         "lang": "en",
-        "retweet_count": 17554,
+        "retweet_count": 17541,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "can u eat too much chinese broccoli",
         "urls": [],
@@ -6842,12 +6842,12 @@
     },
     {
         "created_at": "Thu Oct 31 19:25:49 +0000 2019",
-        "favorite_count": 133567,
+        "favorite_count": 133497,
         "hashtags": [],
         "id": 1189986852448550912,
         "id_str": "1189986852448550912",
         "lang": "en",
-        "retweet_count": 13296,
+        "retweet_count": 13277,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "I\u2019m gonna start lip-syncing",
         "urls": [],
@@ -6859,7 +6859,7 @@
     },
     {
         "created_at": "Wed Oct 30 20:00:14 +0000 2019",
-        "favorite_count": 85981,
+        "favorite_count": 85948,
         "hashtags": [
             {
                 "text": "BornToDare"
@@ -6904,7 +6904,7 @@
                 "url": "https://t.co/MEJMKItaDJ"
             }
         ],
-        "retweet_count": 7420,
+        "retweet_count": 7415,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "#BornToDare #TudorWatch https://t.co/MEJMKItaDJ",
         "urls": [],
@@ -6916,7 +6916,7 @@
     },
     {
         "created_at": "Wed Oct 30 17:11:21 +0000 2019",
-        "favorite_count": 36399,
+        "favorite_count": 36398,
         "hashtags": [
             {
                 "text": "TudorWatch"
@@ -6989,7 +6989,7 @@
                 }
             }
         ],
-        "retweet_count": 6099,
+        "retweet_count": 6091,
         "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
         "text": "David Beckham and me for #TudorWatch #BornToDare https://t.co/saYCnUsVON",
         "urls": [],
@@ -7001,7 +7001,7 @@
     },
     {
         "created_at": "Wed Oct 30 02:09:25 +0000 2019",
-        "favorite_count": 156703,
+        "favorite_count": 156653,
         "hashtags": [],
         "id": 1189363646943526913,
         "id_str": "1189363646943526913",
@@ -7039,7 +7039,7 @@
                 "url": "https://t.co/bQF65M4Bup"
             }
         ],
-        "retweet_count": 22286,
+        "retweet_count": 22275,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "https://t.co/bQF65M4Bup",
         "urls": [],
@@ -7051,12 +7051,12 @@
     },
     {
         "created_at": "Tue Oct 29 19:34:21 +0000 2019",
-        "favorite_count": 155554,
+        "favorite_count": 155489,
         "hashtags": [],
         "id": 1189264223827832832,
         "id_str": "1189264223827832832",
         "lang": "en",
-        "retweet_count": 19753,
+        "retweet_count": 19735,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "my only hobbies are music and art but theyre not hobbies",
         "urls": [],
@@ -7068,12 +7068,12 @@
     },
     {
         "created_at": "Sat Oct 26 21:06:34 +0000 2019",
-        "favorite_count": 228955,
+        "favorite_count": 228878,
         "hashtags": [],
         "id": 1188200270649421824,
         "id_str": "1188200270649421824",
         "lang": "en",
-        "retweet_count": 25188,
+        "retweet_count": 25169,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "I just took a DNA test turns out I\u2019m 100% ITALIAN @lizzo",
         "urls": [],
@@ -7092,12 +7092,12 @@
     },
     {
         "created_at": "Fri Oct 25 01:38:30 +0000 2019",
-        "favorite_count": 375366,
+        "favorite_count": 375183,
         "hashtags": [],
         "id": 1187543926678228993,
         "id_str": "1187543926678228993",
         "lang": "en",
-        "retweet_count": 53095,
+        "retweet_count": 53067,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Fame is prison",
         "urls": [],
@@ -7109,7 +7109,7 @@
     },
     {
         "created_at": "Thu Oct 24 20:10:25 +0000 2019",
-        "favorite_count": 28698,
+        "favorite_count": 28686,
         "hashtags": [],
         "id": 1187461361892085760,
         "id_str": "1187461361892085760",
@@ -7175,7 +7175,7 @@
                 }
             }
         ],
-        "retweet_count": 4121,
+        "retweet_count": 4115,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Thank you @AMAs \ud83d\udc95 https://t.co/bVKT0Kt6hP https://t.co/F8n5isVLl0",
         "urls": [
@@ -7199,7 +7199,7 @@
     },
     {
         "created_at": "Wed Oct 23 16:12:40 +0000 2019",
-        "favorite_count": 47988,
+        "favorite_count": 47963,
         "hashtags": [
             {
                 "text": "TudorWatch"
@@ -7272,7 +7272,7 @@
                 }
             }
         ],
-        "retweet_count": 6438,
+        "retweet_count": 6427,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "David Beckham and me for #TudorWatch. Full video out 10/30 #BornToDare https://t.co/AkpKqEcQfy",
         "urls": [],
@@ -7284,7 +7284,7 @@
     },
     {
         "created_at": "Wed Oct 23 04:08:36 +0000 2019",
-        "favorite_count": 27471,
+        "favorite_count": 27447,
         "hashtags": [],
         "id": 1186856925717090304,
         "id_str": "1186856925717090304",
@@ -7311,12 +7311,12 @@
     },
     {
         "created_at": "Tue Oct 22 02:23:18 +0000 2019",
-        "favorite_count": 21100,
+        "favorite_count": 21096,
         "hashtags": [],
         "id": 1186468038725365761,
         "id_str": "1186468038725365761",
         "lang": "en",
-        "retweet_count": 2184,
+        "retweet_count": 2181,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Thank you @NYAMNYC for honoring @BTWFoundation with your Bold and Brave award for our work in supporting the mental\u2026 https://t.co/CG21XvRoYQ",
         "truncated": true,
@@ -7347,7 +7347,7 @@
     },
     {
         "created_at": "Sun Oct 20 20:28:32 +0000 2019",
-        "favorite_count": 41028,
+        "favorite_count": 41015,
         "hashtags": [
             {
                 "text": "GagaVegas"
@@ -7417,7 +7417,7 @@
                 }
             }
         ],
-        "retweet_count": 4303,
+        "retweet_count": 4297,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Jazz &amp; Piano at @ParkTheaterLV tonight \ud83c\udfba #GagaVegas https://t.co/L4GkruzBR8",
         "urls": [],
@@ -7429,12 +7429,12 @@
     },
     {
         "created_at": "Sat Oct 19 20:17:18 +0000 2019",
-        "favorite_count": 137437,
+        "favorite_count": 137346,
         "hashtags": [],
         "id": 1185651155201753088,
         "id_str": "1185651155201753088",
         "lang": "hi",
-        "retweet_count": 35477,
+        "retweet_count": 35451,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Lokah Samastah Sukhino Bhavantu",
         "urls": [],
@@ -7446,7 +7446,7 @@
     },
     {
         "created_at": "Fri Oct 18 23:25:40 +0000 2019",
-        "favorite_count": 155154,
+        "favorite_count": 155102,
         "hashtags": [],
         "id": 1185336170890219520,
         "id_str": "1185336170890219520",
@@ -7484,7 +7484,7 @@
                 "url": "https://t.co/zMft1eArFe"
             }
         ],
-        "retweet_count": 16955,
+        "retweet_count": 16941,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "When they have to X-Ray almost your entire body...Just Dance. Gonna be ok\ud83d\udc4c https://t.co/zMft1eArFe",
         "urls": [],
@@ -7496,7 +7496,7 @@
     },
     {
         "created_at": "Fri Oct 18 20:13:00 +0000 2019",
-        "favorite_count": 21350,
+        "favorite_count": 21344,
         "hashtags": [
             {
                 "text": "GagaVegas"
@@ -7566,7 +7566,7 @@
                 }
             }
         ],
-        "retweet_count": 2544,
+        "retweet_count": 2540,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "#GagaVegas merch is available now \u26a1\ufe0f https://t.co/Q5CJYNiYkZ https://t.co/tiTZIIZyZi",
         "urls": [
@@ -7583,12 +7583,12 @@
     },
     {
         "created_at": "Wed Oct 16 20:45:42 +0000 2019",
-        "favorite_count": 527885,
+        "favorite_count": 527697,
         "hashtags": [],
         "id": 1184571138870894592,
         "id_str": "1184571138870894592",
         "lang": "en",
-        "retweet_count": 86872,
+        "retweet_count": 86803,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": ". @Ninja who are you",
         "urls": [],
@@ -7607,12 +7607,12 @@
     },
     {
         "created_at": "Tue Oct 15 18:29:44 +0000 2019",
-        "favorite_count": 1002598,
+        "favorite_count": 1002231,
         "hashtags": [],
         "id": 1184174532124266496,
         "id_str": "1184174532124266496",
         "lang": "en",
-        "retweet_count": 230442,
+        "retweet_count": 230301,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "What\u2019s fortnight",
         "urls": [],
@@ -7624,12 +7624,12 @@
     },
     {
         "created_at": "Sun Oct 13 20:15:17 +0000 2019",
-        "favorite_count": 120508,
+        "favorite_count": 120471,
         "hashtags": [],
         "id": 1183476319109046273,
         "id_str": "1183476319109046273",
         "lang": "en",
-        "retweet_count": 35667,
+        "retweet_count": 35648,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Today is a new day. Look back, but don\u2019t stare.",
         "urls": [],
@@ -7645,7 +7645,7 @@
         "id": 1181603147778707457,
         "id_str": "1181603147778707457",
         "lang": "en",
-        "retweet_count": 2090,
+        "retweet_count": 2089,
         "retweeted_status": {
             "created_at": "Tue Oct 08 16:00:43 +0000 2019",
             "favorite_count": 11955,
@@ -7653,7 +7653,7 @@
             "id": 1181600316011290631,
             "id_str": "1181600316011290631",
             "lang": "en",
-            "retweet_count": 2090,
+            "retweet_count": 2089,
             "source": "<a href=\"http://www.falcon.io\" rel=\"nofollow\">Falcon Social Media Management </a>",
             "text": ".@ladygaga wants to meet YOU in Las Vegas and hook you up with VIP seats to both of her shows and an exclusive back\u2026 https://t.co/0XKA3R5d1P",
             "truncated": true,
@@ -7700,7 +7700,7 @@
     },
     {
         "created_at": "Sat Oct 05 17:01:25 +0000 2019",
-        "favorite_count": 393287,
+        "favorite_count": 393139,
         "hashtags": [],
         "id": 1180528431110320129,
         "id_str": "1180528431110320129",
@@ -7738,7 +7738,7 @@
                 "url": "https://t.co/hdFns6xZ76"
             }
         ],
-        "retweet_count": 42567,
+        "retweet_count": 42528,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "A year ago, A Star was Born, and here we are 6 times pink platinum https://t.co/hdFns6xZ76",
         "urls": [],
@@ -7750,12 +7750,12 @@
     },
     {
         "created_at": "Tue Oct 01 17:38:50 +0000 2019",
-        "favorite_count": 614130,
+        "favorite_count": 613864,
         "hashtags": [],
         "id": 1179088293939445760,
         "id_str": "1179088293939445760",
         "lang": "en",
-        "retweet_count": 77715,
+        "retweet_count": 77678,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "I\u2019m calling my next album ADELE.",
         "urls": [],
@@ -7767,12 +7767,12 @@
     },
     {
         "created_at": "Sun Sep 29 00:19:13 +0000 2019",
-        "favorite_count": 255020,
+        "favorite_count": 254917,
         "hashtags": [],
         "id": 1178101892406071297,
         "id_str": "1178101892406071297",
         "lang": "en",
-        "retweet_count": 38758,
+        "retweet_count": 38733,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "I didn\u2019t do this for fame, I did it for impact.",
         "urls": [],
@@ -7784,7 +7784,7 @@
     },
     {
         "created_at": "Wed Sep 25 18:15:44 +0000 2019",
-        "favorite_count": 54740,
+        "favorite_count": 54723,
         "hashtags": [],
         "id": 1176923252922302464,
         "id_str": "1176923252922302464",
@@ -7850,7 +7850,7 @@
                 }
             }
         ],
-        "retweet_count": 5090,
+        "retweet_count": 5085,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "https://t.co/uzNEZGrfuf https://t.co/XMZpVTHaKp",
         "urls": [
@@ -7867,12 +7867,12 @@
     },
     {
         "created_at": "Fri Sep 20 20:30:32 +0000 2019",
-        "favorite_count": 145372,
+        "favorite_count": 145306,
         "hashtags": [],
         "id": 1175145238794391552,
         "id_str": "1175145238794391552",
         "lang": "en",
-        "retweet_count": 17707,
+        "retweet_count": 17695,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Me: I need a cigarette.\nMe: No I\u2019ll just vape.\nMind: Locate file. DELETE.",
         "urls": [],
@@ -7884,12 +7884,12 @@
     },
     {
         "created_at": "Thu Sep 19 21:39:32 +0000 2019",
-        "favorite_count": 25558,
+        "favorite_count": 25537,
         "hashtags": [],
         "id": 1174800214575595522,
         "id_str": "1174800214575595522",
         "lang": "en",
-        "retweet_count": 2947,
+        "retweet_count": 2943,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "We created the EYE ARMOR kit with Phyllis Cohen at @face_lace so everyone could feel confident creating an easy win\u2026 https://t.co/PdOTwTPsCP",
         "truncated": true,
@@ -7914,7 +7914,7 @@
     },
     {
         "created_at": "Wed Sep 18 18:55:08 +0000 2019",
-        "favorite_count": 61297,
+        "favorite_count": 61273,
         "hashtags": [
             {
                 "text": "AllureBestOfBeauty"
@@ -7956,7 +7956,7 @@
                 "url": "https://t.co/IKOICgqJiS"
             }
         ],
-        "retweet_count": 8145,
+        "retweet_count": 8137,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "For @Allure_magazine\u2019s #AllureBestOfBeauty issue in @hauslabs \ud83d\udc84 https://t.co/IKOICgqJiS",
         "urls": [],
@@ -7981,7 +7981,7 @@
     },
     {
         "created_at": "Tue Sep 17 17:22:50 +0000 2019",
-        "favorite_count": 72795,
+        "favorite_count": 72767,
         "hashtags": [],
         "id": 1174010837658292224,
         "id_str": "1174010837658292224",
@@ -8050,7 +8050,7 @@
                 "url": "https://t.co/XsGc3dvIsy"
             }
         ],
-        "retweet_count": 9368,
+        "retweet_count": 9359,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": ".@hauslabs is out now \ud83d\udd2c\ud83e\uddea\ud83d\udc8b https://t.co/lfX4GLwMiF https://t.co/XsGc3dvIsy",
         "urls": [
@@ -8074,12 +8074,12 @@
     },
     {
         "created_at": "Tue Sep 17 02:12:18 +0000 2019",
-        "favorite_count": 224515,
+        "favorite_count": 224409,
         "hashtags": [],
         "id": 1173781695910170625,
         "id_str": "1173781695910170625",
         "lang": "en",
-        "retweet_count": 39487,
+        "retweet_count": 39462,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "I am so snatched right now I don\u2019t know what to do",
         "urls": [],
@@ -8091,7 +8091,7 @@
     },
     {
         "created_at": "Mon Sep 16 18:48:44 +0000 2019",
-        "favorite_count": 57623,
+        "favorite_count": 57616,
         "hashtags": [
             {
                 "text": "BATTLEFORYOURLIFE"
@@ -8133,7 +8133,7 @@
                 "url": "https://t.co/irMSmDwgV2"
             }
         ],
-        "retweet_count": 7261,
+        "retweet_count": 7250,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Tonight we celebrate the official launch of @hauslabs #BATTLEFORYOURLIFE \ud83d\udc84 https://t.co/irMSmDwgV2",
         "urls": [],
@@ -8152,7 +8152,7 @@
     },
     {
         "created_at": "Sat Sep 14 16:00:52 +0000 2019",
-        "favorite_count": 53874,
+        "favorite_count": 53868,
         "hashtags": [],
         "id": 1172903047132934144,
         "id_str": "1172903047132934144",
@@ -8218,7 +8218,7 @@
                 }
             }
         ],
-        "retweet_count": 8269,
+        "retweet_count": 8261,
         "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
         "text": "Only a few more days until you'll have your hands on @hauslabs! \ud83e\udd17 https://t.co/Hl16c28irr",
         "urls": [],
@@ -8237,7 +8237,7 @@
     },
     {
         "created_at": "Fri Sep 13 22:27:25 +0000 2019",
-        "favorite_count": 9246,
+        "favorite_count": 9241,
         "hashtags": [],
         "id": 1172637937785196544,
         "id_str": "1172637937785196544",
@@ -8281,12 +8281,12 @@
     },
     {
         "created_at": "Fri Sep 13 22:26:06 +0000 2019",
-        "favorite_count": 39465,
+        "favorite_count": 39459,
         "hashtags": [],
         "id": 1172637604237283328,
         "id_str": "1172637604237283328",
         "lang": "en",
-        "retweet_count": 6963,
+        "retweet_count": 6961,
         "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
         "text": ".@hauslabs is coming, and soon you'll be able to order individual shades of each product in addition to our collect\u2026 https://t.co/NSFKH7rKZp",
         "truncated": true,
@@ -8311,7 +8311,7 @@
     },
     {
         "created_at": "Thu Sep 12 11:25:28 +0000 2019",
-        "favorite_count": 47212,
+        "favorite_count": 47199,
         "hashtags": [],
         "id": 1172108963111784450,
         "id_str": "1172108963111784450",
@@ -8349,7 +8349,7 @@
                 "url": "https://t.co/B6tmU5rmj2"
             }
         ],
-        "retweet_count": 7662,
+        "retweet_count": 7656,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Cover of @Allure_magazine\u2019s Best of Beauty issue wearing @hauslabs! \ud83e\udd18 https://t.co/VI555g6v2F https://t.co/B6tmU5rmj2",
         "urls": [
@@ -8379,12 +8379,12 @@
     },
     {
         "created_at": "Wed Sep 11 18:09:09 +0000 2019",
-        "favorite_count": 117013,
+        "favorite_count": 116989,
         "hashtags": [],
         "id": 1171848165793746945,
         "id_str": "1171848165793746945",
         "lang": "en",
-        "retweet_count": 15943,
+        "retweet_count": 15933,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Me: \ud83d\ude2d\nBloodpop: you\u2019re the one who wanted to be a pop star",
         "urls": [],
@@ -8396,7 +8396,7 @@
     },
     {
         "created_at": "Mon Sep 09 16:10:41 +0000 2019",
-        "favorite_count": 49959,
+        "favorite_count": 49954,
         "hashtags": [
             {
                 "text": "BeKind21"
@@ -8438,7 +8438,7 @@
                 "url": "https://t.co/O4w0IxQgEH"
             }
         ],
-        "retweet_count": 5202,
+        "retweet_count": 5195,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "#BeKind21 \ud83d\udc95 https://t.co/GyMC5p1fzi @btwfoundation https://t.co/O4w0IxQgEH",
         "urls": [
@@ -8462,12 +8462,12 @@
     },
     {
         "created_at": "Sun Aug 25 00:36:46 +0000 2019",
-        "favorite_count": 268674,
+        "favorite_count": 268558,
         "hashtags": [],
         "id": 1165422733745721344,
         "id_str": "1165422733745721344",
         "lang": "und",
-        "retweet_count": 65390,
+        "retweet_count": 65354,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "f",
         "urls": [],
@@ -8479,7 +8479,7 @@
     },
     {
         "created_at": "Sat Aug 24 01:39:13 +0000 2019",
-        "favorite_count": 101480,
+        "favorite_count": 101442,
         "hashtags": [],
         "id": 1165076059705860096,
         "id_str": "1165076059705860096",
@@ -8517,7 +8517,7 @@
                 "url": "https://t.co/AKYwNOXG5H"
             }
         ],
-        "retweet_count": 9116,
+        "retweet_count": 9111,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Franch Toast @hauslabs https://t.co/AKYwNOXG5H",
         "urls": [],
@@ -8536,7 +8536,7 @@
     },
     {
         "created_at": "Fri Aug 16 03:45:07 +0000 2019",
-        "favorite_count": 309925,
+        "favorite_count": 309791,
         "hashtags": [],
         "id": 1162208642478661632,
         "id_str": "1162208642478661632",
@@ -8574,7 +8574,7 @@
                 "url": "https://t.co/oGLRdkbZfw"
             }
         ],
-        "retweet_count": 62224,
+        "retweet_count": 62198,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "https://t.co/oGLRdkbZfw",
         "urls": [],
@@ -8594,10 +8594,10 @@
         "id": 1161696663779495936,
         "id_str": "1161696663779495936",
         "lang": "en",
-        "retweet_count": 1051,
+        "retweet_count": 1050,
         "retweeted_status": {
             "created_at": "Wed Aug 14 14:08:12 +0000 2019",
-            "favorite_count": 5071,
+            "favorite_count": 5069,
             "hashtags": [
                 {
                     "text": "BeKind21"
@@ -8606,7 +8606,7 @@
             "id": 1161640667707260928,
             "id_str": "1161640667707260928",
             "lang": "en",
-            "retweet_count": 1051,
+            "retweet_count": 1050,
             "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
             "text": "#BeKind21 is back and we couldn't be more excited! Join us + our wonderful partners as we spend the next few weeks\u2026 https://t.co/jdIxTMPt2O",
             "truncated": true,
@@ -8640,12 +8640,12 @@
     },
     {
         "created_at": "Fri Aug 09 17:04:15 +0000 2019",
-        "favorite_count": 18730,
+        "favorite_count": 18727,
         "hashtags": [],
         "id": 1159873036255817728,
         "id_str": "1159873036255817728",
         "lang": "en",
-        "retweet_count": 3560,
+        "retweet_count": 3557,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "A note to Dayton, El Paso, and Gilroy https://t.co/W7YG83XsZp",
         "urls": [
@@ -8673,7 +8673,7 @@
         "retweet_count": 2630,
         "retweeted_status": {
             "created_at": "Mon Jul 29 18:19:44 +0000 2019",
-            "favorite_count": 15957,
+            "favorite_count": 15955,
             "hashtags": [
                 {
                     "text": "VMAs"
@@ -8729,7 +8729,7 @@
     },
     {
         "created_at": "Tue Jul 23 19:08:32 +0000 2019",
-        "favorite_count": 42964,
+        "favorite_count": 42962,
         "hashtags": [],
         "id": 1153743718748315648,
         "id_str": "1153743718748315648",
@@ -8795,7 +8795,7 @@
                 }
             }
         ],
-        "retweet_count": 6663,
+        "retweet_count": 6657,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Thank u @MTV @vmas for the 2 nominations for \u201cShallow\u201d! \ud83d\udc9d https://t.co/d089doTXFv https://t.co/KVXB9JI4lg",
         "urls": [
@@ -8825,7 +8825,7 @@
     },
     {
         "created_at": "Tue Jul 16 04:09:07 +0000 2019",
-        "favorite_count": 42594,
+        "favorite_count": 42585,
         "hashtags": [
             {
                 "text": "HAUSLABORATORIES"
@@ -8867,7 +8867,7 @@
                 "url": "https://t.co/B7uWRwcBlu"
             }
         ],
-        "retweet_count": 4847,
+        "retweet_count": 4843,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "To the launch of #HAUSLABORATORIES. Cheers to a wonderful day 1 \ud83e\udd42  @hauslabs https://t.co/B7uWRwcBlu",
         "urls": [],
@@ -8886,12 +8886,12 @@
     },
     {
         "created_at": "Mon Jul 15 21:59:21 +0000 2019",
-        "favorite_count": 26412,
+        "favorite_count": 26408,
         "hashtags": [],
         "id": 1150887602913853440,
         "id_str": "1150887602913853440",
         "lang": "en",
-        "retweet_count": 3636,
+        "retweet_count": 3631,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Pre-order @hauslabs now \ud83d\udc8b \nAnd watch me on @Amazon Live! now while Sarah Tanno and I walk you through all of our pr\u2026 https://t.co/THRi9rArZS",
         "truncated": true,
@@ -8922,7 +8922,7 @@
     },
     {
         "created_at": "Mon Jul 15 07:02:23 +0000 2019",
-        "favorite_count": 48373,
+        "favorite_count": 48366,
         "hashtags": [],
         "id": 1150661875329380353,
         "id_str": "1150661875329380353",
@@ -8960,7 +8960,7 @@
                 "url": "https://t.co/ed2NJGhehJ"
             }
         ],
-        "retweet_count": 6146,
+        "retweet_count": 6140,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Pre-order @hauslabs now \ud83d\udc8b https://t.co/lfX4GLfbr7 https://t.co/ed2NJGhehJ",
         "urls": [
@@ -8984,7 +8984,7 @@
     },
     {
         "created_at": "Sun Jul 14 19:25:07 +0000 2019",
-        "favorite_count": 28480,
+        "favorite_count": 28475,
         "hashtags": [
             {
                 "text": "hauslaboratories"
@@ -9026,7 +9026,7 @@
                 "url": "https://t.co/74cOp5JWzN"
             }
         ],
-        "retweet_count": 3836,
+        "retweet_count": 3834,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Tomorrow we welcome you to our HAUS. #hauslaboratories goes up for pre-order at midnight PT \ud83d\udc8b @hauslabs https://t.co/74cOp5JWzN",
         "urls": [],
@@ -9045,7 +9045,7 @@
     },
     {
         "created_at": "Fri Jul 12 19:09:25 +0000 2019",
-        "favorite_count": 24215,
+        "favorite_count": 24204,
         "hashtags": [],
         "id": 1149757674092785664,
         "id_str": "1149757674092785664",
@@ -9083,7 +9083,7 @@
                 "url": "https://t.co/4VePn5PPhZ"
             }
         ],
-        "retweet_count": 3018,
+        "retweet_count": 3015,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Introducing Kitty in @hauslabs Glam Attack in \u26d3CHAINED BALLERINA\u26d3 on her eyes and lips! https://t.co/4VePn5PPhZ",
         "urls": [],
@@ -9102,7 +9102,7 @@
     },
     {
         "created_at": "Thu Jul 11 15:02:49 +0000 2019",
-        "favorite_count": 15655,
+        "favorite_count": 15651,
         "hashtags": [],
         "id": 1149333227670085632,
         "id_str": "1149333227670085632",
@@ -9110,7 +9110,7 @@
         "in_reply_to_status_id": 1149333002717020165,
         "in_reply_to_user_id": 14230524,
         "lang": "en",
-        "retweet_count": 2167,
+        "retweet_count": 2166,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Here are all of the HAUS OF METALHEAD shades on different skin tones. Follow @hauslabs to see the rest &amp; pre-order\u2026 https://t.co/dUQrYTe0Fw",
         "truncated": true,
@@ -9135,7 +9135,7 @@
     },
     {
         "created_at": "Thu Jul 11 15:01:56 +0000 2019",
-        "favorite_count": 32795,
+        "favorite_count": 32786,
         "hashtags": [],
         "id": 1149333002717020165,
         "id_str": "1149333002717020165",
@@ -9201,7 +9201,7 @@
                 }
             }
         ],
-        "retweet_count": 5703,
+        "retweet_count": 5698,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Modeling the HAUS OF METALHEAD collection from @hauslabs in a look created by Sarah Tanno! https://t.co/wDBqaTAw8Y",
         "urls": [],
@@ -9220,7 +9220,7 @@
     },
     {
         "created_at": "Tue Jul 09 19:06:04 +0000 2019",
-        "favorite_count": 132877,
+        "favorite_count": 132847,
         "hashtags": [],
         "id": 1148669668019884038,
         "id_str": "1148669668019884038",
@@ -9289,7 +9289,7 @@
                 "url": "https://t.co/95DMSYVlaZ"
             }
         ],
-        "retweet_count": 25737,
+        "retweet_count": 25722,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "\ud83d\udc8b @hauslabs https://t.co/95DMSYVlaZ",
         "urls": [],
@@ -9308,7 +9308,7 @@
     },
     {
         "created_at": "Tue Jul 09 18:07:46 +0000 2019",
-        "favorite_count": 88068,
+        "favorite_count": 88062,
         "hashtags": [
             {
                 "text": "BATTLEFORYOURLIFE"
@@ -9378,7 +9378,7 @@
                 }
             }
         ],
-        "retweet_count": 24859,
+        "retweet_count": 24840,
         "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
         "text": "HAUS LABORATORIES\nPRE-ORDER AVAILABLE 7/15 \n@HAUSLABS\n#BATTLEFORYOURLIFE\nMUSIC BY @BLOODPOP\u00ae &amp; @IAMTCHAMI https://t.co/i7zIVkYRB1",
         "urls": [],
@@ -9409,7 +9409,7 @@
     },
     {
         "created_at": "Fri Jun 28 17:03:59 +0000 2019",
-        "favorite_count": 18080,
+        "favorite_count": 18079,
         "hashtags": [],
         "id": 1144652675809566720,
         "id_str": "1144652675809566720",
@@ -9432,14 +9432,14 @@
     },
     {
         "created_at": "Thu Jun 27 17:02:07 +0000 2019",
-        "favorite_count": 13131,
+        "favorite_count": 13123,
         "hashtags": [],
         "id": 1144289818131648512,
         "id_str": "1144289818131648512",
         "lang": "en",
         "quoted_status": {
             "created_at": "Wed Jun 26 17:20:21 +0000 2019",
-            "favorite_count": 740,
+            "favorite_count": 739,
             "hashtags": [
                 {
                     "text": "TheNomadHotelLV"
@@ -9473,7 +9473,7 @@
         },
         "quoted_status_id": 1143932018377367552,
         "quoted_status_id_str": "1143932018377367552",
-        "retweet_count": 1560,
+        "retweet_count": 1558,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "The whole gang is coming back to Vegas \ud83e\udd29 And if you\u2019re a Little Monster you have a special pre-sale code for Brian\u2019\u2026 https://t.co/kRMiLsp6g8",
         "truncated": true,
@@ -9503,7 +9503,7 @@
         "id": 1143997167389904896,
         "id_str": "1143997167389904896",
         "lang": "en",
-        "retweet_count": 2771,
+        "retweet_count": 2770,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "Celebrate #Pride &amp; donate to #BTWFxStarbucks \ud83c\udf08 Ur donation means helping young people feel supported for WHO THEY A\u2026 https://t.co/4w9sg8mlPT",
         "truncated": true,
@@ -9529,10 +9529,10 @@
         "id": 1143580262745296896,
         "id_str": "1143580262745296896",
         "lang": "en",
-        "retweet_count": 2930,
+        "retweet_count": 2928,
         "retweeted_status": {
             "created_at": "Tue Jun 25 15:11:39 +0000 2019",
-            "favorite_count": 18254,
+            "favorite_count": 18249,
             "hashtags": [
                 {
                     "text": "AStarIsBorn"
@@ -9541,7 +9541,7 @@
             "id": 1143537245703401472,
             "id_str": "1143537245703401472",
             "lang": "en",
-            "retweet_count": 2930,
+            "retweet_count": 2928,
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "text": "Thank you to all the fans for making the #AStarIsBorn soundtrack Double Platinum, and the #1 selling album in the U\u2026 https://t.co/rqrHOmH6MC",
             "truncated": true,
@@ -9575,12 +9575,12 @@
     },
     {
         "created_at": "Sat Jun 22 17:00:49 +0000 2019",
-        "favorite_count": 16316,
+        "favorite_count": 16309,
         "hashtags": [],
         "id": 1142477552889425920,
         "id_str": "1142477552889425920",
         "lang": "en",
-        "retweet_count": 2259,
+        "retweet_count": 2258,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "LADY GAGA ENIGMA / JAZZ &amp; PIANO\nTHE LAS VEGAS RESIDENCY AT @PARKTHEATERLV\nLITTLE MONSTERS PRE-SALE NOW\u2026 https://t.co/O2VXFKDytw",
         "truncated": true,
@@ -9598,12 +9598,12 @@
     },
     {
         "created_at": "Fri Jun 21 13:05:40 +0000 2019",
-        "favorite_count": 21528,
+        "favorite_count": 21525,
         "hashtags": [],
         "id": 1142055985705439233,
         "id_str": "1142055985705439233",
         "lang": "en",
-        "retweet_count": 3801,
+        "retweet_count": 3798,
         "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
         "text": "LADY GAGA ENIGMA / JAZZ &amp; PIANO\nTHE LAS VEGAS RESIDENCY AT @PARKTHEATERLV\nDECEMBER 2019 + SPRING 2020 TICKETS\nLITTL\u2026 https://t.co/48Fz1TrJeZ",
         "truncated": true,
@@ -9629,10 +9629,10 @@
         "id": 1141828112092712961,
         "id_str": "1141828112092712961",
         "lang": "en",
-        "retweet_count": 776,
+        "retweet_count": 775,
         "retweeted_status": {
             "created_at": "Mon Jun 17 15:45:13 +0000 2019",
-            "favorite_count": 4183,
+            "favorite_count": 4184,
             "hashtags": [
                 {
                     "text": "Pride"
@@ -9641,7 +9641,7 @@
             "id": 1140646589792493571,
             "id_str": "1140646589792493571",
             "lang": "en",
-            "retweet_count": 776,
+            "retweet_count": 775,
             "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
             "text": "For #Pride, The @Starbucks Foundation will match all your donations to Born This Way Foundation - up to $250,000! -\u2026 https://t.co/qZfXAE0Th8",
             "truncated": true,
@@ -9692,15 +9692,15 @@
         "id": 1141407213208010752,
         "id_str": "1141407213208010752",
         "lang": "en",
-        "retweet_count": 2360,
+        "retweet_count": 2361,
         "retweeted_status": {
             "created_at": "Wed Jun 19 16:46:15 +0000 2019",
-            "favorite_count": 9119,
+            "favorite_count": 9114,
             "hashtags": [],
             "id": 1141386722665742338,
             "id_str": "1141386722665742338",
             "lang": "en",
-            "retweet_count": 2360,
+            "retweet_count": 2361,
             "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
             "text": "Thousands of iconic music videos are coming YouTube Music in HD for the first time. Watch @ladygaga\u2019s Bad Romance n\u2026 https://t.co/i93NYsbut9",
             "truncated": true,
@@ -9755,7 +9755,7 @@
         "id": 1138550383272292353,
         "id_str": "1138550383272292353",
         "lang": "en",
-        "retweet_count": 916,
+        "retweet_count": 917,
         "retweeted_status": {
             "created_at": "Tue Jun 11 14:30:46 +0000 2019",
             "favorite_count": 4638,
@@ -9767,7 +9767,7 @@
             "id": 1138453526034751493,
             "id_str": "1138453526034751493",
             "lang": "en",
-            "retweet_count": 916,
+            "retweet_count": 917,
             "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
             "text": "We're proud to announce we're partnering  with @NationalCouncil to expand #teenMHFA to 20 more schools this fall!\u2026 https://t.co/3Vpedwvzqc",
             "truncated": true,
@@ -9814,7 +9814,7 @@
     },
     {
         "created_at": "Thu May 30 01:06:25 +0000 2019",
-        "favorite_count": 37479,
+        "favorite_count": 37476,
         "hashtags": [
             {
                 "text": "HausOfGagaLV"
@@ -9823,7 +9823,7 @@
         "id": 1133902448681148416,
         "id_str": "1133902448681148416",
         "lang": "en",
-        "retweet_count": 8889,
+        "retweet_count": 8881,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "I\u2019m very excited to bring Haus history to Las Vegas at #HausOfGagaLV at @parkmgm curated by @formichetti! The exper\u2026 https://t.co/VvXMlBIn3e",
         "truncated": true,
@@ -9854,7 +9854,7 @@
     },
     {
         "created_at": "Thu May 23 21:30:22 +0000 2019",
-        "favorite_count": 29476,
+        "favorite_count": 29469,
         "hashtags": [
             {
                 "text": "HausOfGagaLV"
@@ -9924,7 +9924,7 @@
                 }
             }
         ],
-        "retweet_count": 5324,
+        "retweet_count": 5316,
         "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
         "text": "#HausOfGagaLV May 30th only at @parkmgm \ud83d\udc8b https://t.co/AOlq2iGZg2",
         "urls": [],
@@ -9943,7 +9943,7 @@
     },
     {
         "created_at": "Thu May 23 00:12:33 +0000 2019",
-        "favorite_count": 12848,
+        "favorite_count": 12847,
         "hashtags": [],
         "id": 1131352179221049344,
         "id_str": "1131352179221049344",
@@ -10044,7 +10044,7 @@
         },
         "quoted_status_id": 1131244292872126464,
         "quoted_status_id_str": "1131244292872126464",
-        "retweet_count": 1569,
+        "retweet_count": 1567,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "\ud83c\udfba See u in Vegas Brian! \u2660\ufe0f\u2665\ufe0f\u2663\ufe0f\u2666\ufe0f https://t.co/KGB86xMdGX",
         "urls": [
@@ -10068,7 +10068,7 @@
         "retweet_count": 1628,
         "retweeted_status": {
             "created_at": "Wed May 22 12:05:05 +0000 2019",
-            "favorite_count": 7410,
+            "favorite_count": 7408,
             "hashtags": [],
             "id": 1131169107150331906,
             "id_str": "1131169107150331906",
@@ -10148,15 +10148,15 @@
         "id": 1130596704846147584,
         "id_str": "1130596704846147584",
         "lang": "en",
-        "retweet_count": 2505,
+        "retweet_count": 2502,
         "retweeted_status": {
             "created_at": "Thu May 16 22:25:08 +0000 2019",
-            "favorite_count": 18816,
+            "favorite_count": 18818,
             "hashtags": [],
             "id": 1129150818907639808,
             "id_str": "1129150818907639808",
             "lang": "en",
-            "retweet_count": 2505,
+            "retweet_count": 2502,
             "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
             "text": "Congratulations to @ladygaga on her nomination for Best Performance In A Movie at this year\u2019s MTV Movie &amp; TV Awards\u2026 https://t.co/IiE5ECF6JX",
             "truncated": true,
@@ -10203,7 +10203,7 @@
     },
     {
         "created_at": "Mon May 20 20:59:08 +0000 2019",
-        "favorite_count": 19436,
+        "favorite_count": 19430,
         "hashtags": [],
         "id": 1130578727539052544,
         "id_str": "1130578727539052544",
@@ -10246,7 +10246,7 @@
         },
         "quoted_status_id": 1130421132404973569,
         "quoted_status_id_str": "1130421132404973569",
-        "retweet_count": 2623,
+        "retweet_count": 2620,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "I\u2019m so proud of @momgerm for being asked to serve as Goodwill Ambassador for @WHO. The goal of @btwfoundation is to\u2026 https://t.co/gVVTX59yeG",
         "truncated": true,
@@ -10283,7 +10283,7 @@
     },
     {
         "created_at": "Wed May 15 17:59:22 +0000 2019",
-        "favorite_count": 69741,
+        "favorite_count": 69721,
         "hashtags": [
             {
                 "text": "AlabamaAbortionBan"
@@ -10307,7 +10307,7 @@
         "id": 1128721548502691840,
         "id_str": "1128721548502691840",
         "lang": "en",
-        "retweet_count": 18429,
+        "retweet_count": 18418,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "#AlabamaAbortionBan #Alabama #AlabamaSenate #NoUterusNoOpinion #PlannedParenthood #ProChoice I love you Alabama pra\u2026 https://t.co/A7HQVGoMGA",
         "truncated": true,
@@ -10325,12 +10325,12 @@
     },
     {
         "created_at": "Sat May 11 00:22:30 +0000 2019",
-        "favorite_count": 40626,
+        "favorite_count": 40618,
         "hashtags": [],
         "id": 1127006026585133058,
         "id_str": "1127006026585133058",
         "lang": "en",
-        "retweet_count": 7560,
+        "retweet_count": 7551,
         "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
         "text": "\u201cCamp is a part of who we are. It\u2019s not something that we have to try to be.\u201d Watch the full video on\u2026 https://t.co/YuSILL1X64",
         "truncated": true,
@@ -10348,7 +10348,7 @@
     },
     {
         "created_at": "Tue May 07 04:24:51 +0000 2019",
-        "favorite_count": 46871,
+        "favorite_count": 46868,
         "hashtags": [
             {
                 "text": "METGALA"
@@ -10427,7 +10427,7 @@
                 "url": "https://t.co/PRTcxLCLtt"
             }
         ],
-        "retweet_count": 7859,
+        "retweet_count": 7852,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "#METGALA #METGAGA 4\ufe0f\u20e3\n\ud83d\udcf8 Jamie McCarthy, Dimitrios Kambouris @GettyImages https://t.co/PRTcxLCLtt",
         "urls": [],
@@ -10446,7 +10446,7 @@
     },
     {
         "created_at": "Tue May 07 04:24:49 +0000 2019",
-        "favorite_count": 45391,
+        "favorite_count": 45384,
         "hashtags": [
             {
                 "text": "METGALA"
@@ -10494,7 +10494,7 @@
                 "url": "https://t.co/Q0w9vS650h"
             }
         ],
-        "retweet_count": 7087,
+        "retweet_count": 7081,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "#METGALA #METGAGA 3\ufe0f\u20e3\n\ud83d\udcf8 John Shearer @GettyImages https://t.co/Q0w9vS650h",
         "urls": [],
@@ -10513,7 +10513,7 @@
     },
     {
         "created_at": "Tue May 07 04:24:47 +0000 2019",
-        "favorite_count": 15499,
+        "favorite_count": 15502,
         "hashtags": [
             {
                 "text": "METGALA"
@@ -10561,7 +10561,7 @@
                 "url": "https://t.co/UBFkfjt9HC"
             }
         ],
-        "retweet_count": 3641,
+        "retweet_count": 3636,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "#METGALA #METGAGA 2\ufe0f\u20e3\n\ud83d\udcf8 Dia Dipasupil @GettyImages https://t.co/UBFkfjt9HC",
         "urls": [],
@@ -10580,7 +10580,7 @@
     },
     {
         "created_at": "Tue May 07 04:24:45 +0000 2019",
-        "favorite_count": 91547,
+        "favorite_count": 91517,
         "hashtags": [
             {
                 "text": "METGALA"
@@ -10656,7 +10656,7 @@
                 "url": "https://t.co/CE4fBycUhX"
             }
         ],
-        "retweet_count": 15192,
+        "retweet_count": 15182,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "#METGALA #METGAGA 1\ufe0f\u20e3 https://t.co/CE4fBycUhX",
         "urls": [],
@@ -10668,7 +10668,7 @@
     },
     {
         "created_at": "Tue May 07 04:06:50 +0000 2019",
-        "favorite_count": 44152,
+        "favorite_count": 44147,
         "hashtags": [
             {
                 "text": "MetGala"
@@ -10761,7 +10761,7 @@
                     }
                 }
             ],
-            "retweet_count": 5723,
+            "retweet_count": 5722,
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "text": "Still can\u2019t seem to process how iconic @LadyGaga\u2019s appearance at the #METGala was. \ud83e\udd29 https://t.co/pdOq7QLq6m",
             "urls": [],
@@ -10780,7 +10780,7 @@
         },
         "quoted_status_id": 1125611545071742977,
         "quoted_status_id_str": "1125611545071742977",
-        "retweet_count": 7966,
+        "retweet_count": 7959,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "#MetGala #Fashion #Camp #SusanSontag #NotesOnCamp https://t.co/pEy4o3hzcr",
         "urls": [
@@ -10797,7 +10797,7 @@
     },
     {
         "created_at": "Tue May 07 03:57:11 +0000 2019",
-        "favorite_count": 97778,
+        "favorite_count": 97745,
         "hashtags": [
             {
                 "text": "MetGala"
@@ -10820,7 +10820,7 @@
         "lang": "en",
         "quoted_status": {
             "created_at": "Mon May 06 22:47:49 +0000 2019",
-            "favorite_count": 185574,
+            "favorite_count": 185512,
             "hashtags": [
                 {
                     "text": "MetGala"
@@ -10829,7 +10829,7 @@
             "id": 1125532650578567168,
             "id_str": "1125532650578567168",
             "lang": "en",
-            "retweet_count": 49604,
+            "retweet_count": 49582,
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "text": "this is INSANE! the power of fashion #MetGala https://t.co/fyx0VtD5ot",
             "urls": [
@@ -10846,7 +10846,7 @@
         },
         "quoted_status_id": 1125532650578567168,
         "quoted_status_id_str": "1125532650578567168",
-        "retweet_count": 20252,
+        "retweet_count": 20240,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "WERK! #MetGala #LadyGaga #Gaga #BrandonMaxwell #AnnaWintour https://t.co/lC5g8m0rzX",
         "urls": [
@@ -10863,7 +10863,7 @@
     },
     {
         "created_at": "Tue May 07 03:48:10 +0000 2019",
-        "favorite_count": 48496,
+        "favorite_count": 48483,
         "hashtags": [
             {
                 "text": "MetGala"
@@ -10886,7 +10886,7 @@
         "lang": "und",
         "quoted_status": {
             "created_at": "Mon May 06 22:05:38 +0000 2019",
-            "favorite_count": 28203,
+            "favorite_count": 28200,
             "hashtags": [],
             "id": 1125522033406881792,
             "id_str": "1125522033406881792",
@@ -10952,7 +10952,7 @@
                     }
                 }
             ],
-            "retweet_count": 6624,
+            "retweet_count": 6618,
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "text": "She aaaattteeee this  https://t.co/AfPKWBT8Sg",
             "urls": [],
@@ -10964,7 +10964,7 @@
         },
         "quoted_status_id": 1125522033406881792,
         "quoted_status_id_str": "1125522033406881792",
-        "retweet_count": 7862,
+        "retweet_count": 7856,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": ". @ladygaga X @Brandonmaxwell  #MetGala #fashion #camp #hausparty #hausofgaga https://t.co/RYXbAuhugy",
         "urls": [
@@ -10994,14 +10994,14 @@
     },
     {
         "created_at": "Mon May 06 19:37:11 +0000 2019",
-        "favorite_count": 55355,
+        "favorite_count": 55342,
         "hashtags": [],
         "id": 1125484672627150850,
         "id_str": "1125484672627150850",
         "lang": "en",
         "quoted_status": {
             "created_at": "Mon May 06 17:03:41 +0000 2019",
-            "favorite_count": 17028,
+            "favorite_count": 17023,
             "hashtags": [
                 {
                     "text": "METGaga"
@@ -11010,7 +11010,7 @@
             "id": 1125446044488171521,
             "id_str": "1125446044488171521",
             "lang": "en",
-            "retweet_count": 3895,
+            "retweet_count": 3893,
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "text": "Should I just use #METGaga bc we all know that\u2019s really what this is about",
             "urls": [],
@@ -11022,7 +11022,7 @@
         },
         "quoted_status_id": 1125446044488171521,
         "quoted_status_id_str": "1125446044488171521",
-        "retweet_count": 5833,
+        "retweet_count": 5824,
         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
         "text": "\ud83d\ude2d thank u Karlie see u tonight \ud83d\udc9e https://t.co/BpNO3dRmXd",
         "urls": [
@@ -11039,7 +11039,7 @@
     },
     {
         "created_at": "Tue Apr 30 00:06:10 +0000 2019",
-        "favorite_count": 32872,
+        "favorite_count": 32863,
         "hashtags": [
             {
                 "text": "MIGlobal"
@@ -11050,7 +11050,7 @@
         "lang": "en",
         "quoted_status": {
             "created_at": "Mon Apr 29 22:08:55 +0000 2019",
-            "favorite_count": 3076,
+            "favorite_count": 3072,
             "hashtags": [],
             "id": 1122986144449400833,
             "id_str": "1122986144449400833",
@@ -11073,7 +11073,7 @@
         },
         "quoted_status_id": 1122986144449400833,
         "quoted_status_id_str": "1122986144449400833",
-        "retweet_count": 4357,
+        "retweet_count": 4354,
         "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
         "text": "I\u2019m so proud of my mom for joining #MIGlobal this year with the mission of calling on ALL of us to speak more about\u2026 https://t.co/TV5SHB2ZJI",
         "truncated": true,
