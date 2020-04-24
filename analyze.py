@@ -1,7 +1,6 @@
 import pickle
 import os
 from datetime import datetime
-from twapi import get_tweet_timestamp
 from matplotlib.dates import date2num
 import matplotlib.pyplot as plt
 
@@ -9,6 +8,15 @@ import matplotlib.pyplot as plt
 TIMELINES = dict()
 NAMES = set()
 QUOTES = dict()
+
+
+def get_tweet_timestamp(tid):
+    """
+    Get timestamp from tweet id
+    """
+    offset = 1288834974657
+    tstamp = (tid >> 22) + offset
+    return math.floor(tstamp/1000)
 
 with open("twitter_users.txt") as user_list:
     for line in user_list.readlines():
