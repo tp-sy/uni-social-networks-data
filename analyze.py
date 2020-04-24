@@ -5,10 +5,14 @@ from matplotlib.dates import date2num
 import matplotlib.pyplot as plt
 
 
+# TIMELINES
+# { "username": [list of tweets],
+#    "username 2": [list of tweets]    
+# }
 TIMELINES = dict()
+# NAMES
+# list of user names
 NAMES = set()
-QUOTES = dict()
-
 
 def get_tweet_timestamp(tid):
     """
@@ -18,6 +22,10 @@ def get_tweet_timestamp(tid):
     tstamp = (tid >> 22) + offset
     return math.floor(tstamp/1000)
 
+# Create list of usernames from twitter_users.txt
+# Read user timelines into a dict {
+# "username": list of Status objects from twitter module    
+#}
 with open("twitter_users.txt") as user_list:
     for line in user_list.readlines():
         name = line.rstrip("\n")
@@ -33,6 +41,10 @@ with open("twitter_users.txt") as user_list:
 
 
 def retweets():
+    """
+    Parse twitter timelines into a list:
+    [(user, retweeted_user), ...]
+    """
     retweets = []
     for user, posts in TIMELINES.items():
         for post in posts:
@@ -43,6 +55,10 @@ def retweets():
 
 
 def replies():
+    """
+    Return list of replies parsed from user timelines
+    [(tweeter, reply_target), ...]
+    """
     replies = []
     for user, posts in TIMELINES.items():
         for post in posts:
@@ -53,6 +69,10 @@ def replies():
 
 
 def mentions():
+    """
+    return list of mentions parsed from user timelines
+    [(tweeter, mentioned_user), ...]
+    """
     mentions = []
     for user, posts in TIMELINES.items():
         for post in posts:
@@ -65,6 +85,10 @@ def mentions():
 
 
 def posts_per_day():
+    """
+    Calculate posts per date from all user timelines
+    return list of (timestamp, number of tweets) tuples
+    """
     ppp = dict()
     for user, posts in TIMELINES.items():
         for post in posts:
@@ -80,6 +104,14 @@ def posts_per_day():
 
 
 def posts_per_day_user():
+    """
+    Calculate posts per date from user tweets
+    return 
+    { "username": list of (timestamp, number of tweets) tuples,
+    ...
+    }
+
+    """
     pppu = dict()
     for user, posts in TIMELINES.items():
         for post in posts:
@@ -99,6 +131,9 @@ def posts_per_day_user():
 
 
 def plot_dates(data, discrete=True):
+    """
+    Plot tweets per date in the collected dataset
+    """
     data.sort()
     dates = [i[0] for i in data]
     vals = [i[1] for i in data]
@@ -119,6 +154,10 @@ def plot_dates(data, discrete=True):
 
 
 def plot_dates_user(data, discrete=True):
+    """
+    Plot tweets per date for each individual user into a separate
+    image
+    """
     lims_x = lims_y = (9999999999999999999999999999, 0)
     if not os.path.exists("per_user_graphs"):
         os.mkdir("per_user_graphs")
@@ -155,12 +194,11 @@ def plot_dates_user(data, discrete=True):
 
 
 
-# Retweets have source in the same field as "mentions"
-RETWEETS = retweets()
-MENTIONS = mentions()
-REPLIES = replies()
-POSTS_PER_DAY = posts_per_day()  # timestamp: num...
-POSTS_PER_DAY_USER = posts_per_day_user()  # user: {timestamp: num...}
+RETWEETS = retweets() # [(retweeter, target),...]
+MENTIONS = mentions() # [(tweeter, mention_target),...]
+REPLIES = replies() # [(tweeter, reply_target),...]
+POSTS_PER_DAY = posts_per_day()  # timestamp: number of tweets...
+POSTS_PER_DAY_USER = posts_per_day_user()  # user: {timestamp: number of tweets...}
 
 if __name__ == "__main__":
     plot_dates_user(POSTS_PER_DAY_USER)
