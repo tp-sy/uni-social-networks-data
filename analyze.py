@@ -16,6 +16,9 @@ TIMELINES = dict()
 # list of user names
 NAMES = set()
 
+
+
+
 def get_tweet_timestamp(tid):
     """
     Get timestamp from tweet id
@@ -42,6 +45,133 @@ with open("twitter_users.txt") as user_list:
         TIMELINES[name] = posts
 
 
+def calc_big_comp(graph, directed=True, multi=True):
+    """
+    Get a graph from the biggest component in the graph (one with most
+    connected nodes)
+    """
+    big_nodes = max(nx.weakly_connected_components(graph), key=len)
+    big_edges = []
+    for e in graph.edges():
+        if e[0] in big_nodes:
+            big_edges.append(e)
+    if directed and multi:
+        classn = nx.MultiDiGraph
+    elif directed:
+        classn = nx.DiGraph
+    elif multi:
+        classn = nx.MultiGraph
+    else:
+        classn = nx.Graph
+    return nxgraph(big_nodes, big_edges, classn)
+
+
+def calc_shortest_paths(g):
+    """
+    Calculate average and variance for shortest path length for graph
+    """
+    patlens = list()
+    read_paths = list()
+    for n, paths in dict(nx.shortest_path_length(g)).items():
+        for nt, l in paths.items():
+            if nt != n:
+                patlens.append(l)
+    variance = variance = np.var(patlens)
+    return sum(patlens)/len(patlens), variance
+
+
+def calc_in_degree_centrality(graph):
+    """
+    Calculate average and variance for in-degree centrality
+    """
+    in_deg = nx.in_degree_centrality(graph)
+    average = 0
+    variance = 0
+    total = 0
+    for node, c in in_deg.items():
+        total += c
+    average = total/len(in_deg)
+    variance = np.var([i for _, i in in_deg.items()])
+    return average, variance
+
+
+def calc_closeness_centrality(g):
+    """
+    Calculate average and variance for closeness centrality for graph
+    """
+    closeness = nx.closeness_centrality(g)
+    c_vals = [c for _, c in closeness.items()]
+    avg = sum(c_vals)/len(c_vals)
+    var = np.var(c_vals)
+    return avg, var
+
+
+def calc_betweenness_centrality(g):
+    """
+    Calculate average and variance for closeness centrality for graph
+    """
+    betweenness = nx.betweenness_centrality(g)
+    b_vals = [b for _, b in betweenness.items()]
+    avg = sum(b_vals)/len(b_vals)
+    var = np.var(b_vals)
+    return avg, var
+
+
+def calc_out_degree_centrality(graph):
+    """
+    Calculate average and variance for out-degree centrality
+    """
+    out_deg = nx.out_degree_centrality(graph)
+    average = 0
+    variance = 0
+    total = 0
+    for node, c in out_deg.items():
+        total += c
+    average = total/len(out_deg)
+    variance = np.var([i for _, i in out_deg.items()])
+    return average, variance
+
+
+def in_degree_distribution(g):
+    degrees = dict(g.in_degree())
+    return [d for _, d in degrees.items()]
+
+
+def out_degree_distribution(g):
+    degrees = dict(g.out_degree())
+    return [d for _, d in degrees.items()]
+
+
+def degree_pairs(dg):
+    dgd = dict()
+    for n in dg:
+        if n not in dgd:
+            dgd[n] = dg.count(n)
+    return [(j,i) for i,j in dgd.items()]
+
+
+def plot_in_degree_distribution(g):
+    """
+    Call "plt.show()" or "plt.savefig()" after calling this function
+    """
+    dg = degree_pairs(in_degree_distribution(g))
+    plt.clf()
+    plt.xscale("log")
+    plt.yscale("log")
+    plt.scatter(*zip(*dg))
+
+
+def plot_out_degree_distribution(g):
+    """
+    Call "plt.show()" or "plt.savefig()" after calling this function
+    """
+    dg = degree_pairs(out_degree_distribution(g))
+    plt.clf()
+    plt.xscale("log")
+    plt.yscale("log")
+    plt.scatter(*zip(*dg))
+		
+		
 def retweets():
     """
     Parse twitter timelines into a list:
